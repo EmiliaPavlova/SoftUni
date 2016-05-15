@@ -1,0 +1,9 @@
+IP=FE80:0000:0000:0000:0202:B3FF:FE1E:8329 message='Hey&son' user=mother
+IP=192.23.33.40 message='Hi&mom!' user=child0
+IP=192.23.30.40 message='Hi&from&me&too' user=child1
+IP=192.23.30.42 message='spam' user=destroyer
+IP=192.23.30.42 message='spam' user=destroyer
+IP=192.23.50.40 message='' user=yetAnotherUsername
+IP=192.23.50.40 message='comment' user=yetAnotherUsername
+IP=192.23.155.40 message='Hello.' user=unknown
+end

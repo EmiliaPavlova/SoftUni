@@ -1,0 +1,7 @@
+100 eggs
+110 eggs
+120 eggs
+130 eggs
+140 eggs
+150 eggs
+160 eggs

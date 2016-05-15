@@ -1,0 +1,7 @@
+345 eggs
+123 dozens
+456 eggs
+234 dozens
+567 eggs
+345 dozens
+678 eggs

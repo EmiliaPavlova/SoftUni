@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+        <html>
+        <head lang="en">
+            <meta charset="UTF-8">
+            <title>Webinar registration form</title>
+            <link rel="stylesheet" href="style.css">
+        </head>
+<body>
+<div id="wrapper">
+    <header>
+        <h1>Регистрация за уебинар</h1>
+    </header>
+    <form action="#" method="post">
+        <section>
+            <label for="name">Име и Фамилия:<span>*</span></label>
+            <input type="text" id="name" required="true" />
+        </section>
+        <section>
+            <label for="address">Адрес:</label>
+            <input type="text" id="address" />
+        </section>
+        <section>
+            <label for="city">Населено място:</label>
+            <input type="text" id="city" />
+        </section>
+        <section>
+            <label for="postCode">Пощенски код:</label>
+            <input type="text" id="postCode" />
+        </section>
+        <section>
+            <label for="email">Email:<span>*</span></label>
+            <input type="text" id="email" required="true" />
+        </section>
+        <section>
+            <label for="phone">Телефон:<span>*</span></label>
+            <input type="text" id="phone" required="true" />
+        </section>
+        <section>
+            <label for="date">Дата на семинара:<span>*</span></label>
+            <input type="date" id="date" required="true" />
+        </section>
+        <section class="check">
+            <input type="checkbox" id="invoice"  onclick="showFields('hidden', this)" />
+            <label for="invoice">Желая фактура</label>
+        </section>
+
+        <article id="hidden">
+            <section>
+                <label for="company">Фирма/Организация:<span>*</span></label>
+                <input type="text" id="company" required="true" />
+            </section>
+            <section>
+                <label for="mol">МОЛ:<span>*</span></label>
+                <input type="text" id="mol" required="true" />
+            </section>
+            <section>
+                <label for="eik">ЕИК:<span>*</span></label>
+                <input type="text" id="eik" required="true" />
+            </section>
+            <section>
+                <label for="dds">ИН по ДДС:<span>*</span></label>
+                <input type="text" id="dds" required="true" />
+            </section>
+            <section>
+                <label for="companyAddress">Адрес:<span>*</span></label>
+                <input type="text" id="companyAddress" required="true" />
+            </section>
+        </article>
+
+        <section class="submit">
+            <input type="submit" value="Регистрирай се" />
+            <input type="reset" value="Изчисти" />
+        </section>
+
+        <script src="invoiceData.js"></script>
+    </form>
+</div>
+</body>
+</html>

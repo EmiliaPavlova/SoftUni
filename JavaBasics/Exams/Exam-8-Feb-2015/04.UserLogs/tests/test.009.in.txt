@@ -1,0 +1,21 @@
+IP=192.239.500.123 message='spam' user=destroyer
+IP=192.239.500.123 message='spam' user=nasko
+IP=192.239.500.123 message='spam' user=destroyer
+IP=192.239.500.123 message='spam' user=nasko
+IP=192.239.500.123 message='spam' user=hello
+IP=192.239.500.123 message='spam' user=mario
+IP=192.239.500.123 message='spam' user=mario
+IP=192.239.500.123 message='spam' user=destroyer
+IP=192.239.500.123 message='spam' user=borko
+IP=192.239.500.123 message='spam' user=destroyer
+IP=192.239.500.123 message='spam' user=krasi
+IP=192.239.500.123 message='spam' user=destroyer
+IP=192.239.500.123 message='spam' user=mario
+IP=192.239.500.123 message='spam' user=destroyer
+IP=192.239.500.123 message='spam' user=mitko
+IP=192.239.500.123 message='spam' user=destroyer
+IP=192.239.500.123 message='spam' user=destroyer
+IP=192.239.500.123 message='spam' user=destroyer
+IP=192.239.500.123 message='spam' user=mario
+IP=2001:0000:5ef5:79fd:8aa:9D2:3f57:860a message='spam' user=asshole
+end

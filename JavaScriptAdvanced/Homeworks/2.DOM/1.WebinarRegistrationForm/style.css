@@ -1,0 +1,64 @@
+body, section, input, label, h1 {
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+    margin: 0 auto;
+    padding: 10px;
+    width: 400px;
+    height: 570px;
+    background-color: #FFF7F0;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    border: 1px solid lightgray;
+    position: relative;
+}
+
+h1 {
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 24px;
+}
+
+section {
+    margin: 0 70px;
+    width: 260px;
+    height: 40px;
+    display: block;
+}
+
+.check {
+    height: 25px;
+}
+
+.submit {
+    position: absolute;
+    top: 564px;
+    left: 10px;
+}
+
+#hidden {
+    display: none;
+}
+
+input {
+    width: 240px;
+}
+
+input[type="checkbox"] {
+    width: 16px;
+    height: 20px;
+    vertical-align: bottom;
+}
+
+input[type="submit"],
+input[type="reset"] {
+    padding: 0 19px;
+    width: auto;
+    font-size: 14px;
+}
+
+span {
+    color: red;
+}

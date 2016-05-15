@@ -1,0 +1,3 @@
+SoftUni: paper-600, chair-40, printer-1
+Vivacom: pen-600, chair-200
+XS: chair-60

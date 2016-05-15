@@ -1,0 +1,14 @@
+form > div,
+input[type='text'] {
+    padding: 2px;
+    width: 175px;
+    height: 25px;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    border: 1px solid lightgray;
+    display: block;
+}
+
+input[type='button'] {
+    font-size: 20px;
+}

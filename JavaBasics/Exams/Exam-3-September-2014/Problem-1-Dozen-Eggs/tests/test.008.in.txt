@@ -1,0 +1,7 @@
+30 eggs
+10 dozens
+31 eggs
+11 dozens
+32 eggs
+12 dozens
+33 eggs

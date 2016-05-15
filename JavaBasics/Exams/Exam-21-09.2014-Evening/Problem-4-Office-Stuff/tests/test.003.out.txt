@@ -1,0 +1,4 @@
+domo: paper-350
+homo: longs-315
+somo: fish-400
+tomo: mouse-285

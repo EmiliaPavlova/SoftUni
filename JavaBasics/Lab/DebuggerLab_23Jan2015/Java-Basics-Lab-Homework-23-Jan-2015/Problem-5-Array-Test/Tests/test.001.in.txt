@@ -1,0 +1,6 @@
+3
+0 2000000000 100
+lshift
+lshift
+add 3 50
+stop

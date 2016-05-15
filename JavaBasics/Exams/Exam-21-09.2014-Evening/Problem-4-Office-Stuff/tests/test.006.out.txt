@@ -1,0 +1,5 @@
+SBTech: brains-400
+SmartIt: brains-250
+SoftUni: sapuna-250
+SuperHosting: servers-500
+Vivacom: developera-500

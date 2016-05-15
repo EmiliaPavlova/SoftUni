@@ -1,0 +1,6 @@
+5
+|SoftUni - 200 - desk|
+|SoftUni - 40 - PC|
+|SoftUni - 200 - desk|
+|SoftUni - 600 - paper|
+|SoftUni - 600 - textbook|

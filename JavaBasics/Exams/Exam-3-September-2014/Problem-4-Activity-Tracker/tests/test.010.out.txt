@@ -1,0 +1,4 @@
+5: Angel(141393), Gosho(182489), Nakov(170489), Pesho(185793)
+6: Angel(115793), Gosho(166289), Nakov(154289), Pesho(160193)
+7: Angel(130193), Gosho(168489), Nakov(156489), Pesho(174593)
+8: Angel(139393), Gosho(175889), Nakov(163889), Pesho(183793)

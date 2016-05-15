@@ -1,0 +1,3 @@
+SoftFunny: pens-30, desks-160, printers-70, paper-90, chair-130
+Vivacom: pens-30, desks-160, printers-70, paper-90, chair-130
+XS: pens-30, desks-160, printers-70, paper-90, chair-130

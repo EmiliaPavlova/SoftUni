@@ -1,0 +1,3 @@
+require(['factory'], function (app) {
+
+});
