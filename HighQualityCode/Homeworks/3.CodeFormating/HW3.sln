@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.ReformatCode", "1.ReformatCode\1.ReformatCode.csproj", "{9B7C9C5C-C070-4855-A068-93FC7E26FE2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ReformattedOwnCode", "2.ReformattedOwnCode\2.ReformattedOwnCode.csproj", "{80C4BD54-E7FE-4948-8801-78AFCFFC288B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.OwnCode", "3.OwnCode\3.OwnCode.csproj", "{9C1ECB45-F8E9-4D80-8706-424A19B155B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B7C9C5C-C070-4855-A068-93FC7E26FE2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B7C9C5C-C070-4855-A068-93FC7E26FE2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B7C9C5C-C070-4855-A068-93FC7E26FE2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B7C9C5C-C070-4855-A068-93FC7E26FE2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80C4BD54-E7FE-4948-8801-78AFCFFC288B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80C4BD54-E7FE-4948-8801-78AFCFFC288B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80C4BD54-E7FE-4948-8801-78AFCFFC288B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80C4BD54-E7FE-4948-8801-78AFCFFC288B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C1ECB45-F8E9-4D80-8706-424A19B155B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C1ECB45-F8E9-4D80-8706-424A19B155B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C1ECB45-F8E9-4D80-8706-424A19B155B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C1ECB45-F8E9-4D80-8706-424A19B155B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

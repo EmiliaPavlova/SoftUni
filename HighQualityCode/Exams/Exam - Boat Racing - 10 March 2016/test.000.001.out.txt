@@ -1,0 +1,12 @@
+Engine model GPH01 with 250 HP and displacement 100 cm3 created successfully.
+Engine model GPH02 with 150 HP and displacement 150 cm3 created successfully.
+Row boat with model Rower15 registered successfully.
+Power boat with model PB150 registered successfully.
+Sail boat with model SailBoatPro registered successfully.
+A new race with distance 1000 meters, wind speed 10 m/s and ocean current speed 5 m/s has been set.
+Boat with model SailBoatPro has signed up for the current Race.
+Boat with model Rower15 has signed up for the current Race.
+Boat with model PB150 has signed up for the current Race.
+First place: PowerBoat Model: PB150 Time: 2.85 sec
+Second place: RowBoat Model: Rower15 Time: 6.45 sec
+Third place: SailBoat Model: SailBoatPro Time: Did not finish!

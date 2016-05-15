@@ -1,0 +1,14 @@
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\QueryTheDatabase\bin\Debug\QueryTheDatabase.exe.config
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\QueryTheDatabase\bin\Debug\QueryTheDatabase.exe
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\QueryTheDatabase\bin\Debug\QueryTheDatabase.pdb
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\QueryTheDatabase\bin\Debug\EntityFramework.dll
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\QueryTheDatabase\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\QueryTheDatabase\bin\Debug\MovieDatabase.dll
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\QueryTheDatabase\bin\Debug\Newtonsoft.Json.dll
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\QueryTheDatabase\bin\Debug\MovieDatabase.pdb
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\QueryTheDatabase\bin\Debug\EntityFramework.xml
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\QueryTheDatabase\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\QueryTheDatabase\bin\Debug\Newtonsoft.Json.xml
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\QueryTheDatabase\obj\Debug\6. Query-the-Database.csprojResolveAssemblyReference.cache
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\QueryTheDatabase\obj\Debug\QueryTheDatabase.exe
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\QueryTheDatabase\obj\Debug\QueryTheDatabase.pdb

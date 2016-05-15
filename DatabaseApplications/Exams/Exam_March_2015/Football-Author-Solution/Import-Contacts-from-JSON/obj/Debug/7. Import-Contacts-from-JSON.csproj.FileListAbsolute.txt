@@ -1,0 +1,2 @@
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Import-Contacts-from-JSON\bin\Debug\Import-Contacts-from-JSON.exe.config
+D:\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Import-Contacts-from-JSON\bin\Debug\Import-Contacts-from-JSON.exe.config

@@ -1,0 +1,9 @@
+Problem 2.	Which are the Main Functions Performed by a RDBMS?
+Perform a research (e.g. Google or Wikipedia) and provide an information about the relational database management systems and their main functions. 
+
+
+A relational database management system (RDBMS) is a database management system (DBMS) that is based on the relational model. In the relational model of a database, all data is represented in terms of tuples, grouped into relations. 
+
+The purpose of the relational model is to provide a declarative method for specifying data and queries: users directly state what information the database contains and what information they want from it, and let the database management system software take care of describing data structures for storing the data and retrieval procedures for answering queries.
+
+Most relational databases use the SQL data definition and query language; these systems implement what can be regarded as an engineering approximation to the relational model.

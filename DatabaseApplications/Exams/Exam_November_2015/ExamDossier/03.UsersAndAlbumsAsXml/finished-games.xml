@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user id="3" birth-date="1982-02-09T00:00:00">
+    <album name="Mobile" description="Mobile uploads">
+      <photographs>
+        <photograph title="Best Photo Ever" />
+        <photograph title="Tilma Lek" />
+        <photograph title="Sitting on a tree..." />
+      </photographs>
+    </album>
+    <album name="SoftUni Teambuilding" description="Special contributions">
+      <photographs>
+        <photograph title="They are coming" />
+        <photograph title="Sitting on a tree..." />
+        <photograph title="Time of poets" />
+      </photographs>
+    </album>
+    <album name="The little things in my life" description="Unforgettable moments...">
+      <photographs>
+        <photograph title="Time of poets" />
+        <photograph title="Angel eyes" />
+        <photograph title="I dont want you to go!" />
+      </photographs>
+    </album>
+    <camera model="XQ1" lens="AF-S Nikkor 600mm f/4G ED VR" megapixels="14" />
+  </user>
+  <user id="2" birth-date="1988-08-18T00:00:00">
+    <album name="OpenFest 2014" description="OpenFest - Sofia, 1-Nov-2014 University education in the IT sector - problems and solutions">
+      <photographs>
+        <photograph title="Fields of Gold" />
+        <photograph title="Best Photo Ever" />
+        <photograph title="Tilma Lek" />
+        <photograph title="They are coming" />
+        <photograph title="Time of poets" />
+      </photographs>
+    </album>
+    <album name="Digital Kids Conference - 1 Nov 2014">
+      <photographs />
+    </album>
+    <album name="VarnaConf 2013" description="Programming and technology conferences">
+      <photographs />
+    </album>
+    <camera model="XQ2" lens="AF Nikkor 24-85mm f/2.8-4D IF" megapixels="12" />
+  </user>
+  <user id="1" birth-date="1983-04-17T00:00:00">
+    <album name="New Year 2015">
+      <photographs />
+    </album>
+    <album name="SoftUni Conf May 2014">
+      <photographs />
+    </album>
+    <album name="Software University Team Building GrandFinale">
+      <photographs />
+    </album>
+    <camera model="EOS 750D" lens="EF 17-40mm f/4.0L USM" megapixels="24" />
+  </user>
+</users>

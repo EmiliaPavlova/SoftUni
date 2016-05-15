@@ -1,0 +1,7 @@
+Problem 2. What is Transact-SQL (T-SQL)?
+
+Transact SQL (T-SQL) is an extension to the standard SQL language used as standard in MS SQL Server. It supports if statements, loops, exceptions.
+T-SQL is designed for writing logic inside the database:
+- Database stored procedures
+- Database functions
+- Database triggers

@@ -1,0 +1,8 @@
+Problem 4.	Difference between a Primary and Foreign Key
+Perform a research (e.g. Google or Wikipedia) and provide an information about primary and foreign keys in the RDBMS Systems. What is the primary key? Why do we need it? What is the foreign key? What is the purpose of foreign keys? What is the difference between a primary and foreign key? Write in a text file called “difference-primary-foreign-key.txt”.
+
+
+A primary key is the key that is allowed to migrate to other entities to define the relationships that exist among the entities. When the data model is instantiated into a physical database, it is the key that the system uses the most when accessing the table, or joining the tables together when selecting data. It uniquely specifies a tuple within a table. In order for an attribute to be a good primary key it must not repeat.
+
+A foreign key is a field in a relational table that matches the primary key column of another table. The foreign key can be used to cross-reference tables. Foreign keys need not have unique values in the referencing relation. Foreign keys effectively use the values of attributes in the referenced relation to restrict the domain of one or more attributes in the referencing relation.
+

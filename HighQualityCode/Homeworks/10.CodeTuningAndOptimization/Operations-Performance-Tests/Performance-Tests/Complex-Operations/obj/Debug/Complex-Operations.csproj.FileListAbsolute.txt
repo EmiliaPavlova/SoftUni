@@ -1,0 +1,1 @@
+D:\SoftUni\HQC\All HW HQC\10. Code-Tuning-and-Optimization-Homework\02.Operations-Performance-Tests\Performance-Tests\Complex-Operations\bin\Debug\Complex-Operations.exe.config

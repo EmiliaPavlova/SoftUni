@@ -1,0 +1,5 @@
+Problem 3.	Define What is “Table” in Database Terms
+Perform a research (e.g. Google or Wikipedia) and provide an information about database table. What is table? How information is stored in tables? What is the difference between tables and relations? Write in a text file called “table.txt”.
+
+
+A table is a collection of related data held in a structured format within a database. It consists of fields (columns), and rows. A table is usually a multiset (bag) of rows where a relation is a set and does not allow duplicates. Besides the actual data rows, tables generally have associated with them some metadata, such as constraints on the table or on the values within particular columns

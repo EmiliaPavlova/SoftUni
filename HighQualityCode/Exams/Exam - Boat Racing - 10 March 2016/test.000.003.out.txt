@@ -1,0 +1,20 @@
+Engine model Engine1 with 100 HP and displacement 100 cm3 created successfully.
+Engine model Engine2 with 150 HP and displacement 100 cm3 created successfully.
+Sail boat with model ExampleSailBoat registered successfully.
+Row boat with model ExampleRowBoat registered successfully.
+Row boat with model ExampleRowBoat2 registered successfully.
+Power boat with model ExamplePowerBoat registered successfully.
+Yacht with model ExampleYacht registered successfully.
+A new race with distance 100 meters, wind speed 10 m/s and ocean current speed 5 m/s has been set.
+Boat with model ExampleSailBoat has signed up for the current Race.
+Boat with model ExampleRowBoat has signed up for the current Race.
+Boat with model ExampleRowBoat2 has signed up for the current Race.
+Boat with model ExamplePowerBoat has signed up for the current Race.
+Boat with model ExampleYacht has signed up for the current Race.
+PowerBoat -> 20.00%
+RowBoat -> 40.00%
+SailBoat -> 20.00%
+Yacht -> 20.00%
+First place: PowerBoat Model: ExamplePowerBoat Time: 0.12 sec
+Second place: RowBoat Model: ExampleRowBoat2 Time: 0.21 sec
+Third place: RowBoat Model: ExampleRowBoat Time: 0.33 sec

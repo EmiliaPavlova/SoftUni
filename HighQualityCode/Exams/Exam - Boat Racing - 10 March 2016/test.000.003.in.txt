@@ -1,0 +1,15 @@
+CreateBoatEngine\Engine1\100\100\Sterndrive
+CreateBoatEngine\Engine2\150\100\Jet
+CreateSailBoat\ExampleSailBoat\50\90
+CreateRowBoat\ExampleRowBoat\100\4
+CreateRowBoat\ExampleRowBoat2\120\6
+CreatePowerBoat\ExamplePowerBoat\800\Engine1\Engine2
+CreateYacht\ExampleYacht\700\Engine2\150
+OpenRace\100\10\5\true
+SignUpBoat\ExampleSailBoat
+SignUpBoat\ExampleRowBoat
+SignUpBoat\ExampleRowBoat2
+SignUpBoat\ExamplePowerBoat
+SignUpBoat\ExampleYacht
+GetStatistic
+StartRace

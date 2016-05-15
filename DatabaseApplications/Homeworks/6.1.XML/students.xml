@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="StudentsXSLstylesheet.xsl"?>
+<students xmlns = "urn:students">
+  <student>
+    <name>Anna</name>
+    <gender>female</gender>
+    <birthDate>1995-05-23</birthDate>
+    <phoneNumber>0123456789</phoneNumber>
+    <email>anna@email.com</email>
+    <university>SoftUni</university>
+    <specialty>IT Engineer</specialty>
+    <facultyNumber>01</facultyNumber>
+    <exams>
+      <exam>
+        <name>C#</name>
+        <date>2015-03-26</date>
+        <grade>6</grade>
+      </exam>
+      <exam>
+        <name>Java Basics</name>
+        <date>2015-04-30</date>
+        <grade>6</grade>
+      </exam>
+      <exam>
+        <name>JavaScript Basics</name>
+        <date>2015-05-28</date>
+        <grade>4</grade>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Barry</name>
+    <gender>male</gender>
+    <birthDate>1993-01-05</birthDate>
+    <phoneNumber>0987654321</phoneNumber>
+    <email>barry@email.com</email>
+    <university>SoftUni</university>
+    <specialty>IT Engineer</specialty>
+    <facultyNumber>02</facultyNumber>
+    <exams>
+      <exam>
+        <name>C#</name>
+        <date>2015-03-26</date>
+        <grade>6</grade>
+      </exam>
+      <exam>
+        <name>Java Basics</name>
+        <date>2015-04-30</date>
+        <grade>5</grade>
+      </exam>
+      <exam>
+        <name>JavaScript Basics</name>
+        <date>2015-05-28</date>
+        <grade>6</grade>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Mark</name>
+    <gender>male</gender>
+    <birthDate>2001-12-07</birthDate>
+    <phoneNumber>0111222333</phoneNumber>
+    <email>mark@email.com</email>
+    <university>SoftUni</university>
+    <specialty>IT Engineer</specialty>
+    <facultyNumber>03</facultyNumber>
+    <exams>
+      <exam>
+        <name>C#</name>
+        <date>2015-03-26</date>
+        <grade>6</grade>
+      </exam>
+      <exam>
+        <name>Java Basics</name>
+        <date>2015-04-30</date>
+        <grade>6</grade>
+      </exam>
+      <exam>
+        <name>JavaScript Basics</name>
+        <date>2015-05-28</date>
+        <grade>6</grade>
+      </exam>
+    </exams>
+    <endorsements>
+      <endorsement>
+        <author>John</author>
+        <authorEmail>john@email.com</authorEmail>
+        <endorsementDate>2015-07-29</endorsementDate>
+        <endorsementText>Some text</endorsementText>
+      </endorsement>
+    </endorsements>
+  </student>
+</students>

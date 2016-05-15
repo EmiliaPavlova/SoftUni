@@ -1,0 +1,2 @@
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Generate-Random-Matches\bin\Debug\Generate-Random-Matches.exe.config
+D:\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Generate-Random-Matches\bin\Debug\Generate-Random-Matches.exe.config

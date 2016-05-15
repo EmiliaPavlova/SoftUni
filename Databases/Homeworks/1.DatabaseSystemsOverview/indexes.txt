@@ -1,0 +1,19 @@
+Problem 9.	Pros and Cons of Using Indexes in a Database?
+Perform a research (e.g. Google or Wikipedia) and provide an information about database indexes. What is index? What indexing methods exist? What is clustered index? What is B-Tree? What is column-store index? What is full-text search index? What is spatial index? What are the pros and cons of using indexes?
+
+
+A database index is a data structure that improves the speed of data retrieval operations on a database table at the cost of additional writes and storage space to maintain the index data structure. Indexes are used to quickly locate data without having to search every row in a database table every time a database table is accessed.
+
+Indexing methods:
+
+- Clustered index - Clustering alters the data block into a certain distinct order to match the index, resulting in the row data being stored in order. Therefore, only one clustered index can be created on a given database table. Clustered indices can greatly increase overall speed of retrieval, but usually only where the data is accessed sequentially in the same or reverse order of the clustered index, or when a range of items is selected.
+
+- B-Tree -  a B-tree is a tree data structure that keeps data sorted and allows searches, sequential access, insertions, and deletions in logarithmic time. The B-tree is a generalization of a binary search tree in that a node can have more than two children. The B-tree is optimized for systems that read and write large blocks of data. B-trees are a good example of a data structure for external memory. It is commonly used in databases and filesystems.
+
+- Column-store index - a technology for storing, retrieving and managing data by using a columnar data format, called a columnstore. It can provide a very high level of data compression, typically 10x, to reduce your data warehouse storage cost significantly. 
+
+- Full-text search index - used by the Full-Text Engine to compile full-text queries that can quickly search a table for particular words or combinations of words. A full-text index stores information about significant words and their location within one or more columns of a database table. A full-text index is a special type of token-based functional index that is built and maintained by the Full-Text Engine for SQL Server. 
+
+- Spatial index - Spatial indices are used by spatial databases (databases which store information related to objects in space) to optimize spatial queries. Conventional index types do not efficiently handle spatial queries such as how far two points differ, or whether points fall within a spatial area of interest.
+
+Indexes allow quick access to a database table specific information. Disadvantage is that too index will affect the speed of update and insert, because it requires the same update each index file. They increase the disk space requirements of the database.

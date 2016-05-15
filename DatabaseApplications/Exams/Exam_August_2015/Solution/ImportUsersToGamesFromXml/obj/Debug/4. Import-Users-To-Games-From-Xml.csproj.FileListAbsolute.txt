@@ -1,0 +1,12 @@
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\ImportUsersToGamesFromXml\bin\Debug\_4.ImportFromXml.exe.config
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\ImportUsersToGamesFromXml\bin\Debug\_4.ImportFromXml.exe
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\ImportUsersToGamesFromXml\bin\Debug\_4.ImportFromXml.pdb
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\ImportUsersToGamesFromXml\bin\Debug\Diablo.exe
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\ImportUsersToGamesFromXml\bin\Debug\EntityFramework.dll
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\ImportUsersToGamesFromXml\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\ImportUsersToGamesFromXml\bin\Debug\Diablo.pdb
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\ImportUsersToGamesFromXml\bin\Debug\EntityFramework.xml
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\ImportUsersToGamesFromXml\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\ImportUsersToGamesFromXml\obj\Debug\4. Import-Users-To-Games-From-Xml.csprojResolveAssemblyReference.cache
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\ImportUsersToGamesFromXml\obj\Debug\_4.ImportFromXml.exe
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\ImportUsersToGamesFromXml\obj\Debug\_4.ImportFromXml.pdb

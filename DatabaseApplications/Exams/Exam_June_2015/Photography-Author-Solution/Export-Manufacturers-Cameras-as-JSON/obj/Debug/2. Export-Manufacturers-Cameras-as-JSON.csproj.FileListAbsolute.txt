@@ -1,0 +1,2 @@
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Export-Manufacturers-Cameras-as-JSON\bin\Debug\Export-Manufacturers-Cameras-as-JSON.exe.config
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Export-Manufacturers-Cameras-as-JSON\bin\Debug\Export-Manufacturers-Cameras-as-JSON.exe.config

@@ -1,0 +1,10 @@
+Problem 1. What is SQL? What is DML? What is DDL? Recite the most important SQL commands.
+
+Structured Query Language (SQL) is a special-purpose programming language designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS). It consists of:
+Data Manipulation Language (DML) - a family of syntax elements similar to a computer programming language used for selecting, inserting, deleting and updating data in a database.
+	- SELECT, INSERT, UPDATE, DELETE
+Data Definition Language (DDL)
+	- CREATE, DROP, ALTER
+Data Control Language (DCL)
+	- GRANT, REVOKE
+

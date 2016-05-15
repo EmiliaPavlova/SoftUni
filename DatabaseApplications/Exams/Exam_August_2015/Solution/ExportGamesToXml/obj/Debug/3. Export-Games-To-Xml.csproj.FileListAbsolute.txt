@@ -1,0 +1,1 @@
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\ExportGamesToXml\bin\Debug\3.exe.config

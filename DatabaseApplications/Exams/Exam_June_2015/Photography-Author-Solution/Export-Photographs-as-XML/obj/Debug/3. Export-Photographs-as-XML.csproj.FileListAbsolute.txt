@@ -1,0 +1,15 @@
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Export-Photographs-as-XML\bin\Debug\Export-Photographs-as-XML.exe.config
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Export-Photographs-as-XML\bin\Debug\Export-Photographs-as-XML.exe
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Export-Photographs-as-XML\bin\Debug\Export-Photographs-as-XML.pdb
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Export-Photographs-as-XML\bin\Debug\EntityFramework.dll
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Export-Photographs-as-XML\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Export-Photographs-as-XML\bin\Debug\Photography-EF-Data-Model.exe
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Export-Photographs-as-XML\bin\Debug\Photography-EF-Data-Model.pdb
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Export-Photographs-as-XML\bin\Debug\EntityFramework.xml
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Export-Photographs-as-XML\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Export-Photographs-as-XML\obj\Debug\3. Export-Photographs-as-XML.csprojResolveAssemblyReference.cache
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Export-Photographs-as-XML\obj\Debug\Export-Photographs-as-XML.exe
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Export-Photographs-as-XML\obj\Debug\Export-Photographs-as-XML.pdb
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Export-Photographs-as-XML\bin\Debug\Export-Photographs-as-XML.exe.config
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Export-Photographs-as-XML\obj\Debug\Export-Photographs-as-XML.exe
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Export-Photographs-as-XML\obj\Debug\Export-Photographs-as-XML.pdb

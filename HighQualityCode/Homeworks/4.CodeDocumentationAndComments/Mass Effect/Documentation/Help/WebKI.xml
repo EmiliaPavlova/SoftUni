@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="AddEnhancement method" Url="html/9f171347-3de0-30df-26ad-0a091e5766b0.htm" />
+  <HelpKINode Title="CommandManager property" Url="html/e9adba2f-4d27-499f-8e50-aae3f1640750.htm" />
+  <HelpKINode Title="Damage property">
+    <HelpKINode Title="IProjectile.Damage Property " Url="html/3a1dcb6c-eec1-0f55-5009-e10d939023b0.htm" />
+    <HelpKINode Title="IStarship.Damage Property " Url="html/ff32ddcd-bc42-bd66-2fde-af37149add86.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Engine property" Url="html/c879464b-4f69-06bf-e485-aaa08b19643f.htm" />
+  <HelpKINode Title="EnhancementFactory property" Url="html/8ff74e97-98ae-30a0-474c-80838b9e52c5.htm" />
+  <HelpKINode Title="Enhancements property" Url="html/f9c4c12b-3586-55d3-1d39-89d131c98633.htm" />
+  <HelpKINode Title="Fuel property" Url="html/c2496b39-2005-bf86-ca7d-9d2175d50e1a.htm" />
+  <HelpKINode Title="Galaxy property" Url="html/652f28a0-b134-d1bd-59ab-c7328b5540aa.htm" />
+  <HelpKINode Title="Health property" Url="html/3dd8631f-6e93-a516-8ec2-40da087c4be6.htm" />
+  <HelpKINode Title="Hit method" Url="html/3aab7f4f-ba24-c9f3-e3c1-3396cc345e71.htm" />
+  <HelpKINode Title="ICommandManager interface">
+    <HelpKINode Title="ICommandManager Interface" Url="html/a3f6c323-1789-d8e7-a62d-a0a5a7e9040c.htm" />
+    <HelpKINode Title="about ICommandManager interface" Url="html/a3f6c323-1789-d8e7-a62d-a0a5a7e9040c.htm" />
+    <HelpKINode Title="methods" Url="html/0cc564c8-2b2f-d45d-e7f8-f97792fca48b.htm" />
+    <HelpKINode Title="properties" Url="html/0fdae8b7-1bbc-af90-a58e-e4c93654b671.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICommandManager.Engine property" Url="html/c879464b-4f69-06bf-e485-aaa08b19643f.htm" />
+  <HelpKINode Title="ICommandManager.ProcessCommand method" Url="html/79c3c9e4-e715-8494-1d45-5911cf32b17d.htm" />
+  <HelpKINode Title="ICommandManager.SeedCommands method" Url="html/1aefa315-2ce5-78d1-aa09-1b9f28926336.htm" />
+  <HelpKINode Title="IEnhanceable interface">
+    <HelpKINode Title="IEnhanceable Interface" Url="html/acd7a314-d9e2-9c4a-595f-ce4819588d21.htm" />
+    <HelpKINode Title="about IEnhanceable interface" Url="html/acd7a314-d9e2-9c4a-595f-ce4819588d21.htm" />
+    <HelpKINode Title="methods" Url="html/70f0be81-d10d-a44f-a0e6-b1f8df9f508c.htm" />
+    <HelpKINode Title="properties" Url="html/2e2d805a-be32-181e-d1ec-ba1f5345289b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IEnhanceable.AddEnhancement method" Url="html/9f171347-3de0-30df-26ad-0a091e5766b0.htm" />
+  <HelpKINode Title="IEnhanceable.Enhancements property" Url="html/f9c4c12b-3586-55d3-1d39-89d131c98633.htm" />
+  <HelpKINode Title="IGameEngine interface">
+    <HelpKINode Title="IGameEngine Interface" Url="html/2a325f39-53a0-ffac-4f10-130621b9a4c7.htm" />
+    <HelpKINode Title="about IGameEngine interface" Url="html/2a325f39-53a0-ffac-4f10-130621b9a4c7.htm" />
+    <HelpKINode Title="methods" Url="html/c4431390-570b-dbeb-2be4-c54717e806c3.htm" />
+    <HelpKINode Title="properties" Url="html/94a20fe8-727b-3334-673c-97388328efa0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IGameEngine.CommandManager property" Url="html/e9adba2f-4d27-499f-8e50-aae3f1640750.htm" />
+  <HelpKINode Title="IGameEngine.EnhancementFactory property" Url="html/8ff74e97-98ae-30a0-474c-80838b9e52c5.htm" />
+  <HelpKINode Title="IGameEngine.Galaxy property" Url="html/652f28a0-b134-d1bd-59ab-c7328b5540aa.htm" />
+  <HelpKINode Title="IGameEngine.IsRunning property" Url="html/f28111ed-abf1-da3c-3849-bf2aa007d989.htm" />
+  <HelpKINode Title="IGameEngine.Run method" Url="html/816dc30f-6de7-2f5b-5826-27bd5a7c6c2a.htm" />
+  <HelpKINode Title="IGameEngine.ShipFactory property" Url="html/fb6a658e-1201-1b6d-79bb-45f7221ab33f.htm" />
+  <HelpKINode Title="IGameEngine.Starships property" Url="html/9e20db6a-06ee-f7c1-2e16-5aa94d020753.htm" />
+  <HelpKINode Title="IProjectile interface">
+    <HelpKINode Title="IProjectile Interface" Url="html/2f3d95de-a262-ed90-12e6-07c1928bdc89.htm" />
+    <HelpKINode Title="about IProjectile interface" Url="html/2f3d95de-a262-ed90-12e6-07c1928bdc89.htm" />
+    <HelpKINode Title="methods" Url="html/6ecde16a-90b0-4d3c-2b80-3b36f1cd0c87.htm" />
+    <HelpKINode Title="properties" Url="html/4a281c80-a8a4-f19c-7f06-2377bd1b05e3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IProjectile.Damage property" Url="html/3a1dcb6c-eec1-0f55-5009-e10d939023b0.htm" />
+  <HelpKINode Title="IProjectile.Hit method" Url="html/3aab7f4f-ba24-c9f3-e3c1-3396cc345e71.htm" />
+  <HelpKINode Title="IsRunning property" Url="html/f28111ed-abf1-da3c-3849-bf2aa007d989.htm" />
+  <HelpKINode Title="IStarship interface">
+    <HelpKINode Title="IStarship Interface" Url="html/e9371f5c-9f2f-1369-3477-52b8afedbac3.htm" />
+    <HelpKINode Title="about IStarship interface" Url="html/e9371f5c-9f2f-1369-3477-52b8afedbac3.htm" />
+    <HelpKINode Title="methods" Url="html/d901724e-3ce0-fe8a-a81e-b4a9d4cecb64.htm" />
+    <HelpKINode Title="properties" Url="html/3797112b-b4a3-0de4-aaff-61e6f7dcdf65.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IStarship.Damage property" Url="html/ff32ddcd-bc42-bd66-2fde-af37149add86.htm" />
+  <HelpKINode Title="IStarship.Fuel property" Url="html/c2496b39-2005-bf86-ca7d-9d2175d50e1a.htm" />
+  <HelpKINode Title="IStarship.Health property" Url="html/3dd8631f-6e93-a516-8ec2-40da087c4be6.htm" />
+  <HelpKINode Title="IStarship.Location property" Url="html/d189711e-5820-9f6d-e690-4511f88b5eb6.htm" />
+  <HelpKINode Title="IStarship.Name property" Url="html/50052c39-a0aa-88c0-247d-41b1dd5a446e.htm" />
+  <HelpKINode Title="IStarship.ProduceAttack method" Url="html/aafdd253-7904-c914-58c7-cb3638532dfb.htm" />
+  <HelpKINode Title="IStarship.RespondToAttack method" Url="html/b650834e-da64-7811-be94-1cfbf8b95ec3.htm" />
+  <HelpKINode Title="IStarship.Shields property" Url="html/8c5d732f-a54f-9b96-4acd-e9d064ede2e1.htm" />
+  <HelpKINode Title="Location property" Url="html/d189711e-5820-9f6d-e690-4511f88b5eb6.htm" />
+  <HelpKINode Title="MassEffect.Interfaces namespace" Url="html/024003a5-78c7-a2ff-fe57-d47adb666353.htm" />
+  <HelpKINode Title="MassEffect.Interfaces.ICommandManager interface" Url="html/a3f6c323-1789-d8e7-a62d-a0a5a7e9040c.htm" />
+  <HelpKINode Title="MassEffect.Interfaces.IEnhanceable interface" Url="html/acd7a314-d9e2-9c4a-595f-ce4819588d21.htm" />
+  <HelpKINode Title="MassEffect.Interfaces.IGameEngine interface" Url="html/2a325f39-53a0-ffac-4f10-130621b9a4c7.htm" />
+  <HelpKINode Title="MassEffect.Interfaces.IProjectile interface" Url="html/2f3d95de-a262-ed90-12e6-07c1928bdc89.htm" />
+  <HelpKINode Title="MassEffect.Interfaces.IStarship interface" Url="html/e9371f5c-9f2f-1369-3477-52b8afedbac3.htm" />
+  <HelpKINode Title="Name property" Url="html/50052c39-a0aa-88c0-247d-41b1dd5a446e.htm" />
+  <HelpKINode Title="ProcessCommand method" Url="html/79c3c9e4-e715-8494-1d45-5911cf32b17d.htm" />
+  <HelpKINode Title="ProduceAttack method" Url="html/aafdd253-7904-c914-58c7-cb3638532dfb.htm" />
+  <HelpKINode Title="RespondToAttack method" Url="html/b650834e-da64-7811-be94-1cfbf8b95ec3.htm" />
+  <HelpKINode Title="Run method" Url="html/816dc30f-6de7-2f5b-5826-27bd5a7c6c2a.htm" />
+  <HelpKINode Title="SeedCommands method" Url="html/1aefa315-2ce5-78d1-aa09-1b9f28926336.htm" />
+  <HelpKINode Title="Shields property" Url="html/8c5d732f-a54f-9b96-4acd-e9d064ede2e1.htm" />
+  <HelpKINode Title="ShipFactory property" Url="html/fb6a658e-1201-1b6d-79bb-45f7221ab33f.htm" />
+  <HelpKINode Title="Starships property" Url="html/9e20db6a-06ee-f7c1-2e16-5aa94d020753.htm" />
+</HelpKI>

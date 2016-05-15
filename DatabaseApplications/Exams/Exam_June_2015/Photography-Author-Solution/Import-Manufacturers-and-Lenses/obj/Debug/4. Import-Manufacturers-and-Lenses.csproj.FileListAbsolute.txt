@@ -1,0 +1,15 @@
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-Manufacturers-and-Lenses\bin\Debug\Import-Manufacturers-and-Lenses.exe.config
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-Manufacturers-and-Lenses\bin\Debug\Import-Manufacturers-and-Lenses.exe
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-Manufacturers-and-Lenses\bin\Debug\Import-Manufacturers-and-Lenses.pdb
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-Manufacturers-and-Lenses\bin\Debug\EntityFramework.dll
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-Manufacturers-and-Lenses\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-Manufacturers-and-Lenses\bin\Debug\Photography-EF-Data-Model.exe
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-Manufacturers-and-Lenses\bin\Debug\Photography-EF-Data-Model.pdb
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-Manufacturers-and-Lenses\bin\Debug\EntityFramework.xml
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-Manufacturers-and-Lenses\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-Manufacturers-and-Lenses\obj\Debug\4. Import-Manufacturers-and-Lenses.csprojResolveAssemblyReference.cache
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-Manufacturers-and-Lenses\obj\Debug\Import-Manufacturers-and-Lenses.exe
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-Manufacturers-and-Lenses\obj\Debug\Import-Manufacturers-and-Lenses.pdb
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-Manufacturers-and-Lenses\bin\Debug\Import-Manufacturers-and-Lenses.exe.config
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-Manufacturers-and-Lenses\obj\Debug\Import-Manufacturers-and-Lenses.exe
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-Manufacturers-and-Lenses\obj\Debug\Import-Manufacturers-and-Lenses.pdb

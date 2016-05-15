@@ -1,0 +1,14 @@
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\ImportDataIntoMoviesDb\bin\Debug\MovieDbDataGenerator.exe.config
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\ImportDataIntoMoviesDb\bin\Debug\MovieDbDataGenerator.exe
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\ImportDataIntoMoviesDb\bin\Debug\MovieDbDataGenerator.pdb
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\ImportDataIntoMoviesDb\bin\Debug\EntityFramework.dll
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\ImportDataIntoMoviesDb\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\ImportDataIntoMoviesDb\bin\Debug\MovieDatabase.dll
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\ImportDataIntoMoviesDb\bin\Debug\Newtonsoft.Json.dll
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\ImportDataIntoMoviesDb\bin\Debug\MovieDatabase.pdb
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\ImportDataIntoMoviesDb\bin\Debug\EntityFramework.xml
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\ImportDataIntoMoviesDb\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\ImportDataIntoMoviesDb\bin\Debug\Newtonsoft.Json.xml
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\ImportDataIntoMoviesDb\obj\Debug\5.1 Import-Data-into-Movie-Database.csprojResolveAssemblyReference.cache
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\ImportDataIntoMoviesDb\obj\Debug\MovieDbDataGenerator.exe
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\ImportDataIntoMoviesDb\obj\Debug\MovieDbDataGenerator.pdb

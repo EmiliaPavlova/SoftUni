@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="74fac72b-39ac-4d6d-846b-fb940818cc99" Title="MassEffect.Interfaces" Url="html/024003a5-78c7-a2ff-fe57-d47adb666353.htm">
+    <HelpTOCNode Id="4b3654c8-f75c-4f6f-91ea-2be8d087d213" Title="ICommandManager Interface" Url="html/a3f6c323-1789-d8e7-a62d-a0a5a7e9040c.htm">
+      <HelpTOCNode Id="716a7fbe-fd02-4060-b4aa-eb89867cf717" Title="ICommandManager Methods" Url="html/0cc564c8-2b2f-d45d-e7f8-f97792fca48b.htm">
+        <HelpTOCNode Title="ProcessCommand Method " Url="html/79c3c9e4-e715-8494-1d45-5911cf32b17d.htm" />
+        <HelpTOCNode Title="SeedCommands Method " Url="html/1aefa315-2ce5-78d1-aa09-1b9f28926336.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b2b08594-d7c3-4060-b51f-65b6768d2a29" Title="ICommandManager Properties" Url="html/0fdae8b7-1bbc-af90-a58e-e4c93654b671.htm">
+        <HelpTOCNode Title="Engine Property " Url="html/c879464b-4f69-06bf-e485-aaa08b19643f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ea70d2a6-8186-46ef-b310-f1f09f12300c" Title="IEnhanceable Interface" Url="html/acd7a314-d9e2-9c4a-595f-ce4819588d21.htm">
+      <HelpTOCNode Id="d6de8ce7-4cde-4758-b522-2de70da3e066" Title="IEnhanceable Methods" Url="html/70f0be81-d10d-a44f-a0e6-b1f8df9f508c.htm">
+        <HelpTOCNode Title="AddEnhancement Method " Url="html/9f171347-3de0-30df-26ad-0a091e5766b0.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d12e0d7f-3d88-49c6-80cf-bc8220c72a89" Title="IEnhanceable Properties" Url="html/2e2d805a-be32-181e-d1ec-ba1f5345289b.htm">
+        <HelpTOCNode Title="Enhancements Property " Url="html/f9c4c12b-3586-55d3-1d39-89d131c98633.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7090622c-b9a0-4ec8-b55b-a8b1637dcb94" Title="IGameEngine Interface" Url="html/2a325f39-53a0-ffac-4f10-130621b9a4c7.htm">
+      <HelpTOCNode Id="73512abe-f346-45c5-8cdd-54a5e19713d8" Title="IGameEngine Methods" Url="html/c4431390-570b-dbeb-2be4-c54717e806c3.htm">
+        <HelpTOCNode Title="Run Method " Url="html/816dc30f-6de7-2f5b-5826-27bd5a7c6c2a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5d8511ec-6b83-43e8-abac-46b315c5ab27" Title="IGameEngine Properties" Url="html/94a20fe8-727b-3334-673c-97388328efa0.htm">
+        <HelpTOCNode Title="CommandManager Property " Url="html/e9adba2f-4d27-499f-8e50-aae3f1640750.htm" />
+        <HelpTOCNode Title="EnhancementFactory Property " Url="html/8ff74e97-98ae-30a0-474c-80838b9e52c5.htm" />
+        <HelpTOCNode Title="Galaxy Property " Url="html/652f28a0-b134-d1bd-59ab-c7328b5540aa.htm" />
+        <HelpTOCNode Title="IsRunning Property " Url="html/f28111ed-abf1-da3c-3849-bf2aa007d989.htm" />
+        <HelpTOCNode Title="ShipFactory Property " Url="html/fb6a658e-1201-1b6d-79bb-45f7221ab33f.htm" />
+        <HelpTOCNode Title="Starships Property " Url="html/9e20db6a-06ee-f7c1-2e16-5aa94d020753.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="006e5f49-3b40-44fe-8a51-bec254f6a57a" Title="IProjectile Interface" Url="html/2f3d95de-a262-ed90-12e6-07c1928bdc89.htm">
+      <HelpTOCNode Id="499bd746-2709-4d27-a384-7171602fa2fc" Title="IProjectile Methods" Url="html/6ecde16a-90b0-4d3c-2b80-3b36f1cd0c87.htm">
+        <HelpTOCNode Title="Hit Method " Url="html/3aab7f4f-ba24-c9f3-e3c1-3396cc345e71.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="44b1f622-be3f-4d7a-8888-4a7bc3521579" Title="IProjectile Properties" Url="html/4a281c80-a8a4-f19c-7f06-2377bd1b05e3.htm">
+        <HelpTOCNode Title="Damage Property " Url="html/3a1dcb6c-eec1-0f55-5009-e10d939023b0.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="822678e0-402c-43fc-9652-e3a6f540b07f" Title="IStarship Interface" Url="html/e9371f5c-9f2f-1369-3477-52b8afedbac3.htm">
+      <HelpTOCNode Id="b24bca6b-f63e-4d5f-a50e-bbc8b008a7bf" Title="IStarship Methods" Url="html/d901724e-3ce0-fe8a-a81e-b4a9d4cecb64.htm">
+        <HelpTOCNode Title="ProduceAttack Method " Url="html/aafdd253-7904-c914-58c7-cb3638532dfb.htm" />
+        <HelpTOCNode Title="RespondToAttack Method " Url="html/b650834e-da64-7811-be94-1cfbf8b95ec3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="80736560-21d5-439d-817f-7be1507e8c0c" Title="IStarship Properties" Url="html/3797112b-b4a3-0de4-aaff-61e6f7dcdf65.htm">
+        <HelpTOCNode Title="Damage Property " Url="html/ff32ddcd-bc42-bd66-2fde-af37149add86.htm" />
+        <HelpTOCNode Title="Fuel Property " Url="html/c2496b39-2005-bf86-ca7d-9d2175d50e1a.htm" />
+        <HelpTOCNode Title="Health Property " Url="html/3dd8631f-6e93-a516-8ec2-40da087c4be6.htm" />
+        <HelpTOCNode Title="Location Property " Url="html/d189711e-5820-9f6d-e690-4511f88b5eb6.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/50052c39-a0aa-88c0-247d-41b1dd5a446e.htm" />
+        <HelpTOCNode Title="Shields Property " Url="html/8c5d732f-a54f-9b96-4acd-e9d064ede2e1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

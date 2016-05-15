@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Photography.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Albums">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="Description" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="AlbumsPhotographs">
+    <Key>
+      <PropertyRef Name="AlbumId" />
+      <PropertyRef Name="PhotographId" />
+    </Key>
+    <Property Name="AlbumId" Type="int" Nullable="false" />
+    <Property Name="PhotographId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Cameras">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ManufacturerId" Type="int" Nullable="false" />
+    <Property Name="Model" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Year" Type="int" Nullable="false" />
+    <Property Name="Price" Type="money" />
+    <Property Name="Megapixels" Type="int" />
+  </EntityType>
+  <EntityType Name="Categories">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Equipments">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="LensId" Type="int" />
+    <Property Name="CameraId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Lenses">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ManufacturerId" Type="int" Nullable="false" />
+    <Property Name="Model" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Type" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Price" Type="money" />
+  </EntityType>
+  <EntityType Name="Manufacturers">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Photographs">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Title" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Description" Type="nvarchar" MaxLength="100" />
+    <Property Name="CategoryId" Type="int" Nullable="false" />
+    <Property Name="EquipmentId" Type="int" Nullable="false" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="Link" Type="nvarchar" MaxLength="250" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Username" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="FullName" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="BirthDate" Type="datetime" Nullable="false" />
+    <Property Name="EquipmentId" Type="int" />
+  </EntityType>
+  <Association Name="FK_Albums_Users">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Albums" Type="Self.Albums" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Albums">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_AlbumsPhotographs_Albums">
+    <End Role="Albums" Type="Self.Albums" Multiplicity="1" />
+    <End Role="AlbumsPhotographs" Type="Self.AlbumsPhotographs" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Albums">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="AlbumsPhotographs">
+        <PropertyRef Name="AlbumId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_AlbumsPhotographs_Photographs">
+    <End Role="Photographs" Type="Self.Photographs" Multiplicity="1" />
+    <End Role="AlbumsPhotographs" Type="Self.AlbumsPhotographs" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Photographs">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="AlbumsPhotographs">
+        <PropertyRef Name="PhotographId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Cameras_Manufacturers">
+    <End Role="Manufacturers" Type="Self.Manufacturers" Multiplicity="1" />
+    <End Role="Cameras" Type="Self.Cameras" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Manufacturers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Cameras">
+        <PropertyRef Name="ManufacturerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Equipments_Cameras">
+    <End Role="Cameras" Type="Self.Cameras" Multiplicity="1" />
+    <End Role="Equipments" Type="Self.Equipments" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cameras">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Equipments">
+        <PropertyRef Name="CameraId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Equipments_Lenses">
+    <End Role="Lenses" Type="Self.Lenses" Multiplicity="0..1" />
+    <End Role="Equipments" Type="Self.Equipments" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Lenses">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Equipments">
+        <PropertyRef Name="LensId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Lenses_Manufacturers">
+    <End Role="Manufacturers" Type="Self.Manufacturers" Multiplicity="1" />
+    <End Role="Lenses" Type="Self.Lenses" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Manufacturers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Lenses">
+        <PropertyRef Name="ManufacturerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Photographs_Categories">
+    <End Role="Categories" Type="Self.Categories" Multiplicity="1" />
+    <End Role="Photographs" Type="Self.Photographs" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categories">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Photographs">
+        <PropertyRef Name="CategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Photographs_Equipments">
+    <End Role="Equipments" Type="Self.Equipments" Multiplicity="1" />
+    <End Role="Photographs" Type="Self.Photographs" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Equipments">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Photographs">
+        <PropertyRef Name="EquipmentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Photographs_Users">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Photographs" Type="Self.Photographs" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Photographs">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Users_Equipments">
+    <End Role="Equipments" Type="Self.Equipments" Multiplicity="0..1" />
+    <End Role="Users" Type="Self.Users" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Equipments">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Users">
+        <PropertyRef Name="EquipmentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="fn_diagramobjects" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="int" />
+  <Function Name="sp_alterdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_creatediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_dropdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagramdefinition" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_renamediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="new_diagramname" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="sp_upgraddiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <EntityContainer Name="PhotographyStoreContainer">
+    <EntitySet Name="Albums" EntityType="Self.Albums" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AlbumsPhotographs" EntityType="Self.AlbumsPhotographs" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Cameras" EntityType="Self.Cameras" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Categories" EntityType="Self.Categories" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Equipments" EntityType="Self.Equipments" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Lenses" EntityType="Self.Lenses" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Manufacturers" EntityType="Self.Manufacturers" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Photographs" EntityType="Self.Photographs" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Albums_Users" Association="Self.FK_Albums_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Albums" EntitySet="Albums" />
+    </AssociationSet>
+    <AssociationSet Name="FK_AlbumsPhotographs_Albums" Association="Self.FK_AlbumsPhotographs_Albums">
+      <End Role="Albums" EntitySet="Albums" />
+      <End Role="AlbumsPhotographs" EntitySet="AlbumsPhotographs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_AlbumsPhotographs_Photographs" Association="Self.FK_AlbumsPhotographs_Photographs">
+      <End Role="Photographs" EntitySet="Photographs" />
+      <End Role="AlbumsPhotographs" EntitySet="AlbumsPhotographs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Cameras_Manufacturers" Association="Self.FK_Cameras_Manufacturers">
+      <End Role="Manufacturers" EntitySet="Manufacturers" />
+      <End Role="Cameras" EntitySet="Cameras" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Equipments_Cameras" Association="Self.FK_Equipments_Cameras">
+      <End Role="Cameras" EntitySet="Cameras" />
+      <End Role="Equipments" EntitySet="Equipments" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Equipments_Lenses" Association="Self.FK_Equipments_Lenses">
+      <End Role="Lenses" EntitySet="Lenses" />
+      <End Role="Equipments" EntitySet="Equipments" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Lenses_Manufacturers" Association="Self.FK_Lenses_Manufacturers">
+      <End Role="Manufacturers" EntitySet="Manufacturers" />
+      <End Role="Lenses" EntitySet="Lenses" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Photographs_Categories" Association="Self.FK_Photographs_Categories">
+      <End Role="Categories" EntitySet="Categories" />
+      <End Role="Photographs" EntitySet="Photographs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Photographs_Equipments" Association="Self.FK_Photographs_Equipments">
+      <End Role="Equipments" EntitySet="Equipments" />
+      <End Role="Photographs" EntitySet="Photographs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Photographs_Users" Association="Self.FK_Photographs_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Photographs" EntitySet="Photographs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Users_Equipments" Association="Self.FK_Users_Equipments">
+      <End Role="Equipments" EntitySet="Equipments" />
+      <End Role="Users" EntitySet="Users" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

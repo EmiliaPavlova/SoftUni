@@ -1,0 +1,17 @@
+Problem 8.	Database Integrity Constraints
+Explain the database integrity constraints. What are the constraint types? When are they used? Provide definition for all of them (primary key constraint, unique key constraint, foreign key constraint, others). Write in a text file called “integrity-constraints.txt”.
+
+
+Integrity constraints provide a mechanism for ensuring that data conforms to guidelines specified by the database administrator. The most common types of constraints include:
+
+- UNIQUE constraints - to ensure that a given column is unique
+
+- NOT NULL constraints - to ensure that no null values are allowed
+
+- FOREIGN KEY constraints - to ensure that two keys share a primary key to foreign key relationship
+
+Constraints can be used for these purposes in a data warehouse:
+
+- Data cleanliness - they verify that the data in the data warehouse conforms to a basic level of data consistency and correctness, preventing the introduction of dirty data.
+
+- Query optimization - The Oracle Database utilizes constraints when optimizing SQL queries. Although constraints can be useful in many aspects of query optimization, constraints are particularly important for query rewrite of materialized views.

@@ -1,0 +1,10 @@
+CreateBoatEngine\GPH01\250\100\Jet
+CreateBoatEngine\GPH02\150\150\Sterndrive
+CreateRowBoat\Rower15\450\6
+CreatePowerBoat\PB150\2200\GPH01\GPH02
+CreateSailBoat\SailBoatPro\200\98
+OpenRace\1000\10\5\true
+SignUpBoat\SailBoatPro
+SignUpBoat\Rower15
+SignUpBoat\PB150
+StartRace

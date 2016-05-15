@@ -1,0 +1,20 @@
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Football-EF-Data-Model\bin\Debug\Football-EF-Data-Model.exe.config
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Football-EF-Data-Model\bin\Debug\Football-EF-Data-Model.exe
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Football-EF-Data-Model\bin\Debug\Football-EF-Data-Model.pdb
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Football-EF-Data-Model\bin\Debug\EntityFramework.dll
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Football-EF-Data-Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Football-EF-Data-Model\bin\Debug\EntityFramework.xml
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Football-EF-Data-Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Football-EF-Data-Model\obj\Debug\1. Football-EF-Data-Model.csprojResolveAssemblyReference.cache
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Football-EF-Data-Model\obj\Debug\Football-EF-Data-Model.exe
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Football-EF-Data-Model\obj\Debug\Football-EF-Data-Model.pdb
+D:\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Football-EF-Data-Model\bin\Debug\Football-EF-Data-Model.exe.config
+D:\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Football-EF-Data-Model\obj\Debug\Football-EF-Data-Model.exe
+D:\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Football-EF-Data-Model\obj\Debug\Football-EF-Data-Model.pdb
+D:\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Football-EF-Data-Model\bin\Debug\Football-EF-Data-Model.exe
+D:\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Football-EF-Data-Model\bin\Debug\Football-EF-Data-Model.pdb
+D:\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Football-EF-Data-Model\bin\Debug\EntityFramework.dll
+D:\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Football-EF-Data-Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Football-EF-Data-Model\bin\Debug\EntityFramework.xml
+D:\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Football-EF-Data-Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Football-EF-Data-Model\obj\Debug\1. Football-EF-Data-Model.csprojResolveAssemblyReference.cache

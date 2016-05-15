@@ -1,0 +1,21 @@
+Engine model SI20 with 200 HP and displacement 100 cm3 created successfully.
+Engine model SI10 with 300 HP and displacement 200 cm3 created successfully.
+Row boat with model MasterRower10 registered successfully.
+Oars must be a positive integer.
+There is currently no race set.
+Row boat with model MasterRower11 registered successfully.
+Power boat with model Turbo220 registered successfully.
+Yacht with model Luxury101 registered successfully.
+There is currently no race set.
+Sail boat with model SailBoatPro registered successfully.
+A new race with distance 1500 meters, wind speed 150 m/s and ocean current speed 10 m/s has been set.
+Boat with model SailBoatPro has signed up for the current Race.
+The specified boat does not meet the race constraints.
+The current race has already been set.
+Not enough contestants for the race.
+Boat with model MasterRower11 has signed up for the current Race.
+Boat with model MasterRower10 has signed up for the current Race.
+The specified boat does not meet the race constraints.
+First place: RowBoat Model: MasterRower11 Time: 7.14 sec
+Second place: RowBoat Model: MasterRower10 Time: 7.14 sec
+Third place: SailBoat Model: SailBoatPro Time: 20.83 sec

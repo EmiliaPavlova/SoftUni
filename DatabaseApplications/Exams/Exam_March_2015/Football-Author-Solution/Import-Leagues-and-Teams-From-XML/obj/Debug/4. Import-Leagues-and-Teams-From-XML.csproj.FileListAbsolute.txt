@@ -1,0 +1,2 @@
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Import-Leagues-and-Teams-From-XML\bin\Debug\Import-Leagues-and-Teams-From-XML.exe.config
+D:\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Import-Leagues-and-Teams-From-XML\bin\Debug\Import-Leagues-and-Teams-From-XML.exe.config

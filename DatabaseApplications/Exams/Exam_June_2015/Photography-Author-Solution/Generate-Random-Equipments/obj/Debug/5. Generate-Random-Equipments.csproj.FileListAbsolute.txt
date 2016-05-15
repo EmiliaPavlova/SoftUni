@@ -1,0 +1,12 @@
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Generate-Random-Equipments\bin\Debug\Generate-Random-Equipments.exe.config
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Generate-Random-Equipments\bin\Debug\Generate-Random-Equipments.exe
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Generate-Random-Equipments\bin\Debug\Generate-Random-Equipments.pdb
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Generate-Random-Equipments\bin\Debug\EntityFramework.dll
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Generate-Random-Equipments\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Generate-Random-Equipments\bin\Debug\Photography-EF-Data-Model.exe
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Generate-Random-Equipments\bin\Debug\Photography-EF-Data-Model.pdb
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Generate-Random-Equipments\bin\Debug\EntityFramework.xml
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Generate-Random-Equipments\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Generate-Random-Equipments\obj\Debug\5. Generate-Random-Equipments.csprojResolveAssemblyReference.cache
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Generate-Random-Equipments\obj\Debug\Generate-Random-Equipments.exe
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Generate-Random-Equipments\obj\Debug\Generate-Random-Equipments.pdb

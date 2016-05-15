@@ -1,0 +1,14 @@
+Problem 5.	Relationships between Tables in Relational Databases
+Perform a research (e.g. Google or Wikipedia) and provide an information about table relationships in relational databases. Provide more information about every relationship type (one-to-many, many-to-many, many-to-one, one-to-one, others). Write in a text file called “table-relationships.txt”. 
+
+
+There are 3 types of table relationships:
+1. One-to-one relationships
+2. One-to-many relationships
+3. Many-to-many relationships
+
+In a one-to-one relationship, each row in one database table is linked to one and only one other row in another table. In a one-to-one relationship between Table A and Table B, each row in Table A is linked to another row in Table B. The number of rows in Table A must equal the number of rows in Table B.
+
+In a one-to-many relationship, each row in the related to table can be related to many rows in the relating table. This effectively save storage as the related record does not need to be stored multiple times in the relating table.
+
+In a many-to-many relationship, one or more rows in a table can be related to 0, 1 or many rows in another table. A mapping table is required in order to implement such a relationship

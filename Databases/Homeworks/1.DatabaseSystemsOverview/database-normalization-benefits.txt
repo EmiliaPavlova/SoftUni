@@ -1,0 +1,15 @@
+Problem 7.	Advantages of Normalized Databases
+Perform a research (e.g. Google or Wikipedia) and find an information about the benefits of database normalization. Write in a text file called “database-normalization.txt”.
+
+
+- Provide indexing
+When the developer creates a primary key constraint, SQL Server will automatically create a unique clustered index on the column(s) for which the constraint has been created. A clustered index is created if no other clustered index has been defined for the table. In most cases, the creation of a clustered index will speed up data access and may increase insert, update, and delete performance.
+
+- Minimize modification anomalies
+Modification anomalies arise when data is inserted, updated, or deleted, and information is lost in unexpected ways. 
+
+- Reduce table/row size
+Removing duplicate data will conserve disk space and increase the amount of row space available for other fields. 
+
+- Enforce referential integrity
+

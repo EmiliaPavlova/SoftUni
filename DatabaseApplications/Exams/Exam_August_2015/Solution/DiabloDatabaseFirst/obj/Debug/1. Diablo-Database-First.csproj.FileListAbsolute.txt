@@ -1,0 +1,10 @@
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\DiabloDatabaseFirst\bin\Debug\Diablo.exe.config
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\DiabloDatabaseFirst\bin\Debug\Diablo.exe
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\DiabloDatabaseFirst\bin\Debug\Diablo.pdb
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\DiabloDatabaseFirst\bin\Debug\EntityFramework.dll
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\DiabloDatabaseFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\DiabloDatabaseFirst\bin\Debug\EntityFramework.xml
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\DiabloDatabaseFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\DiabloDatabaseFirst\obj\Debug\1. Diablo-Database-First.csprojResolveAssemblyReference.cache
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\DiabloDatabaseFirst\obj\Debug\Diablo.exe
+D:\SoftUni\DatabaseApplications\Exam_August_2015\Solution\DiabloDatabaseFirst\obj\Debug\Diablo.pdb

@@ -1,0 +1,13 @@
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Photography-EF-Data-Model\bin\Debug\Photography-EF-Data-Model.exe.config
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Photography-EF-Data-Model\bin\Debug\Photography-EF-Data-Model.exe
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Photography-EF-Data-Model\bin\Debug\Photography-EF-Data-Model.pdb
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Photography-EF-Data-Model\bin\Debug\EntityFramework.dll
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Photography-EF-Data-Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Photography-EF-Data-Model\bin\Debug\EntityFramework.xml
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Photography-EF-Data-Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Photography-EF-Data-Model\obj\Debug\1. Photography-EF-Data-Model.csprojResolveAssemblyReference.cache
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Photography-EF-Data-Model\obj\Debug\Photography-EF-Data-Model.exe
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Photography-EF-Data-Model\obj\Debug\Photography-EF-Data-Model.pdb
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Photography-EF-Data-Model\bin\Debug\Photography-EF-Data-Model.exe.config
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Photography-EF-Data-Model\obj\Debug\Photography-EF-Data-Model.exe
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Photography-EF-Data-Model\obj\Debug\Photography-EF-Data-Model.pdb

@@ -1,0 +1,24 @@
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-User-Messages-from-Json\bin\Debug\Import-User-Messages-from-Json.exe.config
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-User-Messages-from-Json\bin\Debug\Import-User-Messages-from-Json.exe
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-User-Messages-from-Json\bin\Debug\Import-User-Messages-from-Json.pdb
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-User-Messages-from-Json\bin\Debug\EF-Code-First.exe
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-User-Messages-from-Json\bin\Debug\EntityFramework.dll
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-User-Messages-from-Json\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-User-Messages-from-Json\bin\Debug\EF-Code-First.pdb
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-User-Messages-from-Json\bin\Debug\EntityFramework.xml
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-User-Messages-from-Json\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-User-Messages-from-Json\obj\Debug\7. Import-User-Messages-from-Json.csprojResolveAssemblyReference.cache
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-User-Messages-from-Json\obj\Debug\Import-User-Messages-from-Json.exe
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-User-Messages-from-Json\obj\Debug\Import-User-Messages-from-Json.pdb
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-User-Messages-from-Json\bin\Debug\Import-User-Messages-from-Json.exe.config
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-User-Messages-from-Json\obj\Debug\Import-User-Messages-from-Json.exe
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-User-Messages-from-Json\obj\Debug\Import-User-Messages-from-Json.pdb
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-User-Messages-from-Json\bin\Debug\Import-User-Messages-from-Json.exe
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-User-Messages-from-Json\bin\Debug\Import-User-Messages-from-Json.pdb
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-User-Messages-from-Json\bin\Debug\EF-Code-First.exe
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-User-Messages-from-Json\bin\Debug\EntityFramework.dll
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-User-Messages-from-Json\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-User-Messages-from-Json\bin\Debug\EF-Code-First.pdb
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-User-Messages-from-Json\bin\Debug\EntityFramework.xml
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-User-Messages-from-Json\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\Import-User-Messages-from-Json\obj\Debug\7. Import-User-Messages-from-Json.csprojResolveAssemblyReference.cache

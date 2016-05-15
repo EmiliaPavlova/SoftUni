@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4c01265f334e4aa2b7ad74415a358698" Name="Diagram1">
+        <EntityTypeShape EntityType="Photography.Album" Width="1.5" PointX="9.75" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Photography.Camera" Width="1.5" PointX="3" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Photography.Category" Width="1.5" PointX="9.75" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Photography.Equipment" Width="1.5" PointX="5.25" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Photography.Lens" Width="1.5" PointX="3" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Photography.Manufacturer" Width="1.5" PointX="0.75" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Photography.Photograph" Width="1.5" PointX="12" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Photography.sysdiagram" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Photography.User" Width="1.5" PointX="7.5" PointY="8.625" IsExpanded="true" />
+        <AssociationConnector Association="Photography.FK_Albums_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="Photography.FK_Cameras_Manufacturers" ManuallyRouted="false" />
+        <AssociationConnector Association="Photography.FK_Equipments_Cameras" ManuallyRouted="false" />
+        <AssociationConnector Association="Photography.FK_Photographs_Categories" ManuallyRouted="false" />
+        <AssociationConnector Association="Photography.FK_Equipments_Lenses" ManuallyRouted="false" />
+        <AssociationConnector Association="Photography.FK_Photographs_Equipments" ManuallyRouted="false" />
+        <AssociationConnector Association="Photography.FK_Users_Equipments" ManuallyRouted="false" />
+        <AssociationConnector Association="Photography.FK_Lenses_Manufacturers" ManuallyRouted="false" />
+        <AssociationConnector Association="Photography.FK_Photographs_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="Photography.AlbumsPhotographs" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

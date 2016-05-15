@@ -1,0 +1,15 @@
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Export-International-Matches-as-XML\bin\Debug\Export-International-Matches-as-XML.exe.config
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Export-International-Matches-as-XML\bin\Debug\Export-International-Matches-as-XML.exe
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Export-International-Matches-as-XML\bin\Debug\Export-International-Matches-as-XML.pdb
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Export-International-Matches-as-XML\bin\Debug\EntityFramework.dll
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Export-International-Matches-as-XML\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Export-International-Matches-as-XML\bin\Debug\Football-EF-Data-Model.exe
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Export-International-Matches-as-XML\bin\Debug\Football-EF-Data-Model.pdb
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Export-International-Matches-as-XML\bin\Debug\EntityFramework.xml
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Export-International-Matches-as-XML\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Export-International-Matches-as-XML\obj\Debug\3. Export-International-Matches-as-XML.csprojResolveAssemblyReference.cache
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Export-International-Matches-as-XML\obj\Debug\Export-International-Matches-as-XML.exe
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Export-International-Matches-as-XML\obj\Debug\Export-International-Matches-as-XML.pdb
+D:\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Export-International-Matches-as-XML\bin\Debug\Export-International-Matches-as-XML.exe.config
+D:\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Export-International-Matches-as-XML\obj\Debug\Export-International-Matches-as-XML.exe
+D:\SoftUni\DatabaseApplications\Exam_March_2015\Football-Author-Solution\Export-International-Matches-as-XML\obj\Debug\Export-International-Matches-as-XML.pdb

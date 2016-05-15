@@ -1,0 +1,20 @@
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\EF-Code-First\bin\Debug\EF-Code-First.exe.config
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\EF-Code-First\bin\Debug\EF-Code-First.exe
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\EF-Code-First\bin\Debug\EF-Code-First.pdb
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\EF-Code-First\bin\Debug\EntityFramework.dll
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\EF-Code-First\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\EF-Code-First\bin\Debug\EntityFramework.xml
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\EF-Code-First\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\EF-Code-First\obj\Debug\6. EF-Code-First.csprojResolveAssemblyReference.cache
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\EF-Code-First\obj\Debug\EF-Code-First.exe
+C:\Users\Emily\Documents\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\EF-Code-First\obj\Debug\EF-Code-First.pdb
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\EF-Code-First\bin\Debug\EF-Code-First.exe.config
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\EF-Code-First\obj\Debug\EF-Code-First.exe
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\EF-Code-First\obj\Debug\EF-Code-First.pdb
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\EF-Code-First\bin\Debug\EF-Code-First.exe
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\EF-Code-First\bin\Debug\EF-Code-First.pdb
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\EF-Code-First\bin\Debug\EntityFramework.dll
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\EF-Code-First\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\EF-Code-First\bin\Debug\EntityFramework.xml
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\EF-Code-First\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\DatabaseApplications\Exam_June_2015\Photography-Author-Solution\EF-Code-First\obj\Debug\6. EF-Code-First.csprojResolveAssemblyReference.cache
