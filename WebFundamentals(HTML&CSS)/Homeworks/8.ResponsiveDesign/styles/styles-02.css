@@ -1,0 +1,150 @@
+body {
+	background-image: url(../images/background-flowers.jpg);
+	background-repeat: repeat-x;
+	margin: 0;
+}
+
+#wrapper {
+	margin: 0 auto;
+	width: 960px;
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	-ms-flex-flow: row wrap;
+	flex-flow: row wrap;
+	font-family: Arial;
+}
+
+#wrapper > header, aside, section, footer {
+	background-color: rgba(255, 232, 234, 0.8);
+	border: 2px solid black;
+	padding: 0.5%;
+}
+
+#wrapper > header {
+	flex: 0 100%;
+	-ms-flex: 0 100%;
+	order: 1;
+	margin-bottom: 3%;
+}
+
+img {
+	max-width: 100%;
+}
+
+header img {
+	width: 30%;
+}
+
+#wrapper > header > h1 a {
+	padding-left: 2%;
+	font-size: 1.2em;
+	text-decoration: none;
+	color: #000;
+}
+
+#wrapper > header > h1 a span {
+	padding-left: 35%;
+	text-align: right;
+}
+
+ul {
+	padding: 0;
+}
+
+nav {
+	width: 100%;
+	margin: 3% 0;
+	text-align: right;
+}
+
+nav li {
+	margin-right: 1.5%;
+	padding: 1.5% 3.5%;
+	list-style: none;
+}
+
+nav ul li {
+	display: inline;
+	background: #F42981;
+	border: 1px solid black;
+}
+
+nav ul li a {
+	color: #fff;
+	font-size: 1.2em;
+	text-decoration: none;
+}
+
+aside.left {
+	-ms-flex: 0 16%;
+	flex: 0 16%;
+	order: 2;
+}
+
+aside ul {
+	list-style: none;
+}
+
+.left ul li a {
+	text-decoration: none;
+	color: #000;
+}
+
+aside.right {
+	-ms-flex: 0 16%;
+	flex: 0 16%;
+	order: 4;
+}
+
+section {
+	-ms-flex: 0 60%;
+	flex: 0 60%;
+	order: 3;
+	margin: 0 1.6%;
+	height: 20%;
+}
+
+section header h1 {
+	margin: 2% 1% 0 1%;
+}
+
+section article div {
+	display: flex;
+	-ms-flex-flow: row wrap;
+	flex-flow: row wrap;
+	justify-content: space-between;
+	padding: 0 0.7% 0.5%;
+}
+
+section article div img {
+	width: 137px;
+	-o-object-fit: contain;
+	object-fit: contain;
+	max-height: 100px;
+	margin: 1% 0;
+}
+
+footer {
+	-ms-flex: 0 100%;
+	flex: 0 100%;
+	order: 5;
+	text-align: center;
+	margin-top: 2%;
+}
+
+footer a {
+	color: #000;
+}
+
+@media only screen and (max-width: 960px) {
+	#wrapper {
+		width: 100%;
+	}
+}
+
+@media only screen and (max-width: 780px) {
+
+}

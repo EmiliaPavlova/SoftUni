@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Problem 4 - Website Header</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<style>
+			#wrapper{ 
+				margin: 0 auto;
+			}
+  			table {
+  				margin: 0 auto;
+  				background-color:#234465; 
+  				color: white
+  			}
+  			table.sansserif { 
+  				font-family: Arial, Helvetica, sans-serif; 
+  			}
+  			a {
+  				color: white; 
+  				text-decoration: none;
+  			}
+  			ul {
+  				list-style-type: none; 
+  				margin: 0; padding: 0;
+  			}
+  			li {
+  				display: inline; 
+  				padding: 20px; text-align: right;
+  			}
+  			select {
+  				background: #234465; 
+  				color: white
+  			}
+  			form > input {
+  				width: 70%;
+  			}
+		</style>
+		<!-- <link type="text/css" rel="stylesheet" href="styles/semantic-tags.css" />  -->
+	</head>
+	<body>
+	<div id="wrapper">
+		<table style="width:70%;height:100px" cellpadding="15" class="sansserif">
+			<tr>
+				<td rowspan="2"><a href="https://softuni.bg" target="_blank"><img src="logo.png" alt="SoftUni logo" style="width:255px;height:65px"></a></td>
+				<td>
+					<table style="width:100%">
+						<tr align="right">
+							<td width="60%">
+								<a href="https://softuni.bg/notifications" title="Notifications">0 <img src="bell.png" style="width:22px;height:24px"></a>
+							</td>
+							<td width="10%"><a href="https://softuni.bg/Users/Profile/Show/" title="Profile">USER</a></td>
+                            <td colspan="2">
+                            	<form id="search-form">
+                                	<input type="text" maxlength="100"                 placeholder="Search">
+                                	<button type="button" onclick="alert('Search where, dude!?')"><img src="magn-glass.png" style="width:15px;height:15px"></button>
+                                </form>
+                            </td>
+						</tr>
+						<tr>
+							<td colspan="6" align="right">
+								<ul>
+									<li><a href="https://softuni.bg/news">NEWS</a></li>
+										<select id="softUni-link">
+											<option>SOFTWARE UNIVERSITY</option>
+											<option value="https://softuni.bg/about">ABOUT THE UNIVERSITY</option>
+											<option value="https://softuni.bg/curriculum">CURRICULUM</option>
+											<option value="https://softuni.bg/trainers">TRAINERS</option>
+										</select>
+
+										<script>
+    										document.getElementById("softUni-link").onchange = function() {
+        										if (this.selectedIndex!==0) {
+            										window.location.href = this.value;
+        										}        
+    										};
+										</script>
+
+									</li>
+									<li><a href="https://softuni.bg/trainings/courses/list">TRAINING COURSES</a></li>
+									<li><a href="https://softuni.bg/university/companies/partners">PARTNERS</a></li>
+									<li><a href="https://softuni.bg/forum">FORUM</a></li>
+									<li><a href="https://softuni.bg/contacts">CONTACTS</a></li>
+								</ul>
+							</td>
+						</tr>	
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+	</body>
+</html>

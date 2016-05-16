@@ -1,0 +1,2 @@
+up, right, left, down
+as{!}xnk

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr1.SquareRoot", "Pr1.SquareRoot\Pr1.SquareRoot.csproj", "{FDDD0F9F-0DDC-4B73-B2B8-E176EE79A6AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr2.EnterNumbers", "Pr2.EnterNumbers\Pr2.EnterNumbers.csproj", "{703D90DB-3153-4AFF-A52A-EC78D83F39CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDDD0F9F-0DDC-4B73-B2B8-E176EE79A6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDDD0F9F-0DDC-4B73-B2B8-E176EE79A6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDDD0F9F-0DDC-4B73-B2B8-E176EE79A6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDDD0F9F-0DDC-4B73-B2B8-E176EE79A6AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{703D90DB-3153-4AFF-A52A-EC78D83F39CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703D90DB-3153-4AFF-A52A-EC78D83F39CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{703D90DB-3153-4AFF-A52A-EC78D83F39CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{703D90DB-3153-4AFF-A52A-EC78D83F39CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

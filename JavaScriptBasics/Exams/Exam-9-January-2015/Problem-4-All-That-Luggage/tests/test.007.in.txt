@@ -1,0 +1,13 @@
+Yana Slavcheva.....*....clothes.........*........false.....*..........false...*..false.*.2.2.*.backpack
+Kiko....*....socks.*.....false.....*.false.*......false......*.0.2.*....backpack
+Kiko.*...banana.*.true.*.....false......*.false.*.3.2.*.backpack
+Kiko.*..sticks.*.false......*.false.*.false....*.1.6.*.ATV
+Kiko.*.....glasses.....*..false......*.false.*...true.....*.3.....*....ATV
+Manov..*.socks.*.false.*...false.*.false.*.0.3.*.ATV
+Manov.*...condoms..*.false....*.false.*.false.*.8.3.*.ATV
+Manov...*.....nuts.....*.true....*.false.*.false.*.2.2.*.backpack
+Manov.*....salami.*....true.*...false..*.false.*.....6.4.....*.....ATV
+Manov....*.steak....*.true.*....false...*.false.....*.5.8.*...ATV
+Manov...*.laptop...*....false....*....false.....*.true.*.....2.5.*.backpack
+Manov.*...rakiya....*..false...*.true.*.false.*.5.8.*.backpack
+weight

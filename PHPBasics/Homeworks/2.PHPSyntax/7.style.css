@@ -1,0 +1,17 @@
+input[type='text'],
+section {
+    width: 200px;
+    display: block;
+}
+
+input[type='submit'] {
+    display: block;
+}
+
+input[type='radio'] {
+    display: inline-block;
+}
+
+label {
+    width: 150px;
+}

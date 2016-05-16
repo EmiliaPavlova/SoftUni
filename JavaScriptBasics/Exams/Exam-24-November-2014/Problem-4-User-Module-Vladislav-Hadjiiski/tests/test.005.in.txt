@@ -1,0 +1,28 @@
+level^courses
+{"id":0,"firstname":"Angel","lastname":"Nakova","town":"Sliven","role":"student","grades":["5.04","2.27","4.76"],"level":2,"certificate":true}
+{"id":1,"firstname":"Yuliq","lastname":"Petrova","town":"Pernik","role":"student","grades":["5.97","4.79","3.66","5.97"],"level":1,"certificate":true}
+{"id":2,"firstname":"Niki","lastname":"Petrov","town":"Sliven","role":"trainer","courses":["C#","JS Apps","OOP"],"lecturesPerDay":7}
+{"id":3,"firstname":"Petq","lastname":"Nakov","town":"Plovdiv","role":"trainer","courses":["Database","PHP","C#","iOS","JS Apps","JS"],"lecturesPerDay":5}
+{"id":4,"firstname":"Kosio","lastname":"Dimitrov","town":"Veliko Tyrnowo","role":"trainer","courses":["Database","OOP","Java","Unity Basics"],"lecturesPerDay":3}
+{"id":5,"firstname":"Plamen","lastname":"Daskalov","town":"Gabrovo","role":"student","grades":["3.75"],"level":5,"certificate":true}
+{"id":6,"firstname":"Kosio","lastname":"Nakov","town":"Stara Zagora","role":"student","grades":["3.54","4.58","4.11","5.70","4.54"],"level":4,"certificate":true}
+{"id":7,"firstname":"Vlado","lastname":"Georgieva","town":"Stara Zagora","role":"trainer","courses":["Unity Basics","JS","ASP.NET","C#","Database"],"lecturesPerDay":10}
+{"id":8,"firstname":"Bobi","lastname":"Ivanova","town":"Plovdiv","role":"student","grades":["5.99","5.02"],"level":5,"certificate":false}
+{"id":9,"firstname":"Gergana","lastname":"Nakova","town":"Gabrovo","role":"student","grades":["3.91","2.81","2.41","5.81","5.45"],"level":4,"certificate":false}
+{"id":10,"firstname":"Qvor","lastname":"Georgiev","town":"Pernik","role":"student","grades":["5.67"],"level":1,"certificate":false}
+{"id":11,"firstname":"Gergana","lastname":"Dimitrova","town":"Pernik","role":"student","grades":["5.38","2.74"],"level":4,"certificate":true}
+{"id":12,"firstname":"Bobi","lastname":"Georgiev","town":"Sevlievo","role":"trainer","courses":["PHP","SDA","Database","JS Apps"],"lecturesPerDay":4}
+{"id":13,"firstname":"Julieta","lastname":"Nakov","town":"Plovdiv","role":"trainer","courses":["Java","JS"],"lecturesPerDay":10}
+{"id":14,"firstname":"Ivailo","lastname":"Ivanov","town":"Plovdiv","role":"student","grades":["2.77","3.38"],"level":5,"certificate":true}
+{"id":15,"firstname":"Mitko","lastname":"Daskalov","town":"Vidin","role":"student","grades":["4.56","5.65"],"level":1,"certificate":true}
+{"id":16,"firstname":"Bobi","lastname":"Petrov","town":"Gabrovo","role":"trainer","courses":["Database","Unity Basics"],"lecturesPerDay":9}
+{"id":17,"firstname":"Yuliq","lastname":"Petrova","town":"Dimitrovgrad","role":"trainer","courses":["OOP","HTML/CSS","ASP.NET","Database","C#"],"lecturesPerDay":2}
+{"id":18,"firstname":"Alex","lastname":"Georgiev","town":"Varna","role":"trainer","courses":["ASP.NET","JS OOP","JS"],"lecturesPerDay":8}
+{"id":19,"firstname":"Hristo","lastname":"Ivanova","town":"Sliven","role":"trainer","courses":["JS Apps","PHP","SDA","C#","HTML/CSS"],"lecturesPerDay":9}
+{"id":20,"firstname":"Kosio","lastname":"Ivanov","town":"Petrich","role":"trainer","courses":["JS Apps","Unity Basics","JS OOP","Java","SDA"],"lecturesPerDay":8}
+{"id":21,"firstname":"Zornica","lastname":"Nakova","town":"Sliven","role":"student","grades":["5.19"],"level":4,"certificate":true}
+{"id":22,"firstname":"Petq","lastname":"Ivanova","town":"Svishtov","role":"student","grades":["4.38","4.29","2.97"],"level":1,"certificate":false}
+{"id":23,"firstname":"Ivailo","lastname":"Georgieva","town":"Dimitrovgrad","role":"student","grades":["2.26","2.07","4.64"],"level":5,"certificate":true}
+{"id":24,"firstname":"Gergana","lastname":"Nakova","town":"Stara Zagora","role":"trainer","courses":["JS","JS Apps","Java","PHP"],"lecturesPerDay":10}
+{"id":25,"firstname":"Ivan","lastname":"Petrova","town":"Pernik","role":"trainer","courses":["OOP","Unity Basics","Database","SDA"],"lecturesPerDay":2}
+{"id":26,"firstname":"Gergana","lastname":"Petrov","town":"Burgas","role":"student","grades":["3.92"],"level":2,"certificate":true}

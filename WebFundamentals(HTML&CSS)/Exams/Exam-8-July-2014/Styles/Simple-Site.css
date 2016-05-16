@@ -1,0 +1,174 @@
+body, header, h1, h3, ul, p {
+	margin: 0;
+	padding: 0;
+}
+
+#wrapper {
+	margin: 0 auto;
+	width: 940px;
+	font-family: Georgia, serif;
+}
+
+header {
+	margin: 20px auto;
+	width: 564px;
+}
+
+	header img {
+		margin-left: 20%;
+		margin-right: 5px;
+		float: left;
+	}
+
+	header a {
+		text-decoration: none;
+	}
+
+		header a h1 {
+			padding: 0 10px;
+			font-family: 'Patua One';
+			font-size: 45px;
+			font-weight: normal;
+			color: #777777;
+			
+		}
+
+	h5 {
+		margin: 2px;
+		text-align: center;
+		font-family: Georgia,serif;
+		font-style: italic;
+		font-size: 12px;
+		font-weight: normal;
+		color: #777777;
+	}	
+
+	nav {
+		margin: 20px auto;
+	}
+
+		nav > ul {
+			margin: 0 40px;
+			padding: 10px;
+		}
+
+			nav > ul > li {
+				margin: 0 5px;
+				padding: 5px;
+				display: inline-block;
+			}
+
+				nav > ul > li > a {
+					font-weight: bold;
+					color: #999999;
+				}
+
+				nav > ul > li:hover {
+					background-color: #EEEEEE;
+					border-radius: 4px;
+				}
+
+				nav > ul > li:hover a {
+					color: #696677;
+				}
+
+.border-dashed {
+	border-top: 1px dashed #999999;
+	border-bottom: 1px dashed #999999;
+}
+
+.border-dashed-all {
+	border: 1px dashed #999999;
+}
+
+.right {
+	margin-bottom: 20px;
+	width: 23%;
+	float: right;
+	display: block;
+}
+
+	aside, .links {
+		margin-top: 10px;
+		padding: 20px;
+		background-color: #F9F9F9;
+	}
+
+	.links > h4 {
+		margin-top: 0;
+	}
+
+	input[type="search"] {
+		width: 55%;
+		float: left;
+		border: 1px solid gray;
+		border-radius: 3px;
+	}
+
+	input[type="button"] {
+		margin-left: 2px;
+		width: 30%;
+		border: 1px solid gray;
+		border-radius: 3px;
+		font-family: Arial;
+	}
+
+	input[type="search"]:focus {
+		width: 55%;
+		border: 1px solid #92B3E8;
+		border-radius: 3px;
+	}
+
+	h4 {
+		color:  #696677;
+	}
+
+	.right li {
+		list-style: none;
+	}
+
+		.right li a {
+			font-size: 0.9em;
+			text-decoration: none;;
+			color: #0D71D0;
+		}
+
+		.right li a:hover {
+			color: #FF6578;
+			text-decoration: underline;
+		}
+
+
+main {
+	width: 75%;
+}
+
+section.title {
+	margin: 20px 40px;
+	padding: 20px;
+	text-align: center;
+	color: #777777;
+}
+
+	h2 {
+		margin-top: 30px;
+		font-weight: normal;
+	}
+
+	section.title p {
+		margin-top: 10px;
+		font-size: 0.8em;
+		color:  #696677;
+	}
+
+footer {
+	padding: 10px 0;
+	font-family: Georgia,serif;
+	font-size: 0.8em;
+	color: #777777;
+	background-color: #EEEEEE;
+	clear: both;
+	text-align: center;
+}
+
+

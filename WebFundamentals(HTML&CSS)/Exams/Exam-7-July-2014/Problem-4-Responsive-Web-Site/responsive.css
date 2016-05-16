@@ -1,0 +1,68 @@
+@media only screen and (max-width: 700px) {
+	
+	.container{
+		width: 100%;
+	}
+
+	body.home .header {
+	    background-position: center top;
+	}
+
+	.header h1 {
+	    font-size: 3.8em;
+	}
+
+	.header p {
+	    font-size: 1em;
+	}
+
+	.nav {
+	    display: inline-block;
+	    width: 52%;
+	}
+
+	.container h1 {
+	    font-size: 2em;
+	}
+}
+
+@media only screen and (max-width: 500px) {
+
+	.contacts {
+		margin-top: 1%;
+	}
+
+	.leader li {
+		padding: 1% 0;
+		line-height: 1%;
+		display: block;
+	}
+
+	body.home .header {
+		margin-left: -25%;
+	    background-position: center top;
+	    width: 150%;
+	}
+
+	.header p {
+	    font-size: 1em;
+	    width: 40%;
+	}
+
+	.nav {
+		width: 40%;
+		font-size: 0.7em;
+	}
+
+	.container h1 {
+	    font-size: 2.2em;
+	}
+
+	.nav-minor {
+		width: 70%;
+	}
+
+	div.footer p {
+		font-size: 0.8em;
+	}
+}

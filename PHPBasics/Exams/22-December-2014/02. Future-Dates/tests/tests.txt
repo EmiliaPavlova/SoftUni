@@ -1,0 +1,8 @@
+01 with leap year and 2 dates
+02 with no dates
+
+1 with no dates
+1 with no numbers
+1 with single digit sum
+1 with same digits
+1 with 3 digits

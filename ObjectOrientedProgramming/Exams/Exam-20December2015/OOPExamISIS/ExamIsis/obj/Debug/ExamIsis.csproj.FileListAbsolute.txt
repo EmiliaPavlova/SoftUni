@@ -1,0 +1,6 @@
+D:\SoftUni\OOP\OOP Exam - 20 December 2015\OOPExamISIS\ExamIsis\bin\Debug\ExamIsis.exe.config
+D:\SoftUni\OOP\OOP Exam - 20 December 2015\OOPExamISIS\ExamIsis\bin\Debug\ExamIsis.exe
+D:\SoftUni\OOP\OOP Exam - 20 December 2015\OOPExamISIS\ExamIsis\bin\Debug\ExamIsis.pdb
+D:\SoftUni\OOP\OOP Exam - 20 December 2015\OOPExamISIS\ExamIsis\obj\Debug\ExamIsis.csprojResolveAssemblyReference.cache
+D:\SoftUni\OOP\OOP Exam - 20 December 2015\OOPExamISIS\ExamIsis\obj\Debug\ExamIsis.exe
+D:\SoftUni\OOP\OOP Exam - 20 December 2015\OOPExamISIS\ExamIsis\obj\Debug\ExamIsis.pdb

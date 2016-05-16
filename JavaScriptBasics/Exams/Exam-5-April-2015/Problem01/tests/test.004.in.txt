@@ -1,0 +1,8 @@
+coin 10041
+coin 0.99
+coin -5
+coin 105.0
+coin 2002.01
+coin fifty
+coin -100
+cigars 1

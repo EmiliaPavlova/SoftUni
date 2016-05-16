@@ -1,0 +1,9 @@
+Blob Sir: 70 HP, 20 Damage
+Blob Stenly: 33 HP, 15 Damage
+Blob Royce: 50 HP, 20 Damage
+Blob Sir: 70 HP, 20 Damage
+Blob Stenly: 17 HP, 15 Damage
+Blob Royce: 70 HP, 20 Damage
+Blob Sir: 70 HP, 20 Damage
+Blob Stenly: 17 HP, 15 Damage
+Blob Royce: 60 HP, 20 Damage

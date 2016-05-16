@@ -1,0 +1,6 @@
+D:\SoftUni\OOP\7. Delegates and Events\HW7\CustomLINQExtensionMethods\bin\Debug\CustomLINQExtensionMethods.exe.config
+D:\SoftUni\OOP\7. Delegates and Events\HW7\CustomLINQExtensionMethods\bin\Debug\CustomLINQExtensionMethods.exe
+D:\SoftUni\OOP\7. Delegates and Events\HW7\CustomLINQExtensionMethods\bin\Debug\CustomLINQExtensionMethods.pdb
+D:\SoftUni\OOP\7. Delegates and Events\HW7\CustomLINQExtensionMethods\obj\Debug\1.CustomLINQExtensionMethods.csprojResolveAssemblyReference.cache
+D:\SoftUni\OOP\7. Delegates and Events\HW7\CustomLINQExtensionMethods\obj\Debug\CustomLINQExtensionMethods.exe
+D:\SoftUni\OOP\7. Delegates and Events\HW7\CustomLINQExtensionMethods\obj\Debug\CustomLINQExtensionMethods.pdb

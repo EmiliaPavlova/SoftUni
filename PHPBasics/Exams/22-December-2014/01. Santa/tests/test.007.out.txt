@@ -1,0 +1,1 @@
+﻿$giftOf&lt;goshko&gt;&lt;/goshko&gt; = $[wasChildGood]? 'doggy&lt;br&gt;' : 'What is the longest word in the dictionary?';

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8" />
+    <title>Ping-Pong Game</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="scripts/framework.js"></script>
+</head>
+<body>
+<audio preload="true" id="collide"></audio>
+<canvas id="canvas" width="800" height="600">
+    Your browser doesn't support canvas.
+</canvas>
+    <h2 class="firstPlayer">Player green scores: <span id="player1scores"></span></h2>
+    <h2 class="secondPlayer">Player pink scores: <span id="player2scores"></span></h2>
+    <!--<h3 id="gameOver">Game Over!</h3>-->
+<script src="scripts/ball.js"></script>
+<script src="scripts/playerPaddle.js"></script>
+<script src="scripts/main.js"></script>
+</body>
+</html>

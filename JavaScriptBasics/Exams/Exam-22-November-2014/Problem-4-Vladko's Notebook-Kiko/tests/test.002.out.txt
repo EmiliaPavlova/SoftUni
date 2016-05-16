@@ -1,0 +1,1 @@
+{"green":{"age":"13","name":"Pesho","opponents":["Gosho","gosho","ico","mariya","petko","qfkata","stamat"],"rank":"8.00"},"red":{"age":"12","name":"kiko","opponents":["Vladko"],"rank":"2.00"}}

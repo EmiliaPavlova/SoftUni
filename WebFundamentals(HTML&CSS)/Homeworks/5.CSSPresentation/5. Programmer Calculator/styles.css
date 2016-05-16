@@ -1,0 +1,180 @@
+#wrapper {
+	margin-top: 10px;
+	margin-left: 10px;
+	padding: 5px;
+	width: 600px;
+	background-color: #89AFD4;
+	font-family: Arial, sans-serif;
+	font-size: 10px;
+	position: fixed;
+}
+
+img {
+	display: inline-block;
+}
+
+h1 {
+	font-size: 16px;
+	display: inline-block;
+}
+
+.header-buttons {
+	display: inline-block;
+	margin-left: 386px;
+	padding-left: 5px;
+}
+
+main {
+	padding: 5px;
+}
+
+	main > header {
+		padding: 0 5px;
+		background: linear-gradient(#E6E6F5 40%, #BFBFCA 60%);
+		border-bottom: 1px solid gray;
+	}
+
+	h2 {
+		display: inline-block;
+		margin-left: 10px;
+		padding: 5px 15px 5px 5px;
+		font-size: 16px;
+	}
+
+	#calc-body {
+		padding: 10px;
+		width: 570px;
+		background-color: #ABC5DF;
+	}
+
+	#display {
+		margin: 5px 0px;
+		padding: 10px 5px 5px 0px;
+		width: 563px;
+		height: 50px;
+		font-size: 2em;
+		color: #000;
+		text-align: right;
+		background: linear-gradient(#ABC5DF 10%, #D5E2EF 60%);
+		border: 1px solid black;
+		border-radius: 2px;
+	}
+
+	.bits {
+		border: 1px solid black;
+		border-radius: 2px;
+	}
+
+	.bits-horizontal {
+		margin: 0px auto;
+		width: 560px;
+	}
+		p {
+			margin: 0px 15px;
+			display: inline-block;
+			font-size: 16px;
+		}
+
+	.numbers-horizontal	> p {
+		margin-left: 20px;
+		margin-right: 232px;
+	}
+
+	.numbers-horizontal	> p.last {
+		margin: -47px;
+	}
+
+	.radio-buttons {
+		padding-bottom: 3px;
+		width: 80px;
+		height: 76px;
+		border: 1px solid black;
+		border-radius: 2px;
+		font-size: 14px;
+		float: left;
+	}
+
+		input[type="radio"] {
+			margin-right: 10px;
+		}
+
+		.buttons {
+			margin: 5px 0px 0px 15px;
+		}
+
+		.buttons > div > button {
+			margin-bottom: 3px;
+			margin-left: 3px;
+			width: 55px;
+			height: 25px;
+			vertical-align: top;
+			background: linear-gradient(#D5E2EF 50%, #ABC5DF 51%);
+			border: 1px solid black;
+			border-radius: 2px;
+		}
+
+		.buttons > div > button:disabled {
+			color: #000;
+		}
+
+		.buttons > div > button:hover:enabled {
+			background: linear-gradient(#FFCC66 50%, #FFEBC2 51%);
+		}
+
+			button.equal {
+				width: 55px;
+				height: 53px;
+				position: absolute;
+				top: 336px;
+				left: 532px;
+				background: linear-gradient(#D5E2EF 50%, #ABC5DF 51%);
+				border: 1px solid black;
+				border-radius: 2px;
+			}
+
+			.equal:hover:enabled {
+				background: linear-gradient(#FFCC66 50%, #FFEBC2 51%);
+			}
+
+			button.zero {
+				width: 116px;
+				height: 25px;
+				position: absolute;
+				top: 364px;
+				left: 288px;
+				background: linear-gradient(#D5E2EF 50%, #ABC5DF 51%);
+				border: 1px solid black;
+				border-radius: 2px;
+			}
+
+			.zero:hover:enabled {
+				background: linear-gradient(#FFCC66 50%, #FFEBC2 51%);
+			}
+
+			.buttons > .last-plus {
+				width: 55px;
+				height: 25px;
+				position: absolute;
+				top: 364px;
+				left: 410px;
+				background: linear-gradient(#D5E2EF 50%, #ABC5DF 51%);
+				border: 1px solid black;
+				border-radius: 2px;
+			}
+
+			.last-plus:hover:enabled {
+				background: linear-gradient(#FFCC66 50%, #FFEBC2 51%);
+			}
+
+			.buttons > .last-dot {
+				width: 55px;
+				height: 25px;
+				position: absolute;
+				top: 364px;
+				left: 471px;
+				background: linear-gradient(#D5E2EF 50%, #ABC5DF 51%);
+				border: 1px solid black;
+				border-radius: 2px;
+			}
+
+			

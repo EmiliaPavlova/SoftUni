@@ -1,0 +1,7 @@
+create Fiki 90 5 Inflated Blobplode
+create Jorjo 30 25 Inflated Blobplode
+attack Fiki Jorjo
+status
+attack Fiki Jorjo
+status
+drop

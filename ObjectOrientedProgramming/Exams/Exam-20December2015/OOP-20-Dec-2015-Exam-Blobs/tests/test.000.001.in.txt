@@ -1,0 +1,10 @@
+create Cenko 30 15 Inflated PutridFart
+create Boko 50 20 Aggressive Blobplode
+attack Boko Cenko
+status
+status
+status
+status
+status
+status
+drop

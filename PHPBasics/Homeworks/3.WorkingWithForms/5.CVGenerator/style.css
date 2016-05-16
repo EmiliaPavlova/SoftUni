@@ -1,0 +1,47 @@
+form {
+    margin: 20px auto;
+    width: 700px;
+}
+
+#personal-info input[type='text'],
+#personal-info input[type='tel'],
+#personal-info input[type='email'],
+#personal-info label[for="birth-date"],
+#personal-info input[type='date'],
+#personal-info select {
+    margin: 2px 0;
+    width: 200px;
+    display: block;
+}
+
+#work-position label[for='work-from'],
+#work-position label[for='work-to'] {
+    margin: 2px 0;
+    display: block;
+}
+
+#computer-skills button[type="button"] {
+    margin: 2px 0;
+    display: inline-block;
+}
+
+ul {
+    padding-left: 0;
+    margin: 0;
+}
+
+li {
+    list-style: none;
+}
+
+#other-skils input {
+    margin: 2px 0;
+}
+
+#other-skils > label {
+    display: block;
+}
+
+#other-skils label section {
+    display: inline-block;
+}

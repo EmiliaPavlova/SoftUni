@@ -1,0 +1,5 @@
+starGemini 13.1 28.2
+starCanesLupus 13.5 14.9 
+starIpsum 12.8 7.5 
+12.7 6.2
+21

@@ -1,0 +1,35 @@
+/* Add here your responsive CSS */
+@media only screen and (max-width : 780px) {
+	.body {
+		margin: 0 auto; 
+		width: 90%;
+		font-size: 90%;
+	}
+	.mainHeader nav {
+		background-color: #666;
+		height: auto;
+		margin-bottom: 0;
+		border-radius: 5px;
+	}
+	.mainHeader nav ul {
+		padding-left: 0;
+		/*background-color: #666;*/
+	}
+	.mainHeader nav li {
+		width: 100%;
+		background-color: none;
+	}
+	.mainHeader nav a:link, .mainHeader nav a:visited {
+		display: block;
+	}
+	.mainHeader nav a:active,
+	.mainHeader nav .active a:link, .mainHeader nav .active a:visited {
+		background: #CF5C3F;
+	}
+	.mainHeader img {
+		width: 100%;
+		height: auto;
+		margin-bottom: 3%;
+	}
+
+}

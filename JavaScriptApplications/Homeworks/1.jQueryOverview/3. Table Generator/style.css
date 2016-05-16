@@ -1,0 +1,23 @@
+textarea {
+    width: 400px;
+    height: 100px;
+    display: block;
+}
+
+table {
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    width: 120px;
+}
+
+th {
+    background-color: green;
+    /*padding: 5px 20px;*/
+}

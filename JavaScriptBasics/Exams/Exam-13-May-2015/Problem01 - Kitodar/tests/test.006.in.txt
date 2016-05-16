@@ -1,0 +1,2 @@
+mine gandalf - gold:5
+mine               spongeBob -             silveR               : 19

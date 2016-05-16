@@ -1,0 +1,6 @@
+D:\SoftUni\OOP\4. Inheritance and Abstraction\HW4\Pr3.CompanyHierarchy\bin\Debug\Pr3.CompanyHierarchy.exe.config
+D:\SoftUni\OOP\4. Inheritance and Abstraction\HW4\Pr3.CompanyHierarchy\bin\Debug\Pr3.CompanyHierarchy.exe
+D:\SoftUni\OOP\4. Inheritance and Abstraction\HW4\Pr3.CompanyHierarchy\bin\Debug\Pr3.CompanyHierarchy.pdb
+D:\SoftUni\OOP\4. Inheritance and Abstraction\HW4\Pr3.CompanyHierarchy\obj\Debug\Pr3.CompanyHierarchy.csprojResolveAssemblyReference.cache
+D:\SoftUni\OOP\4. Inheritance and Abstraction\HW4\Pr3.CompanyHierarchy\obj\Debug\Pr3.CompanyHierarchy.exe
+D:\SoftUni\OOP\4. Inheritance and Abstraction\HW4\Pr3.CompanyHierarchy\obj\Debug\Pr3.CompanyHierarchy.pdb

@@ -1,0 +1,191 @@
+Band C | Town C | 2-Jun-1996 | Venue D
+Band C | Town A | 7-Jul-1996 | Venue A
+Band D | Town D | 12-Jun-1996 | Venue D
+Band A | Town A | 2-Jun-1996 | Venue E
+Band A | Town E | 12-Jun-1996 | Venue E
+Band B | Town A | 7-Jul-1996 | Venue A
+Band A | Town B | 17-Jun-1996 | Venue B
+Band B | Town B | 3-Jul-1996 | Venue E
+Band D | Town D | 2-Jun-1996 | Venue E
+Band A | Town C | 12-Jun-1996 | Venue D
+Band A | Town C | 17-Jun-1996 | Venue B
+Band B | Town E | 7-Jul-1996 | Venue A
+Band D | Town C | 17-Jun-1996 | Venue E
+Band B | Town E | 7-Jul-1996 | Venue A
+Band C | Town E | 17-Jun-1996 | Venue B
+Band C | Town D | 7-Jul-1996 | Venue A
+Band E | Town E | 3-Jul-1996 | Venue B
+Band E | Town E | 3-Jul-1996 | Venue B
+Band B | Town C | 3-Jul-1996 | Venue E
+Band C | Town C | 2-Jun-1996 | Venue D
+Band C | Town E | 7-Jul-1996 | Venue A
+Band C | Town D | 12-Jun-1996 | Venue D
+Band A | Town A | 2-Jun-1996 | Venue D
+Band A | Town A | 12-Jun-1996 | Venue E
+Band B | Town A | 7-Jul-1996 | Venue A
+Band A | Town B | 17-Jun-1996 | Venue B
+Band E | Town B | 3-Jul-1996 | Venue C
+Band A | Town E | 2-Jun-1996 | Venue A
+Band E | Town E | 12-Jun-1996 | Venue D
+Band A | Town C | 17-Jun-1996 | Venue B
+Band B | Town D | 7-Jul-1996 | Venue A
+Band A | Town C | 17-Jun-1996 | Venue D
+Band B | Town D | 7-Jul-1996 | Venue A
+Band C | Town C | 17-Jun-1996 | Venue B
+Band D | Town D | 7-Jul-1996 | Venue A
+Band C | Town B | 3-Jul-1996 | Venue E
+Band B | Town C | 3-Jul-1996 | Venue C
+Band B | Town C | 3-Jul-1996 | Venue E
+Band C | Town C | 2-Jun-1996 | Venue D
+Band C | Town E | 7-Jul-1996 | Venue A
+Band C | Town D | 12-Jun-1996 | Venue D
+Band A | Town A | 2-Jun-1996 | Venue E
+Band A | Town A | 12-Jun-1996 | Venue C
+Band B | Town A | 7-Jul-1996 | Venue D
+Band A | Town B | 17-Jun-1996 | Venue C
+Band E | Town B | 3-Jul-1996 | Venue B
+Band A | Town E | 2-Jun-1996 | Venue D
+Band E | Town E | 12-Jun-1996 | Venue A
+Band A | Town C | 17-Jun-1996 | Venue E
+Band B | Town D | 7-Jul-1996 | Venue C
+Band A | Town C | 17-Jun-1996 | Venue B
+Band B | Town D | 7-Jul-1996 | Venue E
+Band C | Town C | 17-Jun-1996 | Venue C
+Band D | Town D | 7-Jul-1996 | Venue E
+Band C | Town B | 3-Jul-1996 | Venue B
+Band B | Town C | 3-Jul-1996 | Venue E
+Band C | Town C | 2-Jun-1996 | Venue E
+Band C | Town A | 7-Jul-1996 | Venue A
+Band D | Town D | 12-Jun-1996 | Venue D
+Band A | Town A | 2-Jun-1996 | Venue E
+Band A | Town E | 12-Jun-1996 | Venue C
+Band B | Town A | 7-Jul-1996 | Venue E
+Band A | Town B | 17-Jun-1996 | Venue C
+Band B | Town B | 3-Jul-1996 | Venue B
+Band D | Town D | 2-Jun-1996 | Venue E
+Band A | Town C | 12-Jun-1996 | Venue A
+Band A | Town C | 17-Jun-1996 | Venue C
+Band B | Town E | 7-Jul-1996 | Venue D
+Band D | Town C | 17-Jun-1996 | Venue A
+Band B | Town E | 7-Jul-1996 | Venue E
+Band C | Town E | 17-Jun-1996 | Venue C
+Band C | Town D | 7-Jul-1996 | Venue E
+Band E | Town E | 3-Jul-1996 | Venue E
+Band B | Town C | 3-Jul-1996 | Venue C
+Band C | Town C | 2-Jun-1996 | Venue E
+Band C | Town E | 7-Jul-1996 | Venue E
+Band C | Town D | 12-Jun-1996 | Venue E
+Band A | Town A | 2-Jun-1996 | Venue E
+Band A | Town A | 12-Jun-1996 | Venue B
+Band B | Town A | 7-Jul-1996 | Venue B
+Band A | Town B | 17-Jun-1996 | Venue C
+Band E | Town B | 3-Jul-1996 | Venue E
+Band A | Town E | 2-Jun-1996 | Venue B
+Band E | Town E | 12-Jun-1996 | Venue C
+Band A | Town C | 17-Jun-1996 | Venue E
+Band B | Town D | 7-Jul-1996 | Venue E
+Band A | Town C | 17-Jun-1996 | Venue E
+Band C | Town C | 17-Jun-1996 | Venue C
+Band D | Town D | 7-Jul-1996 | Venue E
+Band C | Town B | 3-Jul-1996 | Venue C
+Band B | Town C | 3-Jul-1996 | Venue A
+Band C | Town C | 2-Jun-1996 | Venue A
+Band C | Town A | 7-Jul-1996 | Venue C
+Band D | Town D | 12-Jun-1996 | Venue E
+Band A | Town A | 2-Jun-1996 | Venue D
+Band A | Town E | 12-Jun-1996 | Venue A
+Band B | Town A | 7-Jul-1996 | Venue B
+Band A | Town B | 17-Jun-1996 | Venue C
+Band B | Town B | 3-Jul-1996 | Venue D
+Band D | Town D | 2-Jun-1996 | Venue A
+Band A | Town C | 12-Jun-1996 | Venue E
+Band A | Town C | 17-Jun-1996 | Venue C
+Band B | Town E | 7-Jul-1996 | Venue B
+Band D | Town C | 17-Jun-1996 | Venue D
+Band B | Town E | 7-Jul-1996 | Venue E
+Band C | Town E | 17-Jun-1996 | Venue C
+Band C | Town D | 7-Jul-1996 | Venue D
+Band E | Town E | 3-Jul-1996 | Venue B
+Band B | Town C | 3-Jul-1996 | Venue A
+Band C | Town C | 2-Jun-1996 | Venue B
+Band C | Town E | 7-Jul-1996 | Venue C
+Band C | Town D | 12-Jun-1996 | Venue E
+Band A | Town A | 2-Jun-1996 | Venue C
+Band A | Town A | 12-Jun-1996 | Venue A
+Band B | Town A | 7-Jul-1996 | Venue B
+Band A | Town B | 17-Jun-1996 | Venue D
+Band E | Town B | 3-Jul-1996 | Venue C
+Band A | Town E | 2-Jun-1996 | Venue E
+Band E | Town E | 12-Jun-1996 | Venue B
+Band A | Town C | 17-Jun-1996 | Venue A
+Band B | Town D | 7-Jul-1996 | Venue D
+Band A | Town C | 17-Jun-1996 | Venue C
+Band B | Town D | 7-Jul-1996 | Venue E
+Band C | Town C | 17-Jun-1996 | Venue E
+Band D | Town D | 7-Jul-1996 | Venue A
+Band C | Town B | 3-Jul-1996 | Venue E
+Band B | Town C | 3-Jul-1996 | Venue B
+Band C | Town C | 2-Jun-1996 | Venue E
+Band C | Town A | 7-Jul-1996 | Venue A
+Band D | Town D | 12-Jun-1996 | Venue B
+Band A | Town A | 2-Jun-1996 | Venue C
+Band A | Town E | 12-Jun-1996 | Venue A
+Band B | Town A | 7-Jul-1996 | Venue D
+Band A | Town B | 17-Jun-1996 | Venue C
+Band B | Town B | 3-Jul-1996 | Venue B
+Band D | Town D | 2-Jun-1996 | Venue E
+Band A | Town C | 12-Jun-1996 | Venue C
+Band A | Town C | 17-Jun-1996 | Venue D
+Band B | Town E | 7-Jul-1996 | Venue E
+Band D | Town C | 17-Jun-1996 | Venue B
+Band B | Town E | 7-Jul-1996 | Venue A
+Band C | Town E | 17-Jun-1996 | Venue D
+Band C | Town D | 7-Jul-1996 | Venue C
+ZZ Top | London | 2-Aug-2014 | Wembley Stadium
+Iron Maiden | London | 28-Jul-2014 | Wembley Stadium
+Metallica | Sofia | 11-Aug-2014 | Lokomotiv Stadium
+ZZ Top | Sofia | 1-Nov-2014 | Vassil Levski Stadium
+Iron Maiden | Sofia | 20-June-2015 | Vassil Levski Stadium
+Helloween | Sofia | 30-July-2015 | Vassil Levski Stadium
+ZZ Top | Sofia | 26-Sep-2014 | Lokomotiv Stadium
+Helloween | London | 28-Jul-2014 | Wembley Stadium
+Twisted Sister | London | 30-Sep-2014 | Wembley Stadium
+Metallica | London | 03-Oct-2014 | Olympic Stadium
+ZZ Top | Sofia | 11-Apr-2016 | Lokomotiv Stadium
+Iron Maiden | Buenos Aires | 03-Mar-2014 | River Plate Stadium
+ZZ Top | London | 2-Aug-2014 | Wembley Stadium
+Iron Maiden | London | 28-Jul-2014 | Wembley Stadium
+Metallica | Sofia | 11-Aug-2014 | Lokomotiv Stadium
+Helloween | Sofia | 1-Nov-2014 | Vassil Levski Stadium
+Iron Maiden | Sofia | 20-June-2015 | Vassil Levski Stadium
+ZZ Top | Sofia | 30-July-2015 | Vassil Levski Stadium
+Iron Maiden | Sofia | 26-Sep-2014 | Lokomotiv Stadium
+ZZ Top | London | 28-Jul-2014 | Wembley Stadium
+Twisted Sister | London | 30-Sep-2014 | Wembley Stadium
+Metallica | London | 03-Oct-2014 | Olympic Stadium
+ZZ Top | Sofia | 11-Apr-2016 | Lokomotiv Stadium
+ZZ Top | Buenos Aires | 03-Mar-2014 | River Plate Stadium
+ZZ Top | London | 2-Aug-2014 | Wembley Stadium
+Iron Maiden | London | 28-Jul-2014 | Wembley Stadium
+Metallica | Sofia | 11-Aug-2014 | Lokomotiv Stadium
+ZZ Top | Sofia | 1-Nov-2014 | Vassil Levski Stadium
+Iron Maiden | Sofia | 20-June-2015 | Venue D
+Helloween | Sofia | 30-July-2015 | Venue D
+ZZ Top | Sofia | 26-Sep-2014 | Venue D
+Helloween | London | 28-Jul-2014 | Venue D
+Twisted Sister | London | 30-Sep-2014 | Venue D
+Metallica | London | 03-Oct-2014 | Venue D
+ZZ Top | Sofia | 11-Apr-2016 | Venue D
+Iron Maiden | Buenos Aires | 03-Mar-2014 | Venue D
+ZZ Top | London | 2-Aug-2014 | Venue E
+Iron Maiden | London | 28-Jul-2014 | Venue E
+Metallica | Sofia | 11-Aug-2014 | Venue E
+Helloween | Sofia | 1-Nov-2014 | Venue E
+Iron Maiden | Sofia | 20-June-2015 | Venue E
+ZZ Top | Sofia | 30-July-2015 | Venue E
+Iron Maiden | Sofia | 26-Sep-2014 | Venue E
+ZZ Top | London | 28-Jul-2014 | Venue E
+Twisted Sister | London | 30-Sep-2014 | Venue E
+Metallica | London | 03-Oct-2014 | Venue E
+ZZ Top | Sofia | 11-Apr-2016 | Venue E
+ZZ Top | Buenos Aires | 03-Mar-2014 | Venue E

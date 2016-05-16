@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Problem 3 - Styling a HTML Form</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+	<div id="wrapper">
+		<div id="bg">
+			<form method="post" action="#">
+				<h1>Step 1: Your details</h1>
+				<section>
+					<label>Name</label>
+					<input id="name" type="text" name="name" placeholder="First and last name" />
+				</section>
+				<section>
+					<label>Email</label>
+					<input id="email" type="email" name="email" placeholder="example@domain.com" />
+				</section>
+				<section>
+					<label>Phone</label>
+					<input id="phone" type="text" name="phone" placeholder="eg. +447500000000" />
+				</section>
+
+				<h1>Step 1: Delivery address</h1>
+				<section>
+					<label>Address</label>
+					<textarea id="message" name="message"></textarea>
+				</section>
+				<section>
+					<label>Post code</label>
+					<input id="code" type="text" name="code" />
+				</section>
+				<section>
+					<label>Country</label>
+					<input id="country" type="text" name="country" />
+				</section>
+
+				<h1>Step 1: Card details</h1>
+				<section>
+					<label>Card type</label>
+					<div class="radio">
+						<input type="radio" name="card" value="visa" /><img src="resources/visa.jpg" alt="visaLogo">VISA
+						<input type="radio" name="card" value="amex" /><img src="resources/amex.jpg" alt="AmExLogo">AmEx
+						<input type="radio" name="card" value="master" /><img src="resources/master.jpg" alt="MastercardLogo">Mastercard
+					</div>
+				</section>
+				<section>
+					<label>Card number</label>
+					<input id="card" type="text" name="card" />
+				</section>
+				<section>
+					<label>Security code</label>
+					<input type="password" name="pass" />
+				</section>
+				<section>
+					<label>Name on card</label>
+					<input id="name-on-card" type="text" name="name-on-card" placeholder="exact name as on card" />
+				</section>
+				<label>
+					<input type="submit" value="BUY IT!" /> 
+				</label>
+			</form>
+		</div>
+	</div>
+</body>
+</html>

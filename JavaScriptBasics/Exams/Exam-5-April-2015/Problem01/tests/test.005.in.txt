@@ -1,0 +1,8 @@
+carrot 3
+bread 1
+coin 1
+coin 105.01
+coin 2002.01
+coin fifty
+coin -100
+cigars 1

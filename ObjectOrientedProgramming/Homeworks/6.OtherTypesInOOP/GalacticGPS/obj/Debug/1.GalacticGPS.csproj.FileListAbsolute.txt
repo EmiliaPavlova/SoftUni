@@ -1,0 +1,5 @@
+D:\SoftUni\OOP\6. Other Types in OOP\HW6\GalacticGPS\bin\Debug\GalacticGPS.exe.config
+D:\SoftUni\OOP\6. Other Types in OOP\HW6\GalacticGPS\obj\Debug\GalacticGPS.exe
+D:\SoftUni\OOP\6. Other Types in OOP\HW6\GalacticGPS\obj\Debug\GalacticGPS.pdb
+D:\SoftUni\OOP\6. Other Types in OOP\HW6\GalacticGPS\bin\Debug\GalacticGPS.exe
+D:\SoftUni\OOP\6. Other Types in OOP\HW6\GalacticGPS\bin\Debug\GalacticGPS.pdb

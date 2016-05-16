@@ -1,0 +1,8 @@
+problemOne .cs 0.2MB
+compiler .cpp 0.3MB
+kernel .asm 52.5MB
+problemTwo .cs 0.9MB
+AC .iso 2700MB
+dataX .cpp 34MB
+problemThree .cs 0.9MB
+songs-archive .iso 23450.5MB

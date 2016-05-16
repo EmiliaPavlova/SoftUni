@@ -1,0 +1,24 @@
+<table border="1">
+<thead>
+<tr><th colspan="3">Blades</th></tr>
+<tr><th>Length [cm]</th><th>Type</th><th>Application</th></tr>
+</thead>
+<tbody>
+<tr><td>12</td><td>dagger</td><td>quite a blade</td></tr>
+<tr><td>503</td><td>sword</td><td>pants-scraper</td></tr>
+<tr><td>703</td><td>sword</td><td>pants-scraper</td></tr>
+<tr><td>804</td><td>sword</td><td>frog-butcher</td></tr>
+<tr><td>987</td><td>sword</td><td>quite a blade</td></tr>
+<tr><td>38</td><td>dagger</td><td>pants-scraper</td></tr>
+<tr><td>24</td><td>dagger</td><td>frog-butcher</td></tr>
+<tr><td>40</td><td>dagger</td><td>*rap-poker</td></tr>
+<tr><td>12</td><td>dagger</td><td>quite a blade</td></tr>
+<tr><td>503</td><td>sword</td><td>pants-scraper</td></tr>
+<tr><td>703</td><td>sword</td><td>pants-scraper</td></tr>
+<tr><td>804</td><td>sword</td><td>frog-butcher</td></tr>
+<tr><td>987</td><td>sword</td><td>quite a blade</td></tr>
+<tr><td>38</td><td>dagger</td><td>pants-scraper</td></tr>
+<tr><td>24</td><td>dagger</td><td>frog-butcher</td></tr>
+<tr><td>40</td><td>dagger</td><td>*rap-poker</td></tr>
+</tbody>
+</table>

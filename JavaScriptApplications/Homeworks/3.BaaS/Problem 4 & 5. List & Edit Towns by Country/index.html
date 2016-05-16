@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>List Countries</title>
+    <link rel="stylesheet" href="style.css"/>
+    <script src="../libs/jquery-2.2.1.min.js"></script>
+</head>
+<body>
+<div id="wrapper">
+    <form method="POST">
+        <input type="text" id="add-country" placeholder="Create new country..." />
+        <input type="submit" id="submit-country" value="Submit" />
+    </form>
+
+    <ul id="countries"></ul>
+
+    <form method="POST" id="edit-country-form" style="display: none">
+        <input type="text" id="edit-country-value" placeholder="Edit country..." />
+        <input type="submit" id="edit-country" value="Submit" />
+    </form>
+
+    <div id="selectedCountryTowns"></div>
+
+    <form method="POST" id="edit-town-form" style="display: none">
+        <input type="text" id="edit-town-value" placeholder="Edit town..." />
+        <input type="submit" id="edit-town" value="Submit" />
+    </form>
+
+</div>
+<script src="app.js"></script>
+<script src="data.js"></script>
+</body>
+</html>

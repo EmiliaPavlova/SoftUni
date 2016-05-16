@@ -1,0 +1,6 @@
+Blob Cenko: 50 HP, 25 Damage
+Blob Maria: 60 HP, 20 Damage
+Blob Cenko: 50 HP, 25 Damage
+Blob Maria: 35 HP, 20 Damage
+Blob Cenko: 50 HP, 25 Damage
+Blob Maria: 35 HP, 20 Damage

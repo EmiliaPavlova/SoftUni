@@ -1,0 +1,152 @@
+@font-face {
+	font-family: Fairview;
+	src: url("../Problem-2-Awesome-Site/Fairview_Regular.otf");
+}
+
+body, header, footer,
+section, article,
+h1, h4, ul, p {
+	margin: 0;
+	padding: 0;
+}
+
+#wrapper > header {
+	background-color: #E05E43;
+}
+
+	#wrapper > header > h1 {
+		text-align: center;
+	}
+
+		#wrapper > header > h1 > a {
+			font-family: Fairview, Helvetica, sans-serif;
+			text-decoration: none;
+			color: #fff;
+			font-size: 3em; 
+		}
+
+		#wrapper > header > h1 > a:hover {
+			color: #000;
+		}
+
+#wrapper > nav,
+main,
+footer > nav,
+footer > article {
+	margin: 0 auto;
+	width: 670px;
+}
+
+#wrapper > nav,
+footer > nav {
+	padding: 5px;
+	text-align: center;
+}
+
+nav > ul > li {
+	margin: 5px;
+	display: inline-block;
+	list-style: none;
+}
+
+#wrapper > nav > ul > li > a {
+	padding: 5px;
+	text-decoration: none;
+	color: #666666;
+	font-family: Fairview, Helvetica, sans-serif;
+	font-size: 1.5em;
+}
+
+#wrapper > nav > ul > li > a:focus {
+	background-color: #FF6347;
+	color: #fff;
+}
+
+
+#wrapper > nav > ul > li:hover a {
+	color: #000;
+}
+
+
+main {
+	width: 670px;
+}
+
+	h2, h4 {
+		font-family: 'Nunito', Arial, sans-serif;
+		font-weight: 700;
+	}
+
+	section > header {
+		width: 670px;
+		border-bottom: 1px solid lightgray;
+	}
+
+	section > article {
+		display: inline-block;
+	}
+
+		section h4 {
+		margin: 20px 0;
+	}
+
+		article > p,
+		footer > article > a {
+			padding: 0 30px 10px 0;
+			font-family: 'Nunito', Arial, sans-serif;
+			font-style: normal;
+  			font-weight: 400;
+		}
+
+		.program a {
+			color: #B10000;
+			text-decoration: none;
+			border-bottom: dotted;
+		}
+
+		.program a:hover {
+			color: #000;
+			border-bottom: 1px solid #FF6347;
+		}
+
+footer {
+	margin: 50px 0;
+	background-color: #222222;
+}
+
+	footer > nav {
+		border-bottom: 1px solid #4B4D50;
+	}
+
+		footer > nav > ul > li {
+			font-family: 'Nunito', Arial, sans-serif;
+			font-weight: 700;
+		}
+
+			footer > nav > ul > li > a {
+				padding: 5px;
+				text-decoration: none;
+				color: lightgray;
+			}
+
+			footer > nav > ul > li > a:hover {
+				background-color: gray;
+				color: #B10000;
+			}
+
+	footer > article {
+		margin: 10px auto;
+	}
+
+		footer > article > a  {
+			padding-bottom: 10px;
+			padding: 0px;
+			font-size: 0.7em;
+			text-align: center;
+			text-decoration: none;
+			color: #4B4D50;
+		}
+
+			footer article a p:last-child {
+				padding-bottom: 10px;
+			}

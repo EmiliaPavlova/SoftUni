@@ -1,0 +1,1 @@
+list=PHP%3A+Get+the+number+of+parameter+a+function+accepts%0D%0AIs+there+any+method+for+finding+the+number+of+parameters+a+php+function+will+accept%2C+Like+pow+-+2+strlen+-+2+sqrt+-+1+I+have+dome+some+research+and+got+to+...%0D%0Aphp+function%0D%0Aasked+%0D%0ADec+26+2014%0D%0Aat+12%3A41&currDate=1-1-2015

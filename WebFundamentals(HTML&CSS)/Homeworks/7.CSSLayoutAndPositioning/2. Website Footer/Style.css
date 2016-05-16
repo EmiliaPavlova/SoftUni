@@ -1,0 +1,84 @@
+#wrapper {
+	margin: 0 auto;
+	padding: 20px 10px 10px 10px;
+	background-color: #234465;
+	height: 250px;
+	width: 960px;
+	font-family: Tahoma;
+	color: #FFF;
+	box-sizing: border-box;
+}
+
+section {
+	width: 150px;
+	display: inline-block;
+	vertical-align: top;
+	font-size: 12px;
+}
+
+.buttons > form {
+	margin-right: 15px;
+	text-align: right;
+}
+
+input {
+	margin: 0px auto 5px;
+	width: 80%;
+	height: 20%;
+	background-color: #234465; 
+ 	border: 1px solid #FF9C00;
+ 	color: #FFF;
+ 	text-align: center;
+ 	line-height: 30px;
+}
+
+input:hover {
+	background-color: #FF9C00;
+	transition: 1s;
+	cursor: pointer;
+}
+
+header {
+	margin-bottom: 10px;
+	text-transform: uppercase;
+	color: #FF9C00;
+	font-weight: bold;
+}
+
+li {
+	padding: 5px 0px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.about a:visited,
+.friends a:visited {
+	text-decoration: none;
+	color: #FFF;
+}
+
+.about a:hover,
+.friends a:hover {
+	color: #FF9C00;
+}
+
+.about a:focus,
+.friends a:focus {
+	color: #2A6496;
+	text-decoration: underline;
+}
+
+.learrning-system {
+	width: 25%;
+}
+
+form img {
+	margin-top: 5px;
+	margin-right: 5px;
+}
+
+.facebook-like-box {
+	width: 220px;
+}

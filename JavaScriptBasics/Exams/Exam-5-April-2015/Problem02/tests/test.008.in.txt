@@ -1,0 +1,4 @@
+1
+3
+pesho, 1
+gosho, 2

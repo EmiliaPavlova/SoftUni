@@ -1,0 +1,1 @@
+{".aspx":{"files":["index","profile"],"memory":"19.00"},".css":{"files":["style"],"memory":"178.00"},".docx":{"files":["examProblemOne","exceptionsHW","webfundHW"],"memory":"11.00"},".html":{"files":["testHTML","web"],"memory":"56.22"},".js":{"files":["jquery","script"],"memory":"20.20"},".xml":{"files":["spreadsheet","xml"],"memory":"6.00"}}

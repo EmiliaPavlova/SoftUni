@@ -1,0 +1,139 @@
+body, header, footer, ul, h1 {
+	margin: 0;
+	padding: 0;
+}
+
+#wrapper {
+	font-family: Tahoma, sans-serif;
+}
+
+header, footer {
+	background-color: #EEEEEE;
+}
+
+	header > section,
+	footer > section {
+		margin: 0px auto;
+		padding: 10px;
+		width: 920px;
+	}
+
+		header > section > ul {
+			padding: 10px 0;
+			display: flex;
+			flex-flow: row wrap;
+			justify-content: space-between;
+			align-items: center;
+		}
+
+		header > section > ul > li {
+			display: inline-block;
+			list-style: none;
+		}
+
+			header > section > ul > li image {
+				margin-top: 0px;
+			}
+
+			header > section > ul > li > a {
+				padding: 15px;
+				margin: 30px 20px 0 20px;
+				text-decoration: none;
+				color: #81819C;
+				font-weight: bold;
+				
+			}
+
+			header > section > ul > li:hover > a {
+				background-color: #CAD1D1;
+				border-radius: 6px;
+			}
+			
+			header > section > ul > li > a:focus {
+				color: #F99600;
+			}
+
+main {
+	margin: 0 auto;
+	padding: 30px 0;
+	width: 840px;
+	color: #3E3E3E;
+}
+	
+	main > h1 {
+		margin-top: 10px;
+		margin-left: 4px;
+		font-weight: normal;
+	}
+
+	article > section {
+		padding: 5px;
+		width: 400px;
+		display: inline-block;
+		vertical-align: top;
+	}
+
+		footer > section > p {
+			margin: 20px 0 30px 0;
+			font-size: 0.9em;
+			color: #3E3E3E;
+			display: inline-block;
+		}
+
+		footer .social-links {
+			float: right;
+			margin-left: 30px;
+			margin: 0 20px 30px;
+			vertical-align: top;
+		}
+
+		footer .social-links, 
+		footer p {
+			display: inline-block;
+		}
+
+		footer .social-links > div {
+			display: inline-block;
+			margin: 20px 0 20px 20px;
+			cursor: pointer;
+		}
+
+		footer > section .social-links .facebook {
+			width: 30px;
+			height: 30px;
+			background: url("../Problem-2-Lorem-Ipsum-Site/icons.png") 0 0;
+		}
+
+		footer > section .social-links .facebook:hover {
+			background-position: -40px 0;
+		}
+
+		footer > section .social-links .google-plus {
+			width: 30px;
+			height: 30px;
+			background: url("../Problem-2-Lorem-Ipsum-Site/icons.png") 0 -40px;
+		}
+
+		footer > section .social-links .google-plus:hover {
+			background-position: -40px -40px;
+		}
+
+		footer > section .social-links .twitter {
+			width: 30px;
+			height: 30px;
+			background: url("../Problem-2-Lorem-Ipsum-Site/icons.png") 0 -80px;
+		}
+
+		footer > section .social-links .twitter:hover {
+			background-position: -40px -80px;
+		}
+
+		footer > section .social-links .t-smth {
+			width: 30px;
+			height: 30px;
+			background: url("../Problem-2-Lorem-Ipsum-Site/icons.png") 0 -120px;
+		}
+
+		footer > section .social-links .t-smth:hover {
+			background-position: -40px -120px;
+		}

@@ -1,0 +1,45 @@
+table {
+    margin: 0 auto;
+    width:200px;
+    border-collapse:collapse;
+}
+
+.days > td {
+    font-weight: bold;
+    border-bottom: 1px solid #888;
+    border-top: 1px solid #888;
+}
+
+td {
+    width:30px;
+    font-family: Arial, sans-serif;
+    border-collapse:collapse;
+    text-align:center;
+}
+
+.onecal{
+    vertical-align:top;
+    border: none;
+}
+
+.cal{
+    margin: 0 3px;
+    padding:3px;
+}
+
+th {
+    font-family: Arial, sans-serif;
+    border-collapse:collapse;
+}
+
+h1 {
+    margin: 0 auto;
+    width: 840px;
+    text-align: center;
+    font-size: 40px;
+    border-bottom: 1px solid #888;
+}
+
+tr.days > td:nth-child(7) {
+    color: red;
+}

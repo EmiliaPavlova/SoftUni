@@ -1,0 +1,30 @@
+Blob Maria: 130 HP, 20 Damage
+Blob Cenko: 50 HP, 15 Damage
+Blob Maria: 70 HP, 20 Damage
+Blob Cenko: 3 HP, 20 Damage
+Blob Maria: 60 HP, 20 Damage
+Blob Cenko: 3 HP, 15 Damage
+Blob Maria: 40 HP, 20 Damage
+Blob Cenko KILLED
+Blob Maria: 30 HP, 20 Damage
+Blob Cenko KILLED
+Blob Maria: 20 HP, 20 Damage
+Blob Cenko KILLED
+Blob Maria: 10 HP, 20 Damage
+Blob Cenko KILLED
+Blob Maria KILLED
+Blob Cenko KILLED
+Blob Maria KILLED
+Blob Cenko KILLED
+Blob Maria KILLED
+Blob Cenko KILLED
+Blob Maria KILLED
+Blob Cenko KILLED
+Blob Maria KILLED
+Blob Cenko KILLED
+Blob Maria KILLED
+Blob Cenko KILLED
+Blob Maria KILLED
+Blob Cenko KILLED
+Blob Maria KILLED
+Blob Cenko KILLED

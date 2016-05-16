@@ -1,0 +1,8 @@
+create Sir 70 20 Aggressive Blobplode
+create Stenly 33 15 Aggressive Blobplode
+create Royce 50 20 Inflated Blobplode
+status
+attack Stenly Royce
+status
+status
+drop

@@ -1,0 +1,4 @@
+<table>
+<tr><th>Num</th><th>Square</th><th>Fib</th></tr>
+<tr><td>500</td><td>250000</td><td>no</td></tr>
+</table>

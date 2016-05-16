@@ -1,0 +1,108 @@
+body {
+	background-color: #EEEEEE;
+	padding: 10px;
+}
+
+#wrapper {
+	margin: 0 auto;
+	padding: 20px;
+	width: 800px;
+	box-sizing: border-box;
+	font-family: Tahoma, Helvetica, sans-serif;
+	background-color: #fff;
+	box-shadow: 0 0 10px #D3D3D3;
+	border-radius: 10px;
+}
+
+header > h1 {
+	font-size: 24px;
+	font-weight: normal;
+	text-align: center;
+}
+
+header > h4 {
+	padding: 0 15px;
+	font-size: 13px;
+	font-weight: normal;
+	text-align: center;
+}
+
+section {
+	margin: 0 auto;
+	width: 650px;
+	border-top: 1px solid #8B9395;
+}
+
+	form {
+		width: 320px;
+		display: inline-block;
+		vertical-align: top;
+		position: relative;
+
+	}
+
+		h2 {
+			margin-bottom: 0;
+			font-size: 20px;
+			font-weight: normal;
+		}
+
+		input[type="text"],
+		input[type="password"] {
+			margin: 10px 0;
+			padding: 10px;
+			width: 80%;
+			border-radius: 4px;
+			border: 1px solid #8B9395;
+		}
+
+		span.ok {
+			background: url(../Problem-3-Free-Account/ok.png) no-repeat;
+			width: 24px;
+			height: 24px;
+			position: absolute;
+			margin: 16px -34px;
+		}
+
+		span.not-ok {
+			background: url(../Problem-3-Free-Account/no.png) no-repeat;
+			width: 24px;
+			height: 24px;
+			position: absolute;
+			margin: 16px -34px;
+		}
+
+		input[type="checkbox"] {
+			box-shadow: 0 0 2px #000;
+		}
+
+		p {
+			color: #8B9395;
+		}
+
+		input[type="submit"] {
+			padding: 10px 20px;
+			font-family: Tahoma, Helvetica, sans-serif;
+			font-weight: bold;
+			font-size: 16px;
+			background-color: #EEEEEE;
+			border: 0;
+			border-radius: 6px;
+			box-shadow: 0 1px 2px #8B9395;
+		}
+
+		input[type="submit"]:hover {
+			background-color: #B0DF67;
+			cursor: pointer;
+		}
+
+		form > a {
+			margin: 10px 0 20px 0;
+			text-decoration: none;
+			color: #FF6464;
+			display: block;
+		}
+
+		form > a:hover {
+			text-decoration: underline;
+		}

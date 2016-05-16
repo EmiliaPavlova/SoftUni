@@ -1,0 +1,1 @@
+﻿$giftOfPetyrcho = $[wasChildGood] ? 'Big Truck' : 'What is black and white and red all over?';

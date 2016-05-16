@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MassEffect.Engine.CommandManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAADAAAAAAAAAA=</HashCode>
+      <FileName>Engine\CommandManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MassEffect.Engine.GameEngine" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAQAAIAAIgAAAAAAAAAACAAAI=</HashCode>
+      <FileName>Engine\GameEngine.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MassEffect.Engine.Messages" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAABAAAAACAAAoAAAAAAQAAAAAAAAAAQAA=</HashCode>
+      <FileName>Engine\Messages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MassEffect.Engine.Commands.AttackCommand" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\Commands\AttackCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MassEffect.Engine.Commands.Command" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\Commands\Command.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MassEffect.Engine.Commands.CreateCommand" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\Commands\CreateCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MassEffect.Engine.Commands.OverCommand" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\Commands\OverCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MassEffect.Engine.Commands.PlotJumpCommand" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\Commands\PlotJumpCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MassEffect.Engine.Commands.StatusReportCommand" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\Commands\StatusReportCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MassEffect.Engine.Factories.EnhancementFactory" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\Factories\EnhancementFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MassEffect.Engine.Factories.ShipFactory" Collapsed="true">
+    <Position X="13.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\Factories\ShipFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MassEffect.Exceptions.DublicateShipException" Collapsed="true">
+    <Position X="5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\DublicateShipException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MassEffect.Exceptions.InsufficientFuelException" Collapsed="true">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\InsufficientFuelException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MassEffect.Exceptions.LocationOutOfRangeException" Collapsed="true">
+    <Position X="2.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\LocationOutOfRangeException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MassEffect.Exceptions.ShipException" Collapsed="true">
+    <Position X="2.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\ShipException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MassEffect.GameObjects.Enhancements.Enhancement" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAQAAAAAAAAAAQAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Enhancements\Enhancement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MassEffect.GameObjects.Galaxy" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAgAAA=</HashCode>
+      <FileName>GameObjects\Galaxy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MassEffect.GameObjects.Locations.StarSystem" Collapsed="true">
+    <Position X="15.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Locations\StarSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MassEffect.GameObjects.Ships.Cruiser" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Ships\Cruiser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MassEffect.GameObjects.Ships.Dreadnought" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Ships\Dreadnought.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MassEffect.GameObjects.Ships.Frigate" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Ships\Frigate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MassEffect.GameObjects.Ships.Starship" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAiACAAAAAAAAAAAIgAAQAQAAgAEAAAgAAIAAAAAA=</HashCode>
+      <FileName>GameObjects\Ships\Starship.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MassEffect.MassEffectMain" Collapsed="true">
+    <Position X="15.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>MassEffectMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="MassEffect.Interfaces.ICommandManager" Collapsed="true">
+    <Position X="12" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICommandManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MassEffect.Interfaces.IEnhanceable" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Interfaces\IEnhanceable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MassEffect.Interfaces.IGameEngine" Collapsed="true">
+    <Position X="13.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAQAAIAAIgAAAAAAAAAACAAAI=</HashCode>
+      <FileName>Interfaces\IGameEngine.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MassEffect.Interfaces.IProjectile" Collapsed="true">
+    <Position X="15.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IProjectile.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MassEffect.Interfaces.IStarship" Collapsed="true">
+    <Position X="8.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAiACAAAAAAAAAAAIgAAQAAAAgAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IStarship.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="MassEffect.GameObjects.Enhancements.EnhancementType" Collapsed="true">
+    <Position X="12" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Enhancements\EnhancementType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MassEffect.GameObjects.Ships.StarshipType" Collapsed="true">
+    <Position X="13.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAgAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Ships\StarshipType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

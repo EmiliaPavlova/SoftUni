@@ -1,0 +1,117 @@
+body, h1, ul, li, section, article {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Open-sans, sans-serif;
+	background-color: #F3F3F5;
+}
+
+body > header {
+	background: url(../Problem-2-FAQ-Page/bgr.jpg);
+}
+
+	body > header > section {
+		margin: 0 auto;
+		width: 920px;
+		height: 350px;
+		position: relative;
+	}
+
+		section > div {
+			padding: 15px 5px;
+			width: 280px;
+			position: absolute;
+			top: 230px;
+			left: 460px;
+			background-color: rgba(66, 70, 75, 0.8);
+		}
+
+		h1 {
+			color: #fff;
+			font-size: 3.5em;
+			font-family: 'Lobster', cursive;
+			text-align: center;
+		}
+
+main {
+	margin: 0 auto;
+	padding-top: 10px;
+	width: 920px;
+}
+
+	aside {
+		width: 200px;
+		display: inline-block;
+		vertical-align: top;
+	}
+
+		aside > ul > a {
+			color: #fff;
+			text-decoration: none;
+		}
+
+			aside > ul li {
+				margin-left: 4px;
+				padding: 10px;
+				width: 176px;
+				background-color: #4E5359;
+				box-shadow: -4px 0 #4E5359;
+				list-style: none;
+			}
+
+			aside > ul a:active li {
+				background-color: #43484C;
+				box-shadow: -4px 0 #00DFA5;
+			}
+
+			aside > ul a:hover li {
+				background-color: #5D6167;
+				box-shadow: -4px 0 #006E6C;
+			}
+
+		aside > img {
+			margin-top: 10px;
+		}
+
+	main > section {
+		margin-left: 6px;
+		width: 700px;
+		display: inline-block;
+		vertical-align: top;
+	}
+
+		main > section > article {
+			margin-bottom: 10px;
+			padding: 10px;
+			background-color: #fff;
+			border-top: 2px solid #BAB8BE;
+		}
+
+			main > section > article > header {
+				color: #BAB8BE;
+				font-weight: bold;
+				text-transform: uppercase;
+			}
+
+			main > section > article a {
+				color: #3200EC;
+				text-decoration: none;
+			}
+
+			main > section > article p {
+				color: #BAB8BE;
+			}
+
+footer {
+	margin-top: 10px;
+	padding: 10px 0 50px 0;
+	background-color: #C9C7CC;
+}
+
+	footer > div {
+		margin: 0 auto;
+		width: 920px;
+		color: #748188;
+	}

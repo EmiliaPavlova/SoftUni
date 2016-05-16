@@ -1,0 +1,16 @@
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Data\bin\Debug\Restaurants.Data.dll.config
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Data\bin\Debug\Restaurants.Data.dll
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Data\bin\Debug\Restaurants.Data.pdb
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Data\bin\Debug\EntityFramework.dll
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Data\bin\Debug\Restaurants.Models.dll
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Data\bin\Debug\Restaurants.Models.pdb
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Data\bin\Debug\EntityFramework.xml
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Data\obj\Debug\Restaurants.Data.csprojResolveAssemblyReference.cache
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Data\obj\Debug\Restaurants.Data.dll
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Data\obj\Debug\Restaurants.Data.pdb

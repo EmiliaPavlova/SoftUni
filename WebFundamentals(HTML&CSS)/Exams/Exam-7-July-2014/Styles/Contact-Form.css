@@ -1,0 +1,123 @@
+@font-face {
+	font-family: Yanone;
+	src: url(../Problem-3-Contact-Form/yanonekaffeesatz-regular-webfont.ttf);
+}
+
+body, h1, h2 {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-image: url(../Problem-3-Contact-Form/form-background.png);
+	background-repeat: repeat;
+}
+
+form {
+	margin: 20px auto;
+	width: 960px;
+	font-family: Yanone, Arial, sans-serif;
+	position: relative;
+}
+
+h1 {
+	font-size: 3em;
+	color: #7C7873;
+	text-shadow: 0 1px #F6F3ED;
+	text-align: center;
+}
+
+.envelope-top {
+	background: url("../Problem-3-Contact-Form/envelope-top.png");
+	width: 530px;
+	height: 316px;
+	position: absolute;
+	top: 250px;
+	left: 215px;
+	z-index: -1;
+}
+
+article {
+	margin: 20px auto;
+	padding: 10px 15px;
+	width: 450px;
+	height: 500px;
+	background: url("../Problem-3-Contact-Form/letter-background.png");
+	background-repeat: repeat;
+	border: 10px solid #F6F3ED;
+	border-radius: 6px;
+	box-shadow: 0 0 1px #7C7873;
+	box-sizing: border-box;
+}
+
+	h2 {
+		font-size: 1.6em;
+		font-weight: normal;
+		color: #7C7873;
+		text-shadow: 0 1px #F6F3ED;
+	}
+
+	label {
+		color: #C4BCB9;
+		text-transform: uppercase;
+	}
+
+	textarea#message {
+		margin-bottom: 20px;
+		padding: 10px;
+		width: 400px;
+		height: 80px;
+		font-family: Helvetica, Arial, serif;
+		background-color: transparent;
+		border: none;
+		border-radius: 3px;
+		box-shadow: 0 0 1px #7C7873;
+		box-sizing: border-box;
+	}
+
+	textarea#message:focus {
+		background-color: #F6F3ED;
+	}
+
+	input[type="text"]{
+		margin-bottom: 10px;
+		padding: 10px;
+		width: 400px;
+		background-color: transparent;
+		border: none;
+		border-radius: 3px;
+		box-shadow: 0 0 1px #7C7873;
+		box-sizing: border-box;
+	}
+
+	input[type="submit"] {
+		margin: 10px 125px;
+		width: 150px;
+		background-color: transparent;
+		font-size: 1.6em;
+		font-family: Yanone, Arial, sans-serif;
+		text-align: center;
+		border: none;
+		color: #7C7873;
+		text-shadow: 0 1px #F6F3ED;
+		cursor: pointer;
+	}
+
+	input[type="submit"]:hover {
+		background-color: #BBC9CF;
+		color: #435C70;
+		font-weight: bold;
+		text-shadow: 0 1px #F6F3ED;
+		border: none;
+		border-radius: 3px;
+	}
+
+.envelope-bottom {
+	background: url("../Problem-3-Contact-Form/envelope-bottom.png");
+	width: 530px;
+	height: 260px;
+	position: absolute;
+	top: 434px;
+	left: 215px;
+	z-index: 1;
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Problem 2 - Kent’s Media Profile</title>
+
+	<meta charset="UTF-8">
+	<link type="text/css" rel="stylesheet" href="styles/CSS-Reset.css" />
+    <link type="text/css" rel="stylesheet" href="styles/Problem2.css" />
+</head>
+<body>
+	<div id="wrapper">
+		<header>Profile</header>
+		<section>
+			<figure id="user">
+				<header>User: Kent</header>
+	  			<img src="images/ken.jpg" alt="User photo" width="300" height="244">
+	  			<figcaption>Profile completed 60%<br>
+				<meter value="0.6">60%</meter>
+			</figcaption>
+			</figure>
+			<!-- Sorry, but the limit for uploading homework is only 2 MB, that's why I can't add different songs. -->
+			<figure id="audio">
+				<header>Uploaded Audio Files</header>
+					<embed src="audio/beyonce-halo.mp3" type="audio/mpeg" />
+				<audio controls>
+					<source src="audio/beyonce-halo.mp3" type="audio/mpeg" />
+					Your browser does not support the audio element.
+				</audio>
+				<audio controls>
+					<source src="audio/beyonce-halo.mp3" type="audio/mpeg" />
+					Your browser does not support the audio element.
+				</audio>
+				<audio controls>
+					<source src="audio/beyonce-halo.mp3" type="audio/mpeg" />
+					Your browser does not support the audio element.
+				</audio>
+			</figure>
+			<figure id="video">
+				<header>Uploaded Video Files</header>
+					<iframe width="400" height="300" src="https://www.youtube.com/embed/XEyV3b4ipWM" allowfullscreen type="video/mpg">Your browser does not support the video tag.</iframe>
+			</figure>
+		</section>
+	</div>
+</body>
+</html>

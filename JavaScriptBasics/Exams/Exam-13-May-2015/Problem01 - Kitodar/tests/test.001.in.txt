@@ -1,0 +1,4 @@
+mine mina1 - silver:4
+mine mina2 - gold 					:			5
+mina nevaldna
+empty

@@ -1,0 +1,1 @@
+{".asm":{"files":["GNU_HURD","GNU_chess","flag","gentoo"],"memory":"655.49"},".aspx":{"files":["index","profile"],"memory":"15.00"},".cpp":{"files":["clock"],"memory":"1.10"},".exe":{"files":["debugger","f.lux"],"memory":"57.42"},".java":{"files":["cloudManager","powerMng"],"memory":"19.00"}}

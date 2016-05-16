@@ -1,0 +1,10 @@
+body {
+	width:950px;
+	height: 120px;
+}
+div {
+	background-color: #FF9C00;
+	border:1px solid #234465;
+	border-radius:60px;
+	padding-right: 5%
+}

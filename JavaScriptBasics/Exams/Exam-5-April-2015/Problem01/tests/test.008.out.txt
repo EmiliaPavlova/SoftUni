@@ -1,0 +1,3 @@
+gold : 7
+silver : 2
+bronze : 2

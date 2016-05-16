@@ -1,0 +1,6 @@
+D:\SoftUni\OOP\6. Other Types in OOP\HW6\GenericList\bin\Debug\GenericList.exe.config
+D:\SoftUni\OOP\6. Other Types in OOP\HW6\GenericList\obj\Debug\3.GenericList.csprojResolveAssemblyReference.cache
+D:\SoftUni\OOP\6. Other Types in OOP\HW6\GenericList\bin\Debug\GenericList.exe
+D:\SoftUni\OOP\6. Other Types in OOP\HW6\GenericList\bin\Debug\GenericList.pdb
+D:\SoftUni\OOP\6. Other Types in OOP\HW6\GenericList\obj\Debug\GenericList.exe
+D:\SoftUni\OOP\6. Other Types in OOP\HW6\GenericList\obj\Debug\GenericList.pdb

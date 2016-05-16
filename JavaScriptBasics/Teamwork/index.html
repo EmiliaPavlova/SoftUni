@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" href="CSS/gameStyle.css" type="text/css"/>
+    <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+    <script src="JS/framework.js" type="text/javascript"></script>
+</head>
+<body>
+<div class="wrapper">
+    <div id="new-game">
+        <h1>ROAD RAGE</h1>
+        <img src="resources/grandmadriver.jpg" alt=""/>
+        <div class="difficulty-buttons">
+            <button class="difficulty" id="difficulty1" onclick="setGameDifficulty(3)">Easy</button>
+            <button class="difficulty" id="difficulty2" onclick="setGameDifficulty(1.5)">Medium</button>
+            <button class="difficulty" id="difficulty3" onclick="setGameDifficulty(1)">Hard</button>
+            <button class="difficulty" id="difficulty4" onclick="setGameDifficulty(0.5)">Hardcore</button>
+        </div>
+        <button id="instructions-btn">Game instructions</button>
+        <button id="hide">Start new game</button>
+        <p>© 2015-2015 -  <a href="https://github.com/Team-Leibniz" target="_blank">Team-Leibniz</a>. Member of<a href="https://softuni.bg" target="_blank"> Software University</a>. All Rights Reserved.</p>
+    </div>
+
+    <div id="instructions">
+        <h1>Game Instructions</h1>
+        <div id="keys"></div>
+        <div id="text">
+            <ul>
+                <li><span class="movement">UP</span>  -  move up</li>
+                <li><span class="movement">DOWN</span>  -  move down</li>
+                <li><span class="movement">LEFT</span>  -  move left</li>
+                <li><span class="movement">RIGHT</span>  -  move right</li>
+                <li><span class="movement">SPACE</span>  -  shoot with RPG</li>
+                <li><span class="movement">B</span>  -  deploy bomb</li>
+                <li id="bomb"><span></span>  -  Bomb</li>
+                <li id="rpg"><span></span>  -  RPG rocket</li>
+                <li id="money"><span></span>  -  Price +50 scores</li>
+            </ul>
+        </div>
+        <button id="close">Close</button>
+    </div>
+
+    <div id="game-over-overlay">
+    </div>
+
+    <div id="game-over">
+        <h1 id="p1">GAME OVER!</h1>
+        <p id="result"></p>
+        <h2>Credits</h2>
+        <p>Emilia Pavlova</p>
+
+        <p>Stefan Gramadnikov</p>
+
+        <p>Radoslav Nikolov</p>
+
+        <p>Borislav Yordanov</p>
+        <button id="play-again">Play Again</button>
+    </div>
+    <audio preload="true" id="car-horn1">
+        <source src="resources/vehicleHorn.wav" />
+    </audio>
+    <audio preload="true" id="car-crash">
+        <source src="resources/crashSound.wav" />
+    </audio>
+    <audio preload="true" id="scream">
+        <source src="resources/pain.wav" />
+    </audio>
+    <audio preload="true" id="coin-sound">
+        <source src="resources/coin.wav" />
+    </audio>
+    <audio preload="true" id="explosion">
+        <source src="resources/explosion.wav" />
+    </audio>
+    <div id="menu">
+        <span id="scores"></span>
+        <span id="bombs-quantity"></span>
+        <span id="rpg-quantity"></span>
+    </div>
+    <canvas id="canvasBG" width="1330" height="700"></canvas>
+    <canvas id="canvas" width="1330" height="700" >
+        Your browser does not support canvas.
+    </canvas>
+</div>
+<script src="JS/player.js"></script>
+<script src="JS/car.js"></script>
+<script src="JS/price.js"></script>
+<script src="JS/generateElements.js"></script>
+<script src="JS/deployedElements.js"></script>
+<script src="JS/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,1 @@
+﻿$giftOf&lt;goshko&gt; = $[wasChildGood]? 'doggy' : 'What goes up when rain comes down?';

@@ -1,0 +1,11 @@
+Silvester - Java : 100
+Johny - Java : 10
+Silvester - Java: 110
+Johny - Java : 20
+Johny - Java : 30
+Johny - Java : 40
+Johny - Java : 120
+Silvester - C#:200
+Johny-C# :                      200
+Johny - C# : 800
+Johny - C#:200

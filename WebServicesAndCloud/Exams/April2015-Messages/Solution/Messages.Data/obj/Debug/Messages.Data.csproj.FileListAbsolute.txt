@@ -1,0 +1,13 @@
+D:\SoftUni\Web Services and Cloud\Exams\WSC April 2015 - Messages\Solution\Messages.Data\bin\Debug\Messages.Data.dll
+D:\SoftUni\Web Services and Cloud\Exams\WSC April 2015 - Messages\Solution\Messages.Data\bin\Debug\Messages.Data.pdb
+D:\SoftUni\Web Services and Cloud\Exams\WSC April 2015 - Messages\Solution\Messages.Data\bin\Debug\EntityFramework.dll
+D:\SoftUni\Web Services and Cloud\Exams\WSC April 2015 - Messages\Solution\Messages.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\Web Services and Cloud\Exams\WSC April 2015 - Messages\Solution\Messages.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\SoftUni\Web Services and Cloud\Exams\WSC April 2015 - Messages\Solution\Messages.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SoftUni\Web Services and Cloud\Exams\WSC April 2015 - Messages\Solution\Messages.Data\bin\Debug\EntityFramework.xml
+D:\SoftUni\Web Services and Cloud\Exams\WSC April 2015 - Messages\Solution\Messages.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\Web Services and Cloud\Exams\WSC April 2015 - Messages\Solution\Messages.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\SoftUni\Web Services and Cloud\Exams\WSC April 2015 - Messages\Solution\Messages.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SoftUni\Web Services and Cloud\Exams\WSC April 2015 - Messages\Solution\Messages.Data\obj\Debug\Messages.Data.csprojResolveAssemblyReference.cache
+D:\SoftUni\Web Services and Cloud\Exams\WSC April 2015 - Messages\Solution\Messages.Data\obj\Debug\Messages.Data.dll
+D:\SoftUni\Web Services and Cloud\Exams\WSC April 2015 - Messages\Solution\Messages.Data\obj\Debug\Messages.Data.pdb

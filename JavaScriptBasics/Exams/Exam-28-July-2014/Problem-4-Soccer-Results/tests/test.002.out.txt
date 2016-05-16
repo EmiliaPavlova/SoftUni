@@ -1,0 +1,1 @@
+{"CSKA":{"goalsScored":0,"goalsConceded":1,"matchesPlayedWith":["Levski"]},"Levski":{"goalsScored":5,"goalsConceded":1,"matchesPlayedWith":["CSKA","Loko Gorna"]},"Loko Gorna":{"goalsScored":3,"goalsConceded":8,"matchesPlayedWith":["Levski","Pavlikeni"]},"Pavlikeni":{"goalsScored":4,"goalsConceded":2,"matchesPlayedWith":["Loko Gorna"]}}

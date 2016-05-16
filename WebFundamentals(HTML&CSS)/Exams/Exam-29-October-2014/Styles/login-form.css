@@ -1,0 +1,147 @@
+@font-face {
+	font-family: Glyphs;
+	src: url("../Problem-3-Login-Form/glyphicons-halflings-regular.ttf");
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	background-image: url("../Problem-3-Login-Form//background.png");
+}
+
+#wrapper {
+	margin: 30px auto;
+	padding: 22px;
+	width: 750px;
+	height: 320px;
+	box-sizing: border-box;
+	background-color: #333;
+}
+
+header {
+	background-color: #679966;
+	width: 706px;
+}
+
+	header h1 {
+		font-size: 25px;
+		font-family: Lobster, sans-serif;
+		text-align: center;
+		color: #D5D9BA; 
+	}
+
+section {
+	width: 350px;
+	height: 215px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+section.ad {
+	background-color: #282828;
+}
+
+section.ad > article {
+	height: 100px;
+	box-sizing: border-box;
+}
+
+	article.fire {
+		margin-top: 10px;
+	}
+
+	article.fire:before {
+		content: "\e104";
+		font-family: Glyphs;
+		margin: 10px 0 0 40%;
+		font-size: 4em;
+		color: #D5D9BA; 
+	}
+
+	article.menu {
+		border-top: 1px solid #D5D9BA;
+	}
+
+		article.menu ul {
+			padding: 0;
+			list-style: none;
+			text-align: center;
+		}
+
+			article.menu ul li {
+				margin-top: 10px;
+			}
+
+			article.menu ul li:before {
+				content: "\e089";
+				font-family: Glyphs;
+				font-size: 0.9em;
+				color: #D5D9BA; 
+				padding-right: 5px;
+			}
+
+				article.menu ul li a {
+					text-decoration: none;
+					color: #D5D9BA; 
+				}
+
+	h3 {
+		margin: 0;
+		color: #D5D9BA; 
+		text-align: center;
+	}
+
+	section.login form input {
+		display: inline-block;
+		width: 75%;
+		height: 28px;
+		margin-top: 20px;
+		padding-left: 10px;
+		border: 1px solid #A59E99;
+		border-radius: 0 4px 4px 0;
+		box-sizing: border-box;
+	}
+
+	section.login form input:focus {
+		border: 1px solid #66AFE9;
+	}
+
+	section.login form label:before {
+		background-color: #679966;
+		color: #333;
+		font-size: 0.8em;
+		display: inline-block;
+		width: 30px;
+		height: 28px;
+		padding: 5px 0 0 8px;
+		margin-left: 20px;
+		box-sizing: border-box;
+		border-radius: 4px 0 0 4px;
+	}
+
+	section.login form label[for="username"]:before {
+		content: "\e008";
+		font-family: Glyphs;
+	}
+
+	section.login form label[for="country"]:before {
+		content: "\e135";
+		font-family: Glyphs;
+	}
+
+	section.login form input[type="submit"] {
+		margin-left: 20px;
+		padding: 5px;
+		width: 294px;
+		height: 30px;
+		background-color: #282828;
+		color: #D5D9BA;
+		border: none;
+		border-radius: 4px;
+	}
+
+	section.login form input[type="submit"]:hover {
+		background-color: #679966;
+		cursor: pointer;
+	}

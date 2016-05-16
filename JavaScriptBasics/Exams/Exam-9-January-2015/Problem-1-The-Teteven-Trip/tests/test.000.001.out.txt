@@ -1,0 +1,5 @@
+BMW petrol 1 15
+Golf petrol 2 12
+Lada gas 1 16
+Mercedes diesel 2 12
+

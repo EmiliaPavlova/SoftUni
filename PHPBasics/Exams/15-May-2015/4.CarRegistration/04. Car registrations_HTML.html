@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Car Registrations</title>
+    <meta charset="utf-8" />
+</head>
+
+<body>
+<form method="get" action="CarRegistration.php">
+    Today:
+    <br/>
+    <input type="text" name="today" value="15/05/2015"/><br/>
+    Registrations:
+    <br/>
+    <textarea name="registrations" rows="6" cols="50">Ford|Focus|11/05/2010|PB1234AB, Ford|Focus|1/12/2012|PB1111PB, Audi|A3|1/12/2012|CA4444CC, Opel|Astra|11/05/2020|CB9999CA</textarea><br/>
+    <input type="submit" value="Send" />
+</form>
+<p>
+    <b>Expected output:</b>
+    <br/>
+    {"Audi":{"A3":{"registrations":[{"date":"1\/12\/2012","plate":"CA4444CC"}]}},"Ford":{"Focus":{"registrations":[{"date":"11\/05\/2010","plate":"PB1234AB"},{"date":"1\/12\/2012","plate":"PB1111PB"}]}},"Opel":{"Astra":{"registrations":[{"date":"11\/05\/2020","plate":"CB9999CA","isValid":false}]}}}
+</p>
+
+</body>
+
+</html>

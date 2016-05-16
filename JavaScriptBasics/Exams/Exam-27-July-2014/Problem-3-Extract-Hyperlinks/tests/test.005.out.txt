@@ -1,0 +1,11 @@
+/Contests/#!/List/ByCategory/1/CSharp-Basics
+/Contests/#!/List/ByCategory/3/JavaScript-Basics
+/Contests/#!/List/ByCategory/2/Java-Basics
+/Contests
+/Users/Profile
+javascript:document.getElementById('logoutForm').submit()
+javascript:document.getElementById("logoutForm").submit()
+/Search/
+https://www.facebook.com/svetlin.nakov
+#inbox
+#other

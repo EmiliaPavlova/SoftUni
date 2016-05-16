@@ -1,0 +1,6 @@
+3
+28
+pesho, 9
+gosho, 10
+tosho, 7
+gundi, 1 

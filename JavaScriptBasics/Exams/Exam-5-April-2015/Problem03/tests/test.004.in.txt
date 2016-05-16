@@ -1,0 +1,5 @@
+right, right, down, left, left, down, right, right, down, left
+qwekjs, asd{#}a, mxz{#}{*}
+qwekjs, asd{#}a, xnc{&}a
+qwekjs, asd{#}a, xnc{&}a
+qwekjs, asd{#}a, xnc{&}a

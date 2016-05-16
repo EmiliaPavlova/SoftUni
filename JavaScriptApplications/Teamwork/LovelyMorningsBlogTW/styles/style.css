@@ -1,0 +1,308 @@
+body {
+    -webkit-animation-name: fontfix;
+    background: url("../images/poppies_left.png") no-repeat fixed left bottom;
+    background-size: 250px;
+}
+
+#wrapper {
+    width: 100%;
+    text-align: center;
+}
+
+header, footer {
+    width: 100%;
+    background-image: url("../images/header.jpg");
+}
+
+header {
+    width: auto;
+    height: 300px;
+    margin-bottom: 10px;
+    position: relative;
+    border-bottom: 2px solid #000;
+}
+
+header span {
+    display: inline-block;
+    width: 1000px;
+    height: 100%;
+    position: relative;
+}
+
+header img {
+    width: auto;
+    height: 300px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+header h1 {
+    font-family: 'Merienda', cursive;
+    font-size: 3em;
+    font-weight: 700;
+    text-align: left;
+    position: absolute;
+    top: 200px;
+    left: 10px;
+}
+
+main {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #fff;
+    text-align: left;
+}
+
+#user-field {
+    float: right;
+    margin-right: 20px;
+}
+
+#user-field a {
+    margin-left: 10px;
+    color: #707070;
+}
+
+#user-field a:hover {
+    color: #000;
+}
+
+section {
+    width: 100%;
+    display: inline-block;
+}
+
+nav {
+    width: 20%;
+    height: 100%;
+    padding: 0px 10px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    color: #707070;
+}
+
+nav div {
+    margin: 32px 0px;
+}
+
+input[type="search"] {
+    width: 150px;
+    height: 24px;
+    padding: 5px;
+    border: 1px solid #999;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+#search {
+    width: 24px;
+    height: 24px;
+    background: url("../images/magnifying_glass.png") no-repeat center 2px #fff;
+    background-size: contain;
+    border: 1px solid #999;
+    border-left: none;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+#search:hover,
+button:hover {
+    background-color: #E1D6D4;
+    cursor: pointer;
+}
+
+input[type="search"]:focus,
+#add-post input[type="text"],
+textarea:focus,
+button {
+    outline: none;
+    border-color: #707070;
+    box-shadow: 0 0 10px #E1D6D4;
+}
+
+nav div h6 {
+    padding-bottom: 10px;
+    font-size: 1.2em;
+}
+
+nav div a {
+    padding-bottom: 5px;
+    text-decoration: none;
+    color: #707070;
+    display: block;
+}
+
+nav div a:hover {
+    color: #000;
+    font-weight: bold;
+}
+
+nav h6 {
+    font-weight: bold;
+}
+
+article {
+    padding: 0 10px;
+    display: inline-block;
+}
+
+#add-post {
+    width: 75%;
+    display: inline-block;
+}
+
+#add-post label {
+    font-size: 1.5em;
+}
+
+#add-post input[type="text"] {
+    width: 100%;
+    margin: 20px 0px;
+    padding: 10px;
+    font-size: 1.5em;
+    border: 1px solid #999;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+
+#add-post textarea {
+    height: 500px;
+}
+
+h2 {
+    font-family: 'Merienda', cursive;
+    font-size: 2em;
+    margin: 20px 0px 10px 0px;
+}
+
+article span {
+    font-style: italic;
+    color: #707070;
+}
+
+article > p {
+    margin-top: 10px;
+    text-indent: 30px;
+    text-align: justify;
+}
+
+#main-view-comments {
+    display: block;
+    color: #444;
+    margin-top: 15px;
+    text-decoration: none;
+}
+
+#main-view-comments:hover {
+    text-decoration: underline;
+}
+
+#main-view-comments:before {
+    content: url('../images/comments-icon.png');
+    padding: 7px 5px;
+}
+
+#comments {
+    margin-top: 20px;
+    padding: 10px;
+<<<<<<< HEAD
+    width: 100%;
+=======
+    width: 85%;
+>>>>>>> 40401009e8a3afe73b3837292c2e1d34bbb677b5
+    text-align: justify;
+    line-height: 1em;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+#comments h5 {
+    margin: 20px 0px 5px 0px;
+    font-weight: bold;
+}
+
+#comments span {
+    font-style: italic;
+    color: #707070;;
+}
+
+#add-comment {
+    float: right;
+    margin-top: 20px;
+    padding: 20px;
+    width: 75%;
+    display: block;
+}
+
+textarea {
+    width: 100%;
+    height: 100px;
+    border: 1px solid #999;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+
+button {
+    float: right;
+    width: 200px;
+    height: 40px;
+    margin-top: 10px;
+    padding: 0;
+    font-size: 1em;
+    font-family: 'Merienda', cursive;
+    background-color: #fff;
+    border-radius: 3px;
+}
+
+footer {
+    height: 200px;
+    margin-top: 20px;
+    border-top: 2px solid #000;
+}
+
+footer div {
+    width: 1000px;
+    margin-top: 30px;
+    display: inline-block;
+    text-align: justify;
+}
+
+footer div img {
+    width: 150px;
+    border: 1px solid #000;
+    border-radius: 50%;
+    float: left;
+    margin: 0px 40px;
+}
+
+form {
+    margin-top: 20px;
+}
+
+form fieldset legend {
+    margin-bottom: 20px;
+}
+
+form fieldset div {
+    margin: 5px 0px 20px;
+}
+
+form fieldset div input {
+    padding: 5px;
+    border: 1px solid #999;
+    border-radius: 3px;
+}
+
+form fieldset div input:focus {
+    outline: none;
+    border-color: #707070;
+    box-shadow: 0 0 10px #E1D6D4;
+}
+
+form fieldset div input[type="radio"],
+form fieldset div label {
+    margin-right: 5px;
+}

@@ -1,0 +1,1 @@
+﻿<div style='background-color:#E0000F'>Software University has moved to another address </div>

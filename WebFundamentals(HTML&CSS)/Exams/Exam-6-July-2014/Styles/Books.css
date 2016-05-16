@@ -1,0 +1,67 @@
+section {
+	margin: 10px auto;
+	width: 600px;
+	height: 270px;
+	font-size: 11px;
+	font-family: Tahoma, Helvetica, sans-serif;
+}
+
+article {
+	margin: 0 5px;
+	width: 145px;
+	box-sizing: border-box;
+	display: inline-block;
+	vertical-align: top;
+}
+
+	article > img.book {
+		margin: 0 auto;
+		border: 1px solid lightgray;
+		cursor: pointer;
+	}
+
+	article > h1 {
+		padding: 0;
+		margin-bottom: 0;
+		text-transform: uppercase;
+		font-weight: normal;
+		letter-spacing: -0.8px;
+	}
+
+	article > h1 > a {
+		text-decoration: none;
+		color: black;
+	}
+
+	article > h1 > a:hover{
+		color: gray;
+	}
+
+	article > p {
+		color: gray;
+	}
+
+	article > p > span {
+		color: darkred;
+		font-weight: bold;
+	}
+
+	article > input {
+		padding-left: 10px;
+		width: 110px;
+		height: 20px;
+		background-image: url(../Problem-1-Books/shopping-cart-inactive.png);
+		text-transform: uppercase;
+		border-radius: 5px;
+		border: none;
+		font-size: 10px;
+		cursor: pointer;
+	}
+
+	article:nth-child(2) > input {
+		margin-top: 15px;
+	}
+
+	article > input:hover {
+		background-image: url(../Problem-1-Books/shopping-cart-active.png);
+	}

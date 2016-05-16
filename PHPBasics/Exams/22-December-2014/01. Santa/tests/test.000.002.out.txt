@@ -1,0 +1,1 @@
+﻿$giftOfGeorgi-Georgiev = $[wasChildGood] ? 'Laptop' : 'We see it once in a year, twice in a week, and never in a day. What is it?';

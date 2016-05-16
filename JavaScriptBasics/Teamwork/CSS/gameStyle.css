@@ -1,0 +1,227 @@
+#canvasBG {
+    border: 2px solid black;
+    position: absolute;
+    background: url("../resources/roads.jpg") no-repeat;
+    background-size: cover;
+}
+
+#canvas {
+    border: 2px solid black;
+    position: absolute;
+}
+#menu {
+    width: 1334px;
+    height: 40px;
+    background-color: #666362;
+}
+#scores, #bombs-quantity, #rpg-quantity {
+    font-family: Lobster, sans-serif;
+    line-height: 40px;
+    font-size: 35px;
+    color: #99C68E;
+    margin-left: 75px;
+}
+.wrapper {
+    width: 1400px;
+    margin: 0 auto;
+}
+#new-game {
+    width: 1334px;
+    height:744px;
+    position: absolute;
+    z-index: 5;
+    background-color: #222222;
+}
+#new-game img {
+    display: block;
+    box-shadow: 0 5px 35px rgba(0,0,0,.65);
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#hide, #instructions-btn {
+    width: 250px;
+    height: 75px;
+    display: inline-block;
+    background-color: transparent;
+    font-family: Lobster, sans-serif;
+    font-size: 25px;
+    border: 1px solid transparent;
+    box-shadow: 0 5px 35px rgba(0,0,0,.65);
+    color: aqua;
+    margin-top: 45px;
+    margin-left: 275px;
+}
+#new-game button:hover {
+    background-color: aqua;
+    box-shadow: 0 5px 35px rgba(0,255,0,.65);
+    color: white;
+
+}
+#new-game h1, #instructions h1  {
+    text-align: center;
+    font-size: 55px;
+    font-family: Lobster, sans-serif;
+    color: aqua;
+}
+#new-game p {
+    color: #ffffff;
+    font-size: 1.1em;
+    margin-top: 35px;
+    text-align: center;
+}
+#new-game p a {
+    color: aqua;
+    font-size: 1.3em;
+}
+#game-over, #game-over-overlay {
+    margin: 0 auto;
+    width: 512px;
+    height: 520px;
+    position: absolute;
+    top: 80px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+    display: none;
+}
+
+#game-over-overlay {
+    background-color: black;
+    opacity: .5;
+}
+
+#game-over {
+    font-family: Lobster, sans-serif;
+    font-size: 25px;
+    color: aqua;
+    text-align: center;
+}
+
+#game-over h1 {
+    font-size: 3em;
+    font-family: Lobster, sans-serif;
+    margin-bottom: 0px;
+}
+#game-over h2 {
+    margin-bottom: 5px;
+}
+
+#game-over button {
+    font-size: 1.5em;
+    font-family: Lobster, sans-serif;
+    cursor: pointer;
+    border-radius: 6px;
+}
+#game-over button:hover {
+    border: 2px solid aqua;
+}
+.difficulty-buttons {
+    margin-top: 50px;
+    margin-left: 360px;
+}
+.difficulty {
+    width: 150px;
+    height: 35px;
+    display: inline;
+    background-color: transparent;
+    font-family: Lobster, sans-serif;
+    font-size: 25px;
+    border: 1px solid transparent;
+    box-shadow: 0 5px 35px rgba(0,0,0,.65);
+    color: aqua;
+}
+
+#instructions {
+    width: 1334px;
+    height: 744px;
+    background-color: #222222;
+    position: absolute;
+    z-index: 4;
+
+}
+
+#keys {
+    background: url("../resources/arrow_keys.png");
+    width: 400px;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    margin-left: 150px;
+    margin-top: 150px;
+}
+
+#text {
+    display: inline-block;
+}
+
+#text ul {
+    list-style: none;
+}
+
+#text li {
+    font-size: 1.5em;
+    font-family: Lobster, sans-serif;
+    margin-bottom: 0px;
+    color: white;
+    margin-left: 150px;
+}
+
+span.movement {
+    color: aqua;
+}
+
+#close {
+    width: 250px;
+    height: 75px;
+    background-color: transparent;
+    font-family: Lobster, sans-serif;
+    font-size: 45px;
+    border: 1px solid transparent;
+    box-shadow: 0 5px 35px rgba(0,0,0,.65);
+    color: aqua;
+    margin-left: 542px;
+}
+#instructions button:hover {
+    background-color: aqua;
+    box-shadow: 0 5px 35px rgba(0,255,0,.65);
+    color: white;
+
+}
+li#bomb, li#rpg, li#money {
+    line-height: 69px;
+    vertical-align: top;
+}
+li#bomb > span {
+    overflow: hidden;
+    display: inline-block;
+    background: url("../resources/bombPrice.png");
+    width: 81px;
+    height: 65px;
+    background-position:  0px -324px;
+
+}
+li#rpg > span {
+    overflow: hidden;
+    display: inline-block;
+    background: url("../resources/bombPrice.png");
+    width: 81px;
+    height: 65px;
+    background-position:  0px -405px;
+
+}
+li#money > span {
+    overflow: hidden;
+    display: inline-block;
+    background: url("../resources/gold_coin.png");
+    width: 64px;
+    height: 64px;
+    background-position:  0px -128px;
+    margin-left: 10px;
+}
+a {
+    text-decoration: none;
+}

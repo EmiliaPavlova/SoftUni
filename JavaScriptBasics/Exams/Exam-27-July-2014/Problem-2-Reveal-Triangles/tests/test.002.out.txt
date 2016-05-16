@@ -1,0 +1,4 @@
+ab*defgh
+a***efgh
+abcde*gh
+abcd***h

@@ -1,0 +1,8 @@
+create Cenko 40 25 Inflated PutridFart
+create Boko 50 25 Aggressive Blobplode
+create Tanio 150 30 Inflated Blobplode
+create Pesho 43 25 Aggressive PutridFart
+status
+status
+status
+drop

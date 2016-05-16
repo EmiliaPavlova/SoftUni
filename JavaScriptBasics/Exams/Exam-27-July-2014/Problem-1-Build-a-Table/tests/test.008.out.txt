@@ -1,0 +1,14 @@
+<table>
+<tr><th>Num</th><th>Square</th><th>Fib</th></tr>
+<tr><td>514220</td><td>264422208400</td><td>no</td></tr>
+<tr><td>514221</td><td>264423236841</td><td>no</td></tr>
+<tr><td>514222</td><td>264424265284</td><td>no</td></tr>
+<tr><td>514223</td><td>264425293729</td><td>no</td></tr>
+<tr><td>514224</td><td>264426322176</td><td>no</td></tr>
+<tr><td>514225</td><td>264427350625</td><td>no</td></tr>
+<tr><td>514226</td><td>264428379076</td><td>no</td></tr>
+<tr><td>514227</td><td>264429407529</td><td>no</td></tr>
+<tr><td>514228</td><td>264430435984</td><td>no</td></tr>
+<tr><td>514229</td><td>264431464441</td><td>yes</td></tr>
+<tr><td>514230</td><td>264432492900</td><td>no</td></tr>
+</table>

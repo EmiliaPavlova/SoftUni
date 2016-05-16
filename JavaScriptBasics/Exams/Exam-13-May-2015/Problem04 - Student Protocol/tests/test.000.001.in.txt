@@ -1,0 +1,6 @@
+Peter Jackson - Java : 350
+Jane - JavaScript : 200
+Jane     -    JavaScript :     400
+Simon Cowell - PHP : 100
+Simon Cowell-PHP: 500
+Simon Cowell - PHP : 200

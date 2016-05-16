@@ -1,0 +1,6 @@
+mine bobovdol - gold: 10
+mine tomb - diamonds: 5
+mine colas - wood: 10
+mine myMine - silver:  14
+mine silver:14 - silver: 14
+

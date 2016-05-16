@@ -1,0 +1,5 @@
+Blob Emi toggled InflatedBehavior
+Blob Petya toggled AggressiveBehavior
+Blob Petya was killed
+Blob Petya KILLED
+Blob Emi: 30 HP, 15 Damage

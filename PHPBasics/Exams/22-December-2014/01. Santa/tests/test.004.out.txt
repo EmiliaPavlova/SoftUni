@@ -1,0 +1,1 @@
+﻿$giftOfKaloyan-Martinov = $[wasChildGood]? '&lt;p&gt;New tablet&lt;/p&gt;' : 'I am tall when I am young and I am short when I am old. What am I?';

@@ -1,0 +1,9 @@
+<table>
+<tr><th>Num</th><th>Square</th><th>Fib</th></tr>
+<tr><td>5</td><td>25</td><td>yes</td></tr>
+<tr><td>6</td><td>36</td><td>no</td></tr>
+<tr><td>7</td><td>49</td><td>no</td></tr>
+<tr><td>8</td><td>64</td><td>yes</td></tr>
+<tr><td>9</td><td>81</td><td>no</td></tr>
+<tr><td>10</td><td>100</td><td>no</td></tr>
+</table>

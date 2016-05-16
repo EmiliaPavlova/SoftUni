@@ -1,0 +1,25 @@
+body {
+    margin: 20px auto;
+    width: 960px;
+}
+
+#canvas {
+    box-shadow: 0 0 10px 5px #7A995C;
+    background-color: #FFFFB8;
+}
+
+h2 {
+    font-family: Arial, sans-serif;
+}
+
+h2.firstPlayer {
+    color: #3F643D;
+}
+
+h2.secondPlayer {
+    color: #634436;
+}
+
+h3 {
+
+}

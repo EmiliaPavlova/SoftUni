@@ -1,0 +1,12 @@
+Blob Cenko: 40 HP, 25 Damage
+Blob Boko: 50 HP, 25 Damage
+Blob Tanio: 150 HP, 30 Damage
+Blob Pesho: 43 HP, 25 Damage
+Blob Cenko: 40 HP, 25 Damage
+Blob Boko: 50 HP, 25 Damage
+Blob Tanio: 150 HP, 30 Damage
+Blob Pesho: 43 HP, 25 Damage
+Blob Cenko: 40 HP, 25 Damage
+Blob Boko: 50 HP, 25 Damage
+Blob Tanio: 150 HP, 30 Damage
+Blob Pesho: 43 HP, 25 Damage

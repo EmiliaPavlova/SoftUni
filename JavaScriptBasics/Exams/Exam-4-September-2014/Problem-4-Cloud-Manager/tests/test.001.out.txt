@@ -1,0 +1,1 @@
+{".gif":{"files":["DOSC","filet","pgg","picj","picshadow","picx"],"memory":"28.50"},".jpg":{"files":["hg","pichah","pick","pico","rfsadf"],"memory":"54.06"},".png":{"files":["asd","myf","p","picFunny","picLOLs","picme","pict","picv"],"memory":"70.48"}}

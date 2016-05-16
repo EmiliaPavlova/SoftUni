@@ -1,0 +1,124 @@
+@font-face {
+    font-family: facebook-font;
+    src: url(FACEBOLF.OTF);
+}
+
+#wrapper {
+	margin: 0 auto;
+	width: 640px;
+	background-color:  #3b5998;
+	font-family: Verdana, sans-serif;
+	font-weight: bold;
+	color: #FFF;
+}
+
+h1 {
+	padding: 10px;
+	font-family: facebook-font;
+	font-size: 72px;
+	color: #FFF;
+	text-transform: lowercase;
+	text-align: center;
+}
+
+	h1 > span {
+		font-family: Verdana, sans-serif;
+		font-size: 12px;
+	}
+
+h2 {
+	padding-top: 10px;
+	font-size: 24px;
+	text-align: center;
+}
+
+h3 {
+	padding-top: 10px;
+	font-size: 14px;
+	text-align: center;
+}
+
+form.non-important {
+	margin: 10px;
+	width: 242px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+form.non-important > fieldset > legend {
+	text-align: center;
+}
+
+fieldset {
+	padding: 10px;
+	border: 1px solid white;
+	border-radius: 8px;
+}
+
+legend {
+	padding: 5px;
+	font-size: 12px;
+}
+
+	input,select,textarea {
+		width: 100px;
+		padding: 3px 0;
+		margin: 3px 3px 3px 0px;
+		border-radius: 5px;
+		font-size: 12px;
+	}
+
+	input.short-box {
+		width: 50px;
+	}
+
+	input[type="color"] {
+		height: 20px;
+		color: rgb(255,182,192);
+	}
+
+fieldset > div.birthday > input {
+	width: 200px;
+}
+
+fieldset > div.gender {
+	font-size: 12px;
+	padding-bottom: 50px;
+}
+
+fieldset > div.gender > input[type="radio"] {
+	display: inline-block;
+	width: 10px;
+}
+
+form.important {
+	margin: 10px;
+	width: 352px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+textarea {
+	width: 320px;
+	height: 60px;
+}
+
+input[type="reset"] {
+	margin: 10px;
+	width: 242px;
+	height: 40px;
+	border-radius: 8px;
+	font-weight: bold;
+	font-size: 12px;
+	color:  #3b5998;
+}
+
+input[type="submit"] {
+	margin: 10px;
+	width: 352px;
+	height: 40px;
+	border-radius: 8px;
+	font-weight: bold;
+	font-size: 16px;
+	color:  #3b5998;
+}

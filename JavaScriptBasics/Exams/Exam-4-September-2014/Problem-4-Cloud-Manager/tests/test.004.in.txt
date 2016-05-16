@@ -1,0 +1,12 @@
+problemOne .cs 0.2MB
+compiler .cpp 0.3MB
+kernel .asm 52.5MB
+problemTwo .cs 0.9MB
+problemThree .cs 0.9MB
+songs-archive .iso 23450.5MB
+GNU_HURD .asm 242.40MB
+f.lux .exe 3.2MB
+debugger .exe 54.22MB
+flag .asm 231.09MB
+gentoo .asm 178.00MB
+cloudManager .java 2MB

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Problem 4 - BGJUG WebPage</title>
+	<meta charset="UTF-8">
+	<link type="text/css" rel="stylesheet" href="styles/CSS-Reset.css" />
+    <link type="text/css" rel="stylesheet" href="styles/Problem4.css" />
+</head>
+<body>
+	<div id="wrapper">
+		<header>
+			<h1>BGJUB - Bulgarian Java User Group</h1>
+			<nav>
+				<ul>
+					<li><a href="#">ABOUT</a></li>
+					<li><a href="#">EVENTS</a></li>
+					<li><a href="#">CONTACTS</a></li>
+				</ul>
+				<form method="get" action="#">
+					<input type="text" placeholder="Search" maxlength="100">
+					<button type="submit"></button>
+				</form>
+				<hr />
+			</nav>
+		</header>
+		<aside id="left">
+		<hr />
+			<ul>
+				<li><a href="#">An Architecture for E-Voting</a></li>
+				<li><a href="#">Integration Tests for External Services</a></li>
+				<li><a href="#">Algorithmic Music Influenced by Tweets</a></li>
+				<li><a href="#">The Low Quality of Scientific Code</a></li>
+				<li><a href="#">Development "Methodologies"</a></li>
+			</ul>
+		</aside>
+		<section>
+			<article>
+				<h1>An Architecture for E-Voting</h1>
+				<div class="autor">by <a href="#">BOZHO</a> on MAY 27, 2014 <a href="#">LEAVE A COMMENT</a></div>
+					<div>
+					E-voting is a hot topic in my country,and has been discussed a lot everywhere.
+					Since we are already using the internet and touch-screen technologies in our everyday lives,
+					why not apply that to voting? And not for the sake of technology itself, but in order to
+					prevent technical mistakes and election fraud, and make [...]
+					</div>
+
+				<div class="blue"><a href="#">Continue Reading →</a></div>
+			</article>
+			<article>
+				<h1>The Optional Type API</h1>
+				<div class="autor">by <a href="#">BOZHO</a> on MARCH 19, 2014 <a href="#">LEAVE A COMMENT</a></div>
+				<div>
+				Java 8 introduces the Optional class. In a nutshell, instead of returning null,
+				and then checking for null, you return an Optional instance, which can either have
+				or not have a value set. That way you don’t fail with NullPointerException. I won’t
+				discuss whether the Optional type will eliminate NPEs completely (it won’t). Instead I’ll […]
+				</div>
+
+			<div class="blue"><a href="#">Continue Reading →</a></div>
+			<div class="blue previous"><a href="#">← Previous Entries</a></div>
+			</article>
+		</section>
+		<aside id="right">
+			<label for="language">LANGUAGE</label>
+			<hr />
+				<select id="language">
+					<option selected>Bulgarian</option>
+					<option>English</option>
+				</select>
+				<br />
+				<br />
+			<label id="blogroll">BLOGROLL</label>
+			<hr />
+		</aside>
+
+		<section id="twitter">
+			<p>Set your Twitter account name in your settings to use the TwitterBar Section.</p>
+		</section>
+
+		<footer>
+			<div>
+				<h3>BGJUG - Java Bulgarian User Group</h3>
+			</div>
+			<div>
+				<nav>
+					<ul>
+						<li>Pages</li>
+						<li><a href="#">About</a></li>
+						<li><a href="#">Events</a></li>
+						<li><a href="#">Contacts</a></li>
+					</ul>
+				</nav>
+			</div>
+			<div>
+				<h4>The latest</h4>
+				<p><span>An Architecture for E-Voting</span></p>
+				<p>E-voting is a hot topic in my country, and has been discussed [....]</p>
+			</div>
+			<div>
+				<h4>More</h4>
+				<p>Thanks for dropping by! Feel free to join the discussion by leaving comments, and stay updated by subscribing to the <span>RSS feed</span>.</p>
+			</div>
+			<div>
+				<p>&copy; 2011 BGJUG - Java Bulgarian User Group</p>
+			</div>
+		</footer>
+	</div>
+</body>
+</html>

@@ -1,0 +1,1 @@
+﻿<ul><li><p>boxes</p><ul><li><p>living room</p><ul><li><p>dresses, glasses - 7kg</p></li></ul></li></ul></li><li><p>furniture</p><ul><li><p>living room</p><ul><li><p>pink couch - 40kg</p></li></ul></li></ul></li></ul>

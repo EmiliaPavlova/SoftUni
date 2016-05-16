@@ -1,0 +1,141 @@
+@font-face {
+	font-family: Glyphs;
+	src: url(../Problem-3-Login-Search-Form/glyphicons-halflings-regular.ttf);
+}
+body {
+	margin: 0;
+	padding: 0;
+	background: url(../Problem-3-Login-Search-Form/blurred-green-background.jpg) no-repeat;
+	background-size: cover;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#wrapper {
+	margin: 0 auto;
+	width: 350px;
+	position: relative;
+}
+
+form {
+	margin-top: 50px;
+	width: 350px;
+	height: 265px;
+	background-color: rgba(239, 246, 220, 0.8);
+	border-radius: 10px 10px 0 0;
+	box-shadow: 0 0 5px #888;
+	box-sizing: border-box;
+}
+
+	header {
+		background-color: #93D55C;
+		border-radius: 10px 10px 0 0;
+	}
+
+		h1 {
+			padding: 5px;
+			color: #fff;
+			font-size: 1.2em;
+			text-align: center;
+			text-shadow: 1px 1px 1px #888;
+		}
+
+section {
+	margin: 30px 15px;
+}		
+
+	input {
+		margin-bottom: 15px;
+		margin-left: 33px;
+		padding-left: 10px;
+		width: 270px;
+		height: 28px;
+		border: 1px solid lightgray;
+		border-radius: 0 5px 5px 0;
+	}
+
+	span:before {
+		padding: 5px 10px 3px 10px;
+		height: 22px;
+		font-size: 0.8em;
+		font-family: Glyphs;
+		color: #555555;
+		background-color: #EEEEEE;
+		border: 1px solid lightgray;
+		border-radius: 5px 0 0 5px;
+	}
+
+	.glyph-user:before {
+		content: "\e008";
+		position: absolute;
+		left: 14px;
+		top: 62.5px;
+	}
+
+	.glyph-pass:before {
+		content: "\e033";
+		position: absolute;
+		left: 14px;
+		top: 109.5px;
+	}
+
+	input:focus {
+		border-color: #66AFE9;
+		box-shadow: 0 0 1px #66AFE9;
+	}
+
+	input[type="submit"] {
+		width: 320px;
+		height: 30px;
+		border-radius: 5px;
+		margin: 20px 0px;
+		background-color: #5CB85C;
+		border: 1px solid #229E22;
+		box-shadow: 0 4px #229E22;
+		color: #fff;
+	}
+
+	input[type="submit"]:hover {
+		background-color: #229E22;
+		border: 1px solid black;
+		cursor: pointer;
+	}
+
+.bottom-search {
+	margin: 0px;
+}
+
+	input[type="search"] {
+		margin: 30px 0;
+		width: 350px;
+		height: 34px;
+		border-radius: 5px;
+		box-sizing: border-box;
+	}
+
+	.search:before {
+		content: "\e003"; 
+		font-size: 0.8em;
+		font-family: Glyphs;
+		color: #fff;
+		background-color: transparent;
+		border: none;
+		border-radius: 0;
+		padding: 8px 4px 8px 10px;
+	}
+
+	.search {
+		background-color: #5CB85C;
+		width: 100px;
+		line-height: 33px;
+		color: #fff;
+		font-size: 0.8em;
+		border-radius: 0 5px 5px 0;
+		border-color: #229E22;
+		position: absolute;
+		top: 295px;
+		right: 0;
+	}
+
+	.search:hover {
+		background-color: #229E22;
+	}

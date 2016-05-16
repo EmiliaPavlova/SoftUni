@@ -1,0 +1,1 @@
+<div class="screening"><h2>Night at the Museum: Secret of the Tomb</h2><ul><li class="star">Ben Stiller</li><li class="star">Robin Williams</li><li class="star">Owen Wilson</li><li class="star">Dick Van Dyke</li></ul><span class="seatsFilled">200 seats filled</span></div>

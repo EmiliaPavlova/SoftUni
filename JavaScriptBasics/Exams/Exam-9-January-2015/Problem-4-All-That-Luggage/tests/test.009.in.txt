@@ -1,0 +1,9 @@
+Yana Slavcheva*....clothes*....false*....false*....false*....2.2*....backpack
+Kiko*....socks*....false*....false*....false*....0.2*....backpack
+Kiko*....sticks*....false*....false*....false*....1.6*....ATV
+Kiko*....sheets*....false*....false*....false*....3.6*....backpack
+Kiko*....banana*....true*....false*....false*....3.2*....backpack
+Kiko*....glasses*....false*....false*....true*....0.2*....ATV
+Kiko*....glasses*....false*....false*....true*....3*....ATV
+Manov*....socks*....false*....false*....false*....0.3*....ATV
+luggage name

@@ -1,0 +1,8 @@
+coin 1 
+coin two
+coin 5
+coin 10.50
+coin 20
+coin 50
+coin hundred
+cigars 1

@@ -1,0 +1,18 @@
+create Cenko 50 55 Aggressive Blobplode
+create Maria 90 20 Inflated PutridFart
+status
+attack Maria Cenko
+status
+attack Maria Cenko
+status
+pass
+pass
+pass
+status
+attack Cenko Maria
+status
+status
+status
+status
+drop
+--Tests PutridFart attack damage + Aggressive behavior

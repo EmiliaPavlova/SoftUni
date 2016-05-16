@@ -1,0 +1,12 @@
+<h1>{{header}}</h1>
+
+<table>
+    <tr><th>Full Name</th><th>Age</th><th>Country</th></tr>
+    {{#students}}
+    <tr>
+        <td>{{firstName}} {{lastName}}</td>
+        <td>{{age}}</td>
+        <td>{{country}}</td>
+    </tr>
+    {{/students}}
+</table>

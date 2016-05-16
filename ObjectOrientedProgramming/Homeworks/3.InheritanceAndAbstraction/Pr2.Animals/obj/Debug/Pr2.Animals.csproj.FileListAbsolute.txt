@@ -1,0 +1,6 @@
+D:\SoftUni\OOP\4. Inheritance and Abstraction\HW4\Pr2.Animals\bin\Debug\Pr2.Animals.exe.config
+D:\SoftUni\OOP\4. Inheritance and Abstraction\HW4\Pr2.Animals\bin\Debug\Pr2.Animals.exe
+D:\SoftUni\OOP\4. Inheritance and Abstraction\HW4\Pr2.Animals\bin\Debug\Pr2.Animals.pdb
+D:\SoftUni\OOP\4. Inheritance and Abstraction\HW4\Pr2.Animals\obj\Debug\Pr2.Animals.csprojResolveAssemblyReference.cache
+D:\SoftUni\OOP\4. Inheritance and Abstraction\HW4\Pr2.Animals\obj\Debug\Pr2.Animals.exe
+D:\SoftUni\OOP\4. Inheritance and Abstraction\HW4\Pr2.Animals\obj\Debug\Pr2.Animals.pdb

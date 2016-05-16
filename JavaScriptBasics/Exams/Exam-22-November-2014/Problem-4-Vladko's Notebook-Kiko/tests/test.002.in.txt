@@ -1,0 +1,13 @@
+red|name|kiko
+red|win|Vladko
+blue|age|12
+green|age|13
+green|win|gosho
+red|age|12
+green|name|Pesho
+green|win|ico
+green|win|Gosho
+green|win|qfkata
+green|win|stamat
+green|win|petko
+green|win|mariya

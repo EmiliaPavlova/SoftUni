@@ -1,0 +1,144 @@
+#wrapper {
+	margin: 0 auto;
+	padding-top: 5px;
+	background-color: #234465;
+	height: 100px;
+	width: 960px;
+	font-family: Tahoma;
+	color: #FFF;
+	box-sizing: border-box;
+}
+
+section {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.logo {
+	margin-right: 50px;
+	width: 260px;
+	float: left;
+}
+
+
+p {
+	padding-top: 20px;
+	padding-left: 240px;
+	font-size: 10px;
+}
+
+img {
+	padding-left: 10px;
+	margin-top: -18px;
+	margin-left: 20px;
+}
+
+nav > ul {
+	margin-right: 20px;
+	padding: 5px;
+	float: right;
+}
+
+nav > ul:after {
+	clear: both;
+}
+
+nav > ul > li {
+	margin-top: 5px;
+	text-transform: uppercase;
+	font-size: 13px;
+	display: inline-block;
+}
+
+nav > ul > li > a{
+	padding: 5px;
+}
+
+.upper-nav > li:first-child {
+	margin-right: 10px;
+}
+
+a {
+	text-decoration: none;
+	color: #FFF;
+}
+
+.upper-nav > li > a:hover {
+	text-decoration: underline;
+}
+
+.upper-nav > li:nth-child(1) > a:nth-child(1):after {
+	content: url("images/notifications-icon.png");
+}
+
+nav > ul > li > ul {
+	margin-top: 5px;
+}
+
+nav > ul > li > ul > li {
+	padding: 8px;
+	width: 150px;
+	display: none;
+	text-decoration: none;
+	text-transform: none;
+}
+
+.upper-nav > li > ul > li > a {
+	text-decoration: none;
+}
+
+ul > li:hover ul {
+	position: absolute;
+} 
+
+ul > li:hover ul > li {
+	display: block;
+	background-color: #234465;
+	border-bottom: 1px solid #2A6496;
+} 
+
+
+.upper-nav > li > ul > li > a:hover {
+	text-decoration: none;
+}
+
+input[type="search"] {
+	width: 150px;
+	height: 24px;
+	border: 1px solid #999;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+#search {
+	padding: 2px;
+	width: 24px;
+	height: 24px;
+	background-color: white;
+	background-image: url("images/magn-glass.png");
+	background-position: center 3px;
+	background-repeat: no-repeat;
+	border: 1px solid #999;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	}
+
+#search:hover {
+	background-color: #4CA0DB;
+}
+
+.bottom-nav > li > a:hover {
+	background-color: #4CA0DB;
+	border-radius: 4px;
+	transition: 1s;
+}
+
+.bottom-nav > li > ul > li:hover,
+.upper-nav > li > ul >li:hover {
+	background-color: #FF9C00;
+}
+
+.bottom-nav > li > a:focus {
+	border-radius: 4px;
+	background-color: #FF9C00;
+}

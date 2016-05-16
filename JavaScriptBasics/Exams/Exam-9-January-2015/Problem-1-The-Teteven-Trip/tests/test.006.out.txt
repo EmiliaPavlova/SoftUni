@@ -1,0 +1,17 @@
+BMW petrol 1 15
+Golf petrol 2 12
+Lada gas 1 16
+Mercedes diesel 2 12
+Audi petrol 1 15
+Ferari petrol 2 12
+Zonda gas 1 16
+Kraisler diesel 2 12
+BMWM3 petrol 1 15
+GolfGt petrol 2 12
+Lada21 gas 1 16
+MercedesAMG diesel 2 12
+AudiR4 petrol 1 15
+Ferari500 petrol 2 12
+ZondaX gas 1 16
+Kraisler1 diesel 2 12
+

@@ -1,0 +1,1 @@
+{"Town A":{"Venue A":["Band A","Band B","Band C"],"Venue D":["Band A"]},"Town B":{"Venue B":["Band A","Band C"],"Venue C":["Band B"]},"Town C":{"Venue A":["Band A"],"Venue B":["Band A","Band C"],"Venue C":["Band B"],"Venue D":["Band A","Band C"]},"Town D":{"Venue A":["Band B","Band C"],"Venue D":["Band C"]}}

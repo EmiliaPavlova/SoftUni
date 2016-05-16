@@ -1,0 +1,384 @@
+{
+	"id": "53905b2e-d8c1-0203-eaec-79f5a5e794cf",
+	"name": "CriminalActivities",
+	"description": "",
+	"order": [
+		"65e6b6f2-e404-440c-c3e3-5042be405594",
+		"50b3c11f-8b85-8647-42e4-3ae91885f75b",
+		"8068dd79-6351-0fbc-461b-85eeb38dd96e",
+		"fa02373b-2222-05ce-dbe8-ef48bd6f0186",
+		"d9b39423-74ee-7b05-5a51-16a6382d7791",
+		"4762b567-2fe5-644e-7ab1-39a64b1510e2",
+		"34577e62-2882-16a1-ca53-a7e36d330c1a",
+		"6b1920db-1d91-6358-c7f2-3150476285ad",
+		"75d1d262-5285-0d07-99b6-d3c920a7ec06",
+		"8301a7ed-19e0-8c73-d288-cd138a154b71",
+		"e0441d81-3121-2a4c-022c-028b1a53025d"
+	],
+	"folders": [],
+	"timestamp": 1449142112262,
+	"owner": "118044",
+	"remoteLink": "",
+	"public": false,
+	"requests": [
+		{
+			"id": "34577e62-2882-16a1-ca53-a7e36d330c1a",
+			"headers": "Authorization: Bearer yOEOacvwbJrcBq3ZMPXQgK2zywRemBjoNxGm3HqxMsLnhqsW55JP6WCLBxGXXZvzIfti-1_baWC9grDELmr8Kz8hjtPRYQ5RF8YEZP-ntl0rr0dIPmwckZnSW7CcCbAX5Eg6H8N9svXoAF1rdlnyhJzoCSG7jRETcbhA8uthhMa8k4a9HTo8Fxtmw-dJAeLrrqYUaAqiWncekOpizDa2MTBgITqqv20QYe7beyoS0hGWSNQsLH5MK0lOFFKlRByWNAHERyxRJHrSSy_UCAUyrHS8lg4etsJWFbzDLTyr9-d8YWgNjpHc15z0W6NZhOfz8ZjAPTkDaRm_sWDd_OROLz33RYeqwstUh1aLyCDBBSS1aHX8MDR2SVDHXLBvTeH5RKE4e6cdOplt_XjIsJ4eMk-LNKNpKn5pg7tWkkc1YeG6NNCE8_TCrnYO2zYQi2u-dRNiBJydBjONz3nNxX0Yy27ki8vNUJ6PkHy2UvQe1WU\n",
+			"url": "http://localhost:50982/api/criminals/1/addLocation",
+			"pathVariables": {},
+			"preRequestScript": "",
+			"method": "POST",
+			"collectionId": "53905b2e-d8c1-0203-eaec-79f5a5e794cf",
+			"data": [
+				{
+					"key": "Date",
+					"value": "12/02/2014",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "CityName",
+					"value": "Stara Zagora",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"name": "AddLocationToCriminal",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1449142803444,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "4762b567-2fe5-644e-7ab1-39a64b1510e2",
+			"headers": "Authorization: Bearer yOEOacvwbJrcBq3ZMPXQgK2zywRemBjoNxGm3HqxMsLnhqsW55JP6WCLBxGXXZvzIfti-1_baWC9grDELmr8Kz8hjtPRYQ5RF8YEZP-ntl0rr0dIPmwckZnSW7CcCbAX5Eg6H8N9svXoAF1rdlnyhJzoCSG7jRETcbhA8uthhMa8k4a9HTo8Fxtmw-dJAeLrrqYUaAqiWncekOpizDa2MTBgITqqv20QYe7beyoS0hGWSNQsLH5MK0lOFFKlRByWNAHERyxRJHrSSy_UCAUyrHS8lg4etsJWFbzDLTyr9-d8YWgNjpHc15z0W6NZhOfz8ZjAPTkDaRm_sWDd_OROLz33RYeqwstUh1aLyCDBBSS1aHX8MDR2SVDHXLBvTeH5RKE4e6cdOplt_XjIsJ4eMk-LNKNpKn5pg7tWkkc1YeG6NNCE8_TCrnYO2zYQi2u-dRNiBJydBjONz3nNxX0Yy27ki8vNUJ6PkHy2UvQe1WU\n",
+			"url": "http://localhost:50982/api/criminals",
+			"pathVariables": {},
+			"preRequestScript": "",
+			"method": "POST",
+			"collectionId": "53905b2e-d8c1-0203-eaec-79f5a5e794cf",
+			"data": [
+				{
+					"key": "Name",
+					"value": "Toko",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "Alias",
+					"value": "Bikwata",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"name": "CreateCriminal",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1449142699611,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "50b3c11f-8b85-8647-42e4-3ae91885f75b",
+			"headers": "",
+			"url": "http://localhost:50982/api/Account/Login",
+			"pathVariables": {},
+			"preRequestScript": "",
+			"method": "POST",
+			"collectionId": "53905b2e-d8c1-0203-eaec-79f5a5e794cf",
+			"data": [
+				{
+					"key": "Username",
+					"value": "peshko",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "Password",
+					"value": "peshko1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "Grant_Type",
+					"value": "password",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"name": "Login",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1449142310095,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "65e6b6f2-e404-440c-c3e3-5042be405594",
+			"headers": "",
+			"url": "http://localhost:50982/api/Account/Register",
+			"pathVariables": {},
+			"preRequestScript": "",
+			"method": "POST",
+			"collectionId": "53905b2e-d8c1-0203-eaec-79f5a5e794cf",
+			"data": [
+				{
+					"key": "Username",
+					"value": "peshko",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "Email",
+					"value": "peshko@peshko.soft",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "Password",
+					"value": "peshko1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "ConfirmPassword",
+					"value": "peshko1",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"name": "Register",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1449142258829,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "6b1920db-1d91-6358-c7f2-3150476285ad",
+			"headers": "Authorization: Bearer yOEOacvwbJrcBq3ZMPXQgK2zywRemBjoNxGm3HqxMsLnhqsW55JP6WCLBxGXXZvzIfti-1_baWC9grDELmr8Kz8hjtPRYQ5RF8YEZP-ntl0rr0dIPmwckZnSW7CcCbAX5Eg6H8N9svXoAF1rdlnyhJzoCSG7jRETcbhA8uthhMa8k4a9HTo8Fxtmw-dJAeLrrqYUaAqiWncekOpizDa2MTBgITqqv20QYe7beyoS0hGWSNQsLH5MK0lOFFKlRByWNAHERyxRJHrSSy_UCAUyrHS8lg4etsJWFbzDLTyr9-d8YWgNjpHc15z0W6NZhOfz8ZjAPTkDaRm_sWDd_OROLz33RYeqwstUh1aLyCDBBSS1aHX8MDR2SVDHXLBvTeH5RKE4e6cdOplt_XjIsJ4eMk-LNKNpKn5pg7tWkkc1YeG6NNCE8_TCrnYO2zYQi2u-dRNiBJydBjONz3nNxX0Yy27ki8vNUJ6PkHy2UvQe1WU\n",
+			"url": "http://localhost:50982/api/criminals/1/addActivity",
+			"pathVariables": {},
+			"preRequestScript": "",
+			"method": "POST",
+			"collectionId": "53905b2e-d8c1-0203-eaec-79f5a5e794cf",
+			"data": [
+				{
+					"key": "Description",
+					"value": "Deals pot to overweight grannies",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "ActiveFrom",
+					"value": "12/02/2014",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "ActiveTo",
+					"value": "12/02/2016",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "Type",
+					"value": "DrugTrafficking",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"name": "AddActivityToCriminal",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1449142945893,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "75d1d262-5285-0d07-99b6-d3c920a7ec06",
+			"headers": "Authorization: Bearer yOEOacvwbJrcBq3ZMPXQgK2zywRemBjoNxGm3HqxMsLnhqsW55JP6WCLBxGXXZvzIfti-1_baWC9grDELmr8Kz8hjtPRYQ5RF8YEZP-ntl0rr0dIPmwckZnSW7CcCbAX5Eg6H8N9svXoAF1rdlnyhJzoCSG7jRETcbhA8uthhMa8k4a9HTo8Fxtmw-dJAeLrrqYUaAqiWncekOpizDa2MTBgITqqv20QYe7beyoS0hGWSNQsLH5MK0lOFFKlRByWNAHERyxRJHrSSy_UCAUyrHS8lg4etsJWFbzDLTyr9-d8YWgNjpHc15z0W6NZhOfz8ZjAPTkDaRm_sWDd_OROLz33RYeqwstUh1aLyCDBBSS1aHX8MDR2SVDHXLBvTeH5RKE4e6cdOplt_XjIsJ4eMk-LNKNpKn5pg7tWkkc1YeG6NNCE8_TCrnYO2zYQi2u-dRNiBJydBjONz3nNxX0Yy27ki8vNUJ6PkHy2UvQe1WU\n",
+			"url": "http://localhost:50982/api/activities/2",
+			"pathVariables": {},
+			"preRequestScript": "",
+			"method": "PUT",
+			"collectionId": "53905b2e-d8c1-0203-eaec-79f5a5e794cf",
+			"data": [
+				{
+					"key": "Description",
+					"value": "Sells weapons to Volen Siderov",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "ActiveFrom",
+					"value": "05/02/2014",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "ActiveTo",
+					"value": "03/02/2016",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "Type",
+					"value": "WeaponsDealing",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"name": "EditActivity",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1449143083421,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "8068dd79-6351-0fbc-461b-85eeb38dd96e",
+			"headers": "",
+			"url": "http://localhost:50982/api/cartels",
+			"pathVariables": {},
+			"preRequestScript": "",
+			"method": "GET",
+			"collectionId": "53905b2e-d8c1-0203-eaec-79f5a5e794cf",
+			"data": [],
+			"dataMode": "params",
+			"name": "GetCartels",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1449142372102,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "8301a7ed-19e0-8c73-d288-cd138a154b71",
+			"headers": "Authorization: Bearer yOEOacvwbJrcBq3ZMPXQgK2zywRemBjoNxGm3HqxMsLnhqsW55JP6WCLBxGXXZvzIfti-1_baWC9grDELmr8Kz8hjtPRYQ5RF8YEZP-ntl0rr0dIPmwckZnSW7CcCbAX5Eg6H8N9svXoAF1rdlnyhJzoCSG7jRETcbhA8uthhMa8k4a9HTo8Fxtmw-dJAeLrrqYUaAqiWncekOpizDa2MTBgITqqv20QYe7beyoS0hGWSNQsLH5MK0lOFFKlRByWNAHERyxRJHrSSy_UCAUyrHS8lg4etsJWFbzDLTyr9-d8YWgNjpHc15z0W6NZhOfz8ZjAPTkDaRm_sWDd_OROLz33RYeqwstUh1aLyCDBBSS1aHX8MDR2SVDHXLBvTeH5RKE4e6cdOplt_XjIsJ4eMk-LNKNpKn5pg7tWkkc1YeG6NNCE8_TCrnYO2zYQi2u-dRNiBJydBjONz3nNxX0Yy27ki8vNUJ6PkHy2UvQe1WU\n",
+			"url": "http://localhost:50982/api/activities/2",
+			"pathVariables": {},
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "53905b2e-d8c1-0203-eaec-79f5a5e794cf",
+			"data": [],
+			"dataMode": "urlencoded",
+			"name": "DeleteActivity",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1449143121954,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "d9b39423-74ee-7b05-5a51-16a6382d7791",
+			"headers": "Authorization: Bearer yOEOacvwbJrcBq3ZMPXQgK2zywRemBjoNxGm3HqxMsLnhqsW55JP6WCLBxGXXZvzIfti-1_baWC9grDELmr8Kz8hjtPRYQ5RF8YEZP-ntl0rr0dIPmwckZnSW7CcCbAX5Eg6H8N9svXoAF1rdlnyhJzoCSG7jRETcbhA8uthhMa8k4a9HTo8Fxtmw-dJAeLrrqYUaAqiWncekOpizDa2MTBgITqqv20QYe7beyoS0hGWSNQsLH5MK0lOFFKlRByWNAHERyxRJHrSSy_UCAUyrHS8lg4etsJWFbzDLTyr9-d8YWgNjpHc15z0W6NZhOfz8ZjAPTkDaRm_sWDd_OROLz33RYeqwstUh1aLyCDBBSS1aHX8MDR2SVDHXLBvTeH5RKE4e6cdOplt_XjIsJ4eMk-LNKNpKn5pg7tWkkc1YeG6NNCE8_TCrnYO2zYQi2u-dRNiBJydBjONz3nNxX0Yy27ki8vNUJ6PkHy2UvQe1WU\n",
+			"url": "http://localhost:50982/api/criminals?Name=Rachel Diaz&Alias=Death Rose",
+			"pathVariables": {},
+			"preRequestScript": "",
+			"method": "GET",
+			"collectionId": "53905b2e-d8c1-0203-eaec-79f5a5e794cf",
+			"data": [],
+			"dataMode": "params",
+			"name": "GetCriminal",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1449142602724,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "e0441d81-3121-2a4c-022c-028b1a53025d",
+			"headers": "Authorization: Bearer yOEOacvwbJrcBq3ZMPXQgK2zywRemBjoNxGm3HqxMsLnhqsW55JP6WCLBxGXXZvzIfti-1_baWC9grDELmr8Kz8hjtPRYQ5RF8YEZP-ntl0rr0dIPmwckZnSW7CcCbAX5Eg6H8N9svXoAF1rdlnyhJzoCSG7jRETcbhA8uthhMa8k4a9HTo8Fxtmw-dJAeLrrqYUaAqiWncekOpizDa2MTBgITqqv20QYe7beyoS0hGWSNQsLH5MK0lOFFKlRByWNAHERyxRJHrSSy_UCAUyrHS8lg4etsJWFbzDLTyr9-d8YWgNjpHc15z0W6NZhOfz8ZjAPTkDaRm_sWDd_OROLz33RYeqwstUh1aLyCDBBSS1aHX8MDR2SVDHXLBvTeH5RKE4e6cdOplt_XjIsJ4eMk-LNKNpKn5pg7tWkkc1YeG6NNCE8_TCrnYO2zYQi2u-dRNiBJydBjONz3nNxX0Yy27ki8vNUJ6PkHy2UvQe1WU\n",
+			"url": "http://localhost:50982/api/activities?ActivityType=DrugTrafficking&CriminalName=Brian Hicks",
+			"pathVariables": {},
+			"preRequestScript": "",
+			"method": "GET",
+			"collectionId": "53905b2e-d8c1-0203-eaec-79f5a5e794cf",
+			"data": [],
+			"dataMode": "params",
+			"name": "FilterActivities",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1449143215968,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "fa02373b-2222-05ce-dbe8-ef48bd6f0186",
+			"headers": "Authorization: Bearer yOEOacvwbJrcBq3ZMPXQgK2zywRemBjoNxGm3HqxMsLnhqsW55JP6WCLBxGXXZvzIfti-1_baWC9grDELmr8Kz8hjtPRYQ5RF8YEZP-ntl0rr0dIPmwckZnSW7CcCbAX5Eg6H8N9svXoAF1rdlnyhJzoCSG7jRETcbhA8uthhMa8k4a9HTo8Fxtmw-dJAeLrrqYUaAqiWncekOpizDa2MTBgITqqv20QYe7beyoS0hGWSNQsLH5MK0lOFFKlRByWNAHERyxRJHrSSy_UCAUyrHS8lg4etsJWFbzDLTyr9-d8YWgNjpHc15z0W6NZhOfz8ZjAPTkDaRm_sWDd_OROLz33RYeqwstUh1aLyCDBBSS1aHX8MDR2SVDHXLBvTeH5RKE4e6cdOplt_XjIsJ4eMk-LNKNpKn5pg7tWkkc1YeG6NNCE8_TCrnYO2zYQi2u-dRNiBJydBjONz3nNxX0Yy27ki8vNUJ6PkHy2UvQe1WU\n",
+			"url": "http://localhost:50982/api/cartels",
+			"pathVariables": {},
+			"preRequestScript": "",
+			"method": "POST",
+			"collectionId": "53905b2e-d8c1-0203-eaec-79f5a5e794cf",
+			"data": [
+				{
+					"key": "Name",
+					"value": "BG Mafia",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "CriminalIDs",
+					"value": "8",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "CriminalIDs",
+					"value": "9",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"name": "CreateCartel",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1449142501004,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}

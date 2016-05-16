@@ -1,0 +1,566 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/nodejs', '/usr/bin/npm', 'install', 'jscs', '-g' ]
+2 info using npm@1.3.10
+3 info using node@v0.10.25
+4 verbose cache add [ 'jscs', null ]
+5 verbose cache add name=undefined spec="jscs" args=["jscs",null]
+6 verbose parsed url { protocol: null,
+6 verbose parsed url   slashes: null,
+6 verbose parsed url   auth: null,
+6 verbose parsed url   host: null,
+6 verbose parsed url   port: null,
+6 verbose parsed url   hostname: null,
+6 verbose parsed url   hash: null,
+6 verbose parsed url   search: null,
+6 verbose parsed url   query: null,
+6 verbose parsed url   pathname: 'jscs',
+6 verbose parsed url   path: 'jscs',
+6 verbose parsed url   href: 'jscs' }
+7 silly lockFile 86ad1086-jscs jscs
+8 verbose lock jscs /home/emily/.npm/86ad1086-jscs.lock
+9 silly lockFile 86ad1086-jscs jscs
+10 silly lockFile 86ad1086-jscs jscs
+11 verbose addNamed [ 'jscs', '' ]
+12 verbose addNamed [ null, '*' ]
+13 silly lockFile 591c9664-jscs jscs@
+14 verbose lock jscs@ /home/emily/.npm/591c9664-jscs.lock
+15 silly addNameRange { name: 'jscs', range: '*', hasData: false }
+16 verbose url raw jscs
+17 verbose url resolving [ 'https://registry.npmjs.org/', './jscs' ]
+18 verbose url resolved https://registry.npmjs.org/jscs
+19 info trying registry request attempt 1 at 16:53:15
+20 verbose etag "47WQY0P31DBLU5LTEPMJWC1G7"
+21 http GET https://registry.npmjs.org/jscs
+22 http 304 https://registry.npmjs.org/jscs
+23 silly registry.get cb [ 304,
+23 silly registry.get   { date: 'Wed, 11 Mar 2015 14:53:15 GMT',
+23 silly registry.get     server: 'Apache',
+23 silly registry.get     via: '1.1 varnish',
+23 silly registry.get     'last-modified': 'Wed, 11 Mar 2015 14:53:15 GMT',
+23 silly registry.get     'cache-control': 'max-age=60',
+23 silly registry.get     etag: '"47WQY0P31DBLU5LTEPMJWC1G7"',
+23 silly registry.get     age: '58',
+23 silly registry.get     'x-served-by': 'cache-fra1243-FRA',
+23 silly registry.get     'x-cache': 'HIT',
+23 silly registry.get     'x-cache-hits': '1',
+23 silly registry.get     'x-timer': 'S1426085595.410023,VS0,VE0',
+23 silly registry.get     vary: 'Accept',
+23 silly registry.get     'content-length': '0',
+23 silly registry.get     'keep-alive': 'timeout=10, max=50',
+23 silly registry.get     connection: 'Keep-Alive' } ]
+24 verbose etag jscs from cache
+25 silly addNameRange number 2 { name: 'jscs', range: '*', hasData: true }
+26 silly addNameRange versions [ 'jscs',
+26 silly addNameRange   [ '0.0.1',
+26 silly addNameRange     '0.0.2',
+26 silly addNameRange     '0.0.3',
+26 silly addNameRange     '0.0.4',
+26 silly addNameRange     '0.0.5',
+26 silly addNameRange     '0.0.6',
+26 silly addNameRange     '0.0.7',
+26 silly addNameRange     '0.0.8',
+26 silly addNameRange     '0.0.9',
+26 silly addNameRange     '0.0.10',
+26 silly addNameRange     '0.0.11',
+26 silly addNameRange     '0.0.12',
+26 silly addNameRange     '1.0.0',
+26 silly addNameRange     '1.0.1',
+26 silly addNameRange     '1.0.2',
+26 silly addNameRange     '1.0.3',
+26 silly addNameRange     '1.0.4',
+26 silly addNameRange     '1.0.5',
+26 silly addNameRange     '1.0.6',
+26 silly addNameRange     '1.0.7',
+26 silly addNameRange     '1.0.8',
+26 silly addNameRange     '1.0.10',
+26 silly addNameRange     '1.0.11',
+26 silly addNameRange     '1.0.12',
+26 silly addNameRange     '1.0.13',
+26 silly addNameRange     '1.0.14',
+26 silly addNameRange     '1.0.15',
+26 silly addNameRange     '1.1.0',
+26 silly addNameRange     '1.2.0',
+26 silly addNameRange     '1.2.1',
+26 silly addNameRange     '1.2.2',
+26 silly addNameRange     '1.2.3',
+26 silly addNameRange     '1.2.4',
+26 silly addNameRange     '1.3.0',
+26 silly addNameRange     '1.4.0',
+26 silly addNameRange     '1.4.1',
+26 silly addNameRange     '1.4.2',
+26 silly addNameRange     '1.4.3',
+26 silly addNameRange     '1.4.4',
+26 silly addNameRange     '1.4.5',
+26 silly addNameRange     '1.5.1',
+26 silly addNameRange     '1.5.2',
+26 silly addNameRange     '1.5.3',
+26 silly addNameRange     '1.5.4',
+26 silly addNameRange     '1.5.6',
+26 silly addNameRange     '1.5.7',
+26 silly addNameRange     '1.5.8',
+26 silly addNameRange     '1.5.9',
+26 silly addNameRange     '1.6.0',
+26 silly addNameRange     '1.6.1',
+26 silly addNameRange     '1.6.2',
+26 silly addNameRange     '1.7.0',
+26 silly addNameRange     '1.7.1',
+26 silly addNameRange     '1.7.2',
+26 silly addNameRange     '1.7.3',
+26 silly addNameRange     '1.8.0',
+26 silly addNameRange     '1.8.1',
+26 silly addNameRange     '1.9.0',
+26 silly addNameRange     '1.10.0',
+26 silly addNameRange     '1.11.0',
+26 silly addNameRange     '1.11.1',
+26 silly addNameRange     '1.11.2',
+26 silly addNameRange     '1.11.3' ] ]
+27 verbose addNamed [ 'jscs', '1.11.3' ]
+28 verbose addNamed [ '1.11.3', '1.11.3' ]
+29 silly lockFile dbd4d6c1-jscs-1-11-3 jscs@1.11.3
+30 verbose lock jscs@1.11.3 /home/emily/.npm/dbd4d6c1-jscs-1-11-3.lock
+31 silly lockFile 3f9c732a-y-npmjs-org-jscs-jscs-1-11-3-tgz https://registry.npmjs.org/jscs/-/jscs-1.11.3.tgz
+32 verbose lock https://registry.npmjs.org/jscs/-/jscs-1.11.3.tgz /home/emily/.npm/3f9c732a-y-npmjs-org-jscs-jscs-1-11-3-tgz.lock
+33 verbose addRemoteTarball [ 'https://registry.npmjs.org/jscs/-/jscs-1.11.3.tgz',
+33 verbose addRemoteTarball   'ce08bf86994fdd09cfe917fc496089f8d0e7b4ef' ]
+34 info retry fetch attempt 1 at 16:53:15
+35 verbose fetch to= /home/emily/tmp/npm-2566-WbrjRugf/1426085595227-0.4441414913162589/tmp.tgz
+36 http GET https://registry.npmjs.org/jscs/-/jscs-1.11.3.tgz
+37 http 200 https://registry.npmjs.org/jscs/-/jscs-1.11.3.tgz
+38 verbose tar unpack /home/emily/tmp/npm-2566-WbrjRugf/1426085595227-0.4441414913162589/tmp.tgz
+39 silly lockFile 8c93c4e9-95227-0-4441414913162589-package tar:///home/emily/tmp/npm-2566-WbrjRugf/1426085595227-0.4441414913162589/package
+40 verbose lock tar:///home/emily/tmp/npm-2566-WbrjRugf/1426085595227-0.4441414913162589/package /home/emily/.npm/8c93c4e9-95227-0-4441414913162589-package.lock
+41 silly lockFile e7cb9eae-95227-0-4441414913162589-tmp-tgz tar:///home/emily/tmp/npm-2566-WbrjRugf/1426085595227-0.4441414913162589/tmp.tgz
+42 verbose lock tar:///home/emily/tmp/npm-2566-WbrjRugf/1426085595227-0.4441414913162589/tmp.tgz /home/emily/.npm/e7cb9eae-95227-0-4441414913162589-tmp-tgz.lock
+43 silly gunzTarPerm modes [ '755', '644' ]
+44 silly gunzTarPerm extractEntry package.json
+45 silly gunzTarPerm extractEntry README.md
+46 silly gunzTarPerm extractEntry LICENSE
+47 silly gunzTarPerm extractEntry bin/jscs
+48 silly gunzTarPerm extractEntry lib/checker.js
+49 silly gunzTarPerm extractEntry lib/cli.js
+50 silly gunzTarPerm extractEntry lib/tree-iterator.js
+51 silly gunzTarPerm extractEntry lib/errors.js
+52 silly gunzTarPerm extractEntry lib/js-file.js
+53 silly gunzTarPerm extractEntry lib/cli-config.js
+54 silly gunzTarPerm extractEntry lib/token-assert.js
+55 silly gunzTarPerm extractEntry lib/string-checker.js
+56 silly gunzTarPerm extractEntry lib/utils.js
+57 silly gunzTarPerm extractEntry lib/rules/disallow-anonymous-functions.js
+58 silly gunzTarPerm extractEntry lib/rules/disallow-yoda-conditions.js
+59 silly gunzTarPerm extractEntry lib/rules/maximum-line-length.js
+60 silly gunzTarPerm extractEntry lib/rules/require-aligned-object-values.js
+61 silly gunzTarPerm extractEntry lib/rules/disallow-trailing-whitespace.js
+62 silly gunzTarPerm extractEntry lib/rules/require-blocks-on-newline.js
+63 silly gunzTarPerm extractEntry lib/rules/require-camelcase-or-uppercase-identifiers.js
+64 silly gunzTarPerm extractEntry lib/rules/require-capitalized-comments.js
+65 silly gunzTarPerm extractEntry lib/rules/require-capitalized-constructors.js
+66 silly gunzTarPerm extractEntry lib/rules/require-comma-before-line-break.js
+67 silly gunzTarPerm extractEntry lib/rules/disallow-trailing-comma.js
+68 silly gunzTarPerm extractEntry lib/rules/require-curly-braces.js
+69 silly gunzTarPerm extractEntry lib/rules/disallow-spaces-inside-parentheses.js
+70 silly gunzTarPerm extractEntry lib/rules/require-dot-notation.js
+71 silly gunzTarPerm extractEntry lib/rules/disallow-spaces-inside-object-brackets.js
+72 silly gunzTarPerm extractEntry lib/rules/require-function-declarations.js
+73 silly gunzTarPerm extractEntry lib/rules/disallow-spaces-inside-brackets.js
+74 silly gunzTarPerm extractEntry lib/rules/require-keywords-on-new-line.js
+75 silly gunzTarPerm extractEntry lib/rules/disallow-spaces-inside-array-brackets.js
+76 silly gunzTarPerm extractEntry lib/rules/require-left-sticked-operators.js
+77 silly gunzTarPerm extractEntry lib/rules/disallow-spaces-in-named-function-expression.js
+78 silly gunzTarPerm extractEntry lib/rules/require-line-break-after-variable-assignment.js
+79 silly gunzTarPerm extractEntry lib/rules/disallow-spaces-in-function.js
+80 silly gunzTarPerm extractEntry lib/rules/require-line-feed-at-file-end.js
+81 silly gunzTarPerm extractEntry lib/rules/disallow-spaces-in-function-expression.js
+82 silly gunzTarPerm extractEntry lib/rules/require-multiple-var-decl.js
+83 silly gunzTarPerm extractEntry lib/rules/disallow-spaces-in-function-declaration.js
+84 silly gunzTarPerm extractEntry lib/rules/require-newline-before-block-statements.js
+85 silly gunzTarPerm extractEntry lib/rules/disallow-spaces-in-for-statement.js
+86 silly gunzTarPerm extractEntry lib/rules/require-operator-before-line-break.js
+87 silly gunzTarPerm extractEntry lib/rules/disallow-spaces-in-conditional-expression.js
+88 silly gunzTarPerm extractEntry lib/rules/require-padding-newlines-before-keywords.js
+89 silly gunzTarPerm extractEntry lib/rules/disallow-spaces-in-call-expression.js
+90 silly gunzTarPerm extractEntry lib/rules/require-padding-newlines-in-blocks.js
+91 silly gunzTarPerm extractEntry lib/rules/disallow-spaces-in-anonymous-function-expression.js
+92 silly gunzTarPerm extractEntry lib/rules/require-padding-newlines-in-objects.js
+93 silly gunzTarPerm extractEntry lib/rules/disallow-space-between-arguments.js
+94 silly gunzTarPerm extractEntry lib/rules/require-parentheses-around-iife.js
+95 silly gunzTarPerm extractEntry lib/rules/disallow-space-before-postfix-unary-operators.js
+96 silly gunzTarPerm extractEntry lib/rules/require-quoted-keys-in-objects.js
+97 silly gunzTarPerm extractEntry lib/rules/disallow-space-before-object-values.js
+98 silly gunzTarPerm extractEntry lib/rules/require-right-sticked-operators.js
+99 silly gunzTarPerm extractEntry lib/rules/disallow-space-before-keywords.js
+100 silly gunzTarPerm extractEntry lib/rules/require-space-after-binary-operators.js
+101 silly gunzTarPerm extractEntry lib/rules/disallow-space-before-block-statements.js
+102 silly gunzTarPerm extractEntry lib/rules/require-space-after-keywords.js
+103 silly gunzTarPerm extractEntry lib/rules/disallow-space-before-binary-operators.js
+104 silly gunzTarPerm extractEntry lib/rules/require-space-after-line-comment.js
+105 silly gunzTarPerm extractEntry lib/rules/disallow-space-after-prefix-unary-operators.js
+106 silly gunzTarPerm extractEntry lib/rules/require-space-after-object-keys.js
+107 silly gunzTarPerm extractEntry lib/rules/disallow-space-after-object-keys.js
+108 silly gunzTarPerm extractEntry lib/rules/require-space-after-prefix-unary-operators.js
+109 silly gunzTarPerm extractEntry lib/rules/disallow-space-after-line-comment.js
+110 silly gunzTarPerm extractEntry lib/rules/require-space-before-binary-operators.js
+111 silly gunzTarPerm extractEntry lib/rules/disallow-space-after-keywords.js
+112 silly gunzTarPerm extractEntry lib/rules/require-space-before-block-statements.js
+113 silly gunzTarPerm extractEntry lib/rules/disallow-space-after-binary-operators.js
+114 silly gunzTarPerm extractEntry lib/rules/require-space-before-keywords.js
+115 silly gunzTarPerm extractEntry lib/rules/disallow-semicolons.js
+116 silly gunzTarPerm extractEntry lib/rules/require-space-before-object-values.js
+117 silly gunzTarPerm extractEntry lib/rules/disallow-right-sticked-operators.js
+118 silly gunzTarPerm extractEntry lib/rules/require-space-before-postfix-unary-operators.js
+119 silly gunzTarPerm extractEntry lib/rules/disallow-quoted-keys-in-objects.js
+120 silly gunzTarPerm extractEntry lib/rules/require-space-between-arguments.js
+121 silly gunzTarPerm extractEntry lib/rules/disallow-padding-newlines-in-objects.js
+122 silly gunzTarPerm extractEntry lib/rules/require-spaces-in-anonymous-function-expression.js
+123 silly gunzTarPerm extractEntry lib/rules/disallow-padding-newlines-in-blocks.js
+124 silly gunzTarPerm extractEntry lib/rules/require-spaces-in-call-expression.js
+125 silly gunzTarPerm extractEntry lib/rules/disallow-padding-newlines-before-keywords.js
+126 silly gunzTarPerm extractEntry lib/rules/require-spaces-in-conditional-expression.js
+127 silly gunzTarPerm extractEntry lib/rules/disallow-operator-before-line-break.js
+128 silly gunzTarPerm extractEntry lib/rules/require-spaces-in-for-statement.js
+129 silly gunzTarPerm extractEntry lib/rules/disallow-newline-before-block-statements.js
+130 silly gunzTarPerm extractEntry lib/rules/require-spaces-in-function-declaration.js
+131 silly gunzTarPerm extractEntry lib/rules/disallow-multiple-var-decl.js
+132 silly gunzTarPerm extractEntry lib/rules/require-spaces-in-function-expression.js
+133 silly gunzTarPerm extractEntry lib/rules/disallow-multiple-line-strings.js
+134 silly gunzTarPerm extractEntry lib/rules/require-spaces-in-function.js
+135 silly gunzTarPerm extractEntry lib/rules/disallow-multiple-line-breaks.js
+136 silly gunzTarPerm extractEntry lib/rules/require-spaces-in-named-function-expression.js
+137 silly gunzTarPerm extractEntry lib/rules/disallow-mixed-spaces-and-tabs.js
+138 silly gunzTarPerm extractEntry lib/rules/require-spaces-inside-array-brackets.js
+139 silly gunzTarPerm extractEntry lib/rules/disallow-left-sticked-operators.js
+140 silly gunzTarPerm extractEntry lib/rules/require-spaces-inside-brackets.js
+141 silly gunzTarPerm extractEntry lib/rules/disallow-keywords.js
+142 silly gunzTarPerm extractEntry lib/rules/require-spaces-inside-object-brackets.js
+143 silly gunzTarPerm extractEntry lib/rules/disallow-keywords-on-new-line.js
+144 silly gunzTarPerm extractEntry lib/rules/require-spaces-inside-parentheses.js
+145 silly gunzTarPerm extractEntry lib/rules/disallow-keywords-in-comments.js
+146 silly gunzTarPerm extractEntry lib/rules/require-trailing-comma.js
+147 silly gunzTarPerm extractEntry lib/rules/disallow-implicit-type-conversion.js
+148 silly gunzTarPerm extractEntry lib/rules/require-yoda-conditions.js
+149 silly gunzTarPerm extractEntry lib/rules/disallow-function-declarations.js
+150 silly gunzTarPerm extractEntry lib/rules/safe-context-keyword.js
+151 silly gunzTarPerm extractEntry lib/rules/disallow-empty-blocks.js
+152 silly gunzTarPerm extractEntry lib/rules/validate-indentation.js
+153 silly gunzTarPerm extractEntry lib/rules/disallow-dangling-underscores.js
+154 silly gunzTarPerm extractEntry lib/rules/validate-jsdoc.js
+155 silly gunzTarPerm extractEntry lib/rules/disallow-curly-braces.js
+156 silly gunzTarPerm extractEntry lib/rules/validate-line-breaks.js
+157 silly gunzTarPerm extractEntry lib/rules/disallow-comma-before-line-break.js
+158 silly gunzTarPerm extractEntry lib/rules/validate-parameter-separator.js
+159 silly gunzTarPerm extractEntry lib/rules/disallow-capitalized-comments.js
+160 silly gunzTarPerm extractEntry lib/rules/validate-quote-marks.js
+161 silly gunzTarPerm extractEntry lib/rules/require-anonymous-functions.js
+162 silly gunzTarPerm extractEntry lib/config/configuration.js
+163 silly gunzTarPerm extractEntry lib/config/generator.js
+164 silly gunzTarPerm extractEntry lib/config/node-configuration.js
+165 silly gunzTarPerm extractEntry lib/reporters/checkstyle.js
+166 silly gunzTarPerm extractEntry lib/reporters/console.js
+167 silly gunzTarPerm extractEntry lib/reporters/inline.js
+168 silly gunzTarPerm extractEntry lib/reporters/inlinesingle.js
+169 silly gunzTarPerm extractEntry lib/reporters/junit.js
+170 silly gunzTarPerm extractEntry lib/reporters/text.js
+171 silly gunzTarPerm extractEntry patterns/L.js
+172 silly gunzTarPerm extractEntry patterns/Ll.js
+173 silly gunzTarPerm extractEntry patterns/Lu.js
+174 silly gunzTarPerm extractEntry presets/airbnb.json
+175 silly gunzTarPerm extractEntry presets/crockford.json
+176 silly gunzTarPerm extractEntry presets/google.json
+177 silly gunzTarPerm extractEntry presets/grunt.json
+178 silly gunzTarPerm extractEntry presets/jquery.json
+179 silly gunzTarPerm extractEntry presets/mdcs.json
+180 silly gunzTarPerm extractEntry presets/wikimedia.json
+181 silly gunzTarPerm extractEntry presets/yandex.json
+182 silly lockFile 8c93c4e9-95227-0-4441414913162589-package tar:///home/emily/tmp/npm-2566-WbrjRugf/1426085595227-0.4441414913162589/package
+183 silly lockFile 8c93c4e9-95227-0-4441414913162589-package tar:///home/emily/tmp/npm-2566-WbrjRugf/1426085595227-0.4441414913162589/package
+184 silly lockFile e7cb9eae-95227-0-4441414913162589-tmp-tgz tar:///home/emily/tmp/npm-2566-WbrjRugf/1426085595227-0.4441414913162589/tmp.tgz
+185 silly lockFile e7cb9eae-95227-0-4441414913162589-tmp-tgz tar:///home/emily/tmp/npm-2566-WbrjRugf/1426085595227-0.4441414913162589/tmp.tgz
+186 verbose tar pack [ '/home/emily/.npm/jscs/1.11.3/package.tgz',
+186 verbose tar pack   '/home/emily/tmp/npm-2566-WbrjRugf/1426085595227-0.4441414913162589/package' ]
+187 verbose tarball /home/emily/.npm/jscs/1.11.3/package.tgz
+188 verbose folder /home/emily/tmp/npm-2566-WbrjRugf/1426085595227-0.4441414913162589/package
+189 silly lockFile 8c93c4e9-95227-0-4441414913162589-package tar:///home/emily/tmp/npm-2566-WbrjRugf/1426085595227-0.4441414913162589/package
+190 verbose lock tar:///home/emily/tmp/npm-2566-WbrjRugf/1426085595227-0.4441414913162589/package /home/emily/.npm/8c93c4e9-95227-0-4441414913162589-package.lock
+191 silly lockFile 4c9c9226-mily-npm-jscs-1-11-3-package-tgz tar:///home/emily/.npm/jscs/1.11.3/package.tgz
+192 verbose lock tar:///home/emily/.npm/jscs/1.11.3/package.tgz /home/emily/.npm/4c9c9226-mily-npm-jscs-1-11-3-package-tgz.lock
+193 silly lockFile 8c93c4e9-95227-0-4441414913162589-package tar:///home/emily/tmp/npm-2566-WbrjRugf/1426085595227-0.4441414913162589/package
+194 silly lockFile 8c93c4e9-95227-0-4441414913162589-package tar:///home/emily/tmp/npm-2566-WbrjRugf/1426085595227-0.4441414913162589/package
+195 silly lockFile 4c9c9226-mily-npm-jscs-1-11-3-package-tgz tar:///home/emily/.npm/jscs/1.11.3/package.tgz
+196 silly lockFile 4c9c9226-mily-npm-jscs-1-11-3-package-tgz tar:///home/emily/.npm/jscs/1.11.3/package.tgz
+197 silly lockFile 57cd1304-me-emily-npm-jscs-1-11-3-package /home/emily/.npm/jscs/1.11.3/package
+198 verbose lock /home/emily/.npm/jscs/1.11.3/package /home/emily/.npm/57cd1304-me-emily-npm-jscs-1-11-3-package.lock
+199 silly lockFile 57cd1304-me-emily-npm-jscs-1-11-3-package /home/emily/.npm/jscs/1.11.3/package
+200 silly lockFile 57cd1304-me-emily-npm-jscs-1-11-3-package /home/emily/.npm/jscs/1.11.3/package
+201 verbose tar unpack /home/emily/.npm/jscs/1.11.3/package.tgz
+202 silly lockFile 0132066b-me-emily-npm-jscs-1-11-3-package tar:///home/emily/.npm/jscs/1.11.3/package
+203 verbose lock tar:///home/emily/.npm/jscs/1.11.3/package /home/emily/.npm/0132066b-me-emily-npm-jscs-1-11-3-package.lock
+204 silly lockFile 4c9c9226-mily-npm-jscs-1-11-3-package-tgz tar:///home/emily/.npm/jscs/1.11.3/package.tgz
+205 verbose lock tar:///home/emily/.npm/jscs/1.11.3/package.tgz /home/emily/.npm/4c9c9226-mily-npm-jscs-1-11-3-package-tgz.lock
+206 silly gunzTarPerm modes [ '755', '644' ]
+207 silly gunzTarPerm extractEntry package.json
+208 silly gunzTarPerm extractEntry README.md
+209 silly gunzTarPerm extractEntry LICENSE
+210 silly gunzTarPerm extractEntry bin/jscs
+211 silly gunzTarPerm extractEntry lib/checker.js
+212 silly gunzTarPerm extractEntry lib/cli.js
+213 silly gunzTarPerm extractEntry lib/tree-iterator.js
+214 silly gunzTarPerm extractEntry lib/errors.js
+215 silly gunzTarPerm extractEntry lib/js-file.js
+216 silly gunzTarPerm extractEntry lib/cli-config.js
+217 silly gunzTarPerm extractEntry lib/token-assert.js
+218 silly gunzTarPerm extractEntry lib/string-checker.js
+219 silly gunzTarPerm extractEntry lib/utils.js
+220 silly gunzTarPerm extractEntry lib/rules/disallow-anonymous-functions.js
+221 silly gunzTarPerm extractEntry lib/rules/disallow-yoda-conditions.js
+222 silly gunzTarPerm extractEntry lib/rules/maximum-line-length.js
+223 silly gunzTarPerm extractEntry lib/rules/require-aligned-object-values.js
+224 silly gunzTarPerm extractEntry lib/rules/disallow-trailing-whitespace.js
+225 silly gunzTarPerm extractEntry lib/rules/require-blocks-on-newline.js
+226 silly gunzTarPerm extractEntry lib/rules/require-camelcase-or-uppercase-identifiers.js
+227 silly gunzTarPerm extractEntry lib/rules/require-capitalized-comments.js
+228 silly gunzTarPerm extractEntry lib/rules/require-capitalized-constructors.js
+229 silly gunzTarPerm extractEntry lib/rules/require-comma-before-line-break.js
+230 silly gunzTarPerm extractEntry lib/rules/disallow-trailing-comma.js
+231 silly gunzTarPerm extractEntry lib/rules/require-curly-braces.js
+232 silly gunzTarPerm extractEntry lib/rules/disallow-spaces-inside-parentheses.js
+233 silly gunzTarPerm extractEntry lib/rules/require-dot-notation.js
+234 silly gunzTarPerm extractEntry lib/rules/disallow-spaces-inside-object-brackets.js
+235 silly gunzTarPerm extractEntry lib/rules/require-function-declarations.js
+236 silly gunzTarPerm extractEntry lib/rules/disallow-spaces-inside-brackets.js
+237 silly gunzTarPerm extractEntry lib/rules/require-keywords-on-new-line.js
+238 silly gunzTarPerm extractEntry lib/rules/disallow-spaces-inside-array-brackets.js
+239 silly gunzTarPerm extractEntry lib/rules/require-left-sticked-operators.js
+240 silly gunzTarPerm extractEntry lib/rules/disallow-spaces-in-named-function-expression.js
+241 silly gunzTarPerm extractEntry lib/rules/require-line-break-after-variable-assignment.js
+242 silly gunzTarPerm extractEntry lib/rules/disallow-spaces-in-function.js
+243 silly gunzTarPerm extractEntry lib/rules/require-line-feed-at-file-end.js
+244 silly gunzTarPerm extractEntry lib/rules/disallow-spaces-in-function-expression.js
+245 silly gunzTarPerm extractEntry lib/rules/require-multiple-var-decl.js
+246 silly gunzTarPerm extractEntry lib/rules/disallow-spaces-in-function-declaration.js
+247 silly gunzTarPerm extractEntry lib/rules/require-newline-before-block-statements.js
+248 silly gunzTarPerm extractEntry lib/rules/disallow-spaces-in-for-statement.js
+249 silly gunzTarPerm extractEntry lib/rules/require-operator-before-line-break.js
+250 silly gunzTarPerm extractEntry lib/rules/disallow-spaces-in-conditional-expression.js
+251 silly gunzTarPerm extractEntry lib/rules/require-padding-newlines-before-keywords.js
+252 silly gunzTarPerm extractEntry lib/rules/disallow-spaces-in-call-expression.js
+253 silly gunzTarPerm extractEntry lib/rules/require-padding-newlines-in-blocks.js
+254 silly gunzTarPerm extractEntry lib/rules/disallow-spaces-in-anonymous-function-expression.js
+255 silly gunzTarPerm extractEntry lib/rules/require-padding-newlines-in-objects.js
+256 silly gunzTarPerm extractEntry lib/rules/disallow-space-between-arguments.js
+257 silly gunzTarPerm extractEntry lib/rules/require-parentheses-around-iife.js
+258 silly gunzTarPerm extractEntry lib/rules/disallow-space-before-postfix-unary-operators.js
+259 silly gunzTarPerm extractEntry lib/rules/require-quoted-keys-in-objects.js
+260 silly gunzTarPerm extractEntry lib/rules/disallow-space-before-object-values.js
+261 silly gunzTarPerm extractEntry lib/rules/require-right-sticked-operators.js
+262 silly gunzTarPerm extractEntry lib/rules/disallow-space-before-keywords.js
+263 silly gunzTarPerm extractEntry lib/rules/require-space-after-binary-operators.js
+264 silly gunzTarPerm extractEntry lib/rules/disallow-space-before-block-statements.js
+265 silly gunzTarPerm extractEntry lib/rules/require-space-after-keywords.js
+266 silly gunzTarPerm extractEntry lib/rules/disallow-space-before-binary-operators.js
+267 silly gunzTarPerm extractEntry lib/rules/require-space-after-line-comment.js
+268 silly gunzTarPerm extractEntry lib/rules/disallow-space-after-prefix-unary-operators.js
+269 silly gunzTarPerm extractEntry lib/rules/require-space-after-object-keys.js
+270 silly gunzTarPerm extractEntry lib/rules/disallow-space-after-object-keys.js
+271 silly gunzTarPerm extractEntry lib/rules/require-space-after-prefix-unary-operators.js
+272 silly gunzTarPerm extractEntry lib/rules/disallow-space-after-line-comment.js
+273 silly gunzTarPerm extractEntry lib/rules/require-space-before-binary-operators.js
+274 silly gunzTarPerm extractEntry lib/rules/disallow-space-after-keywords.js
+275 silly gunzTarPerm extractEntry lib/rules/require-space-before-block-statements.js
+276 silly gunzTarPerm extractEntry lib/rules/disallow-space-after-binary-operators.js
+277 silly gunzTarPerm extractEntry lib/rules/require-space-before-keywords.js
+278 silly gunzTarPerm extractEntry lib/rules/disallow-semicolons.js
+279 silly gunzTarPerm extractEntry lib/rules/require-space-before-object-values.js
+280 silly gunzTarPerm extractEntry lib/rules/disallow-right-sticked-operators.js
+281 silly gunzTarPerm extractEntry lib/rules/require-space-before-postfix-unary-operators.js
+282 silly gunzTarPerm extractEntry lib/rules/disallow-quoted-keys-in-objects.js
+283 silly gunzTarPerm extractEntry lib/rules/require-space-between-arguments.js
+284 silly gunzTarPerm extractEntry lib/rules/disallow-padding-newlines-in-objects.js
+285 silly gunzTarPerm extractEntry lib/rules/require-spaces-in-anonymous-function-expression.js
+286 silly gunzTarPerm extractEntry lib/rules/disallow-padding-newlines-in-blocks.js
+287 silly gunzTarPerm extractEntry lib/rules/require-spaces-in-call-expression.js
+288 silly gunzTarPerm extractEntry lib/rules/disallow-padding-newlines-before-keywords.js
+289 silly gunzTarPerm extractEntry lib/rules/require-spaces-in-conditional-expression.js
+290 silly gunzTarPerm extractEntry lib/rules/disallow-operator-before-line-break.js
+291 silly gunzTarPerm extractEntry lib/rules/require-spaces-in-for-statement.js
+292 silly gunzTarPerm extractEntry lib/rules/disallow-newline-before-block-statements.js
+293 silly gunzTarPerm extractEntry lib/rules/require-spaces-in-function-declaration.js
+294 silly gunzTarPerm extractEntry lib/rules/disallow-multiple-var-decl.js
+295 silly gunzTarPerm extractEntry lib/rules/require-spaces-in-function-expression.js
+296 silly gunzTarPerm extractEntry lib/rules/disallow-multiple-line-strings.js
+297 silly gunzTarPerm extractEntry lib/rules/require-spaces-in-function.js
+298 silly gunzTarPerm extractEntry lib/rules/disallow-multiple-line-breaks.js
+299 silly gunzTarPerm extractEntry lib/rules/require-spaces-in-named-function-expression.js
+300 silly gunzTarPerm extractEntry lib/rules/disallow-mixed-spaces-and-tabs.js
+301 silly gunzTarPerm extractEntry lib/rules/require-spaces-inside-array-brackets.js
+302 silly gunzTarPerm extractEntry lib/rules/disallow-left-sticked-operators.js
+303 silly gunzTarPerm extractEntry lib/rules/require-spaces-inside-brackets.js
+304 silly gunzTarPerm extractEntry lib/rules/disallow-keywords.js
+305 silly gunzTarPerm extractEntry lib/rules/require-spaces-inside-object-brackets.js
+306 silly gunzTarPerm extractEntry lib/rules/disallow-keywords-on-new-line.js
+307 silly gunzTarPerm extractEntry lib/rules/require-spaces-inside-parentheses.js
+308 silly gunzTarPerm extractEntry lib/rules/disallow-keywords-in-comments.js
+309 silly gunzTarPerm extractEntry lib/rules/require-trailing-comma.js
+310 silly gunzTarPerm extractEntry lib/rules/disallow-implicit-type-conversion.js
+311 silly gunzTarPerm extractEntry lib/rules/require-yoda-conditions.js
+312 silly gunzTarPerm extractEntry lib/rules/disallow-function-declarations.js
+313 silly gunzTarPerm extractEntry lib/rules/safe-context-keyword.js
+314 silly gunzTarPerm extractEntry lib/rules/disallow-empty-blocks.js
+315 silly gunzTarPerm extractEntry lib/rules/validate-indentation.js
+316 silly gunzTarPerm extractEntry lib/rules/disallow-dangling-underscores.js
+317 silly gunzTarPerm extractEntry lib/rules/validate-jsdoc.js
+318 silly gunzTarPerm extractEntry lib/rules/disallow-curly-braces.js
+319 silly gunzTarPerm extractEntry lib/rules/validate-line-breaks.js
+320 silly gunzTarPerm extractEntry lib/rules/disallow-comma-before-line-break.js
+321 silly gunzTarPerm extractEntry lib/rules/validate-parameter-separator.js
+322 silly gunzTarPerm extractEntry lib/rules/disallow-capitalized-comments.js
+323 silly gunzTarPerm extractEntry lib/rules/validate-quote-marks.js
+324 silly gunzTarPerm extractEntry lib/rules/require-anonymous-functions.js
+325 silly gunzTarPerm extractEntry lib/config/configuration.js
+326 silly gunzTarPerm extractEntry lib/config/generator.js
+327 silly gunzTarPerm extractEntry lib/config/node-configuration.js
+328 silly gunzTarPerm extractEntry lib/reporters/checkstyle.js
+329 silly gunzTarPerm extractEntry lib/reporters/console.js
+330 silly gunzTarPerm extractEntry lib/reporters/inline.js
+331 silly gunzTarPerm extractEntry lib/reporters/inlinesingle.js
+332 silly gunzTarPerm extractEntry lib/reporters/junit.js
+333 silly gunzTarPerm extractEntry lib/reporters/text.js
+334 silly gunzTarPerm extractEntry patterns/L.js
+335 silly gunzTarPerm extractEntry patterns/Ll.js
+336 silly gunzTarPerm extractEntry patterns/Lu.js
+337 silly gunzTarPerm extractEntry presets/airbnb.json
+338 silly gunzTarPerm extractEntry presets/crockford.json
+339 silly gunzTarPerm extractEntry presets/google.json
+340 silly gunzTarPerm extractEntry presets/grunt.json
+341 silly gunzTarPerm extractEntry presets/jquery.json
+342 silly gunzTarPerm extractEntry presets/mdcs.json
+343 silly gunzTarPerm extractEntry presets/wikimedia.json
+344 silly gunzTarPerm extractEntry presets/yandex.json
+345 silly lockFile 0132066b-me-emily-npm-jscs-1-11-3-package tar:///home/emily/.npm/jscs/1.11.3/package
+346 silly lockFile 0132066b-me-emily-npm-jscs-1-11-3-package tar:///home/emily/.npm/jscs/1.11.3/package
+347 silly lockFile 4c9c9226-mily-npm-jscs-1-11-3-package-tgz tar:///home/emily/.npm/jscs/1.11.3/package.tgz
+348 silly lockFile 4c9c9226-mily-npm-jscs-1-11-3-package-tgz tar:///home/emily/.npm/jscs/1.11.3/package.tgz
+349 verbose chmod /home/emily/.npm/jscs/1.11.3/package.tgz 644
+350 verbose chown /home/emily/.npm/jscs/1.11.3/package.tgz [ 1000, 1000 ]
+351 silly lockFile 3f9c732a-y-npmjs-org-jscs-jscs-1-11-3-tgz https://registry.npmjs.org/jscs/-/jscs-1.11.3.tgz
+352 silly lockFile 3f9c732a-y-npmjs-org-jscs-jscs-1-11-3-tgz https://registry.npmjs.org/jscs/-/jscs-1.11.3.tgz
+353 silly lockFile dbd4d6c1-jscs-1-11-3 jscs@1.11.3
+354 silly lockFile dbd4d6c1-jscs-1-11-3 jscs@1.11.3
+355 silly lockFile 591c9664-jscs jscs@
+356 silly lockFile 591c9664-jscs jscs@
+357 silly resolved [ { author: { name: 'Marat Dulin', email: 'mdevils@yandex.ru' },
+357 silly resolved     description: 'JavaScript Code Style',
+357 silly resolved     name: 'jscs',
+357 silly resolved     version: '1.11.3',
+357 silly resolved     main: 'lib/checker',
+357 silly resolved     homepage: 'https://github.com/jscs-dev/node-jscs',
+357 silly resolved     keywords:
+357 silly resolved      [ 'code style',
+357 silly resolved        'formatter',
+357 silly resolved        'lint',
+357 silly resolved        'linter',
+357 silly resolved        'style guide',
+357 silly resolved        'validate' ],
+357 silly resolved     license: 'MIT',
+357 silly resolved     repository: { type: 'git', url: 'https://github.com/jscs-dev/node-jscs' },
+357 silly resolved     bugs: { url: 'https://github.com/jscs-dev/node-jscs/issues' },
+357 silly resolved     contributors:
+357 silly resolved      [ [Object],
+357 silly resolved        [Object],
+357 silly resolved        [Object],
+357 silly resolved        [Object],
+357 silly resolved        [Object],
+357 silly resolved        [Object],
+357 silly resolved        [Object] ],
+357 silly resolved     maintainers: [ [Object], [Object], [Object], [Object], [Object] ],
+357 silly resolved     engines: { node: '>= 0.10.0' },
+357 silly resolved     dependencies:
+357 silly resolved      { 'cli-table': '~0.3.1',
+357 silly resolved        colors: '~1.0.3',
+357 silly resolved        commander: '~2.6.0',
+357 silly resolved        esprima: '~1.2.4',
+357 silly resolved        'esprima-harmony-jscs': '1.1.0-tolerate-import',
+357 silly resolved        estraverse: '~1.9.1',
+357 silly resolved        exit: '~0.1.2',
+357 silly resolved        glob: '~4.3.5',
+357 silly resolved        'lodash.assign': '~3.0.0',
+357 silly resolved        minimatch: '~2.0.1',
+357 silly resolved        prompt: '~0.2.14',
+357 silly resolved        'strip-json-comments': '~1.0.2',
+357 silly resolved        'supports-color': '~1.2.0',
+357 silly resolved        vow: '~0.4.8',
+357 silly resolved        'vow-fs': '~0.3.4',
+357 silly resolved        xmlbuilder: '~2.5.0' },
+357 silly resolved     devDependencies:
+357 silly resolved      { browserify: '~8.1.3',
+357 silly resolved        coveralls: '~2.11.2',
+357 silly resolved        'has-ansi': '~1.0.1',
+357 silly resolved        jshint: '~2.6.0',
+357 silly resolved        mocha: '~2.1.0',
+357 silly resolved        regenerate: '~1.2.1',
+357 silly resolved        rewire: '~2.1.5',
+357 silly resolved        sinon: '~1.12.2',
+357 silly resolved        'unicode-7.0.0': '~0.1.5',
+357 silly resolved        'unit-coverage': '~3.3.0',
+357 silly resolved        xml2js: '~0.4.4' },
+357 silly resolved     bin: { jscs: './bin/jscs' },
+357 silly resolved     'unit-coverage': { common: [Object] },
+357 silly resolved     scripts:
+357 silly resolved      { lint: 'jshint . && node bin/jscs lib test bin publish',
+357 silly resolved        test: 'npm run lint && mocha --color',
+357 silly resolved        coverage: 'unit-coverage run -p common',
+357 silly resolved        'coverage-html': 'unit-coverage run -p common -r html -o coverage.html',
+357 silly resolved        browserify: 'browserify --standalone JscsStringChecker lib/string-checker.js -o jscs-browser.js',
+357 silly resolved        changelog: 'git log `git describe --tags --abbrev=0`..HEAD --pretty=format:\' * %s (%an)\' | grep -v \'Merge pull request\'',
+357 silly resolved        release: 'node publish/prepublish && npm test && npm publish',
+357 silly resolved        postpublish: 'node publish/postpublish',
+357 silly resolved        travis: 'npm run test && unit-coverage run -p common -r lcov -o out.lcov && cat out.lcov | coveralls' },
+357 silly resolved     files:
+357 silly resolved      [ 'bin',
+357 silly resolved        'lib',
+357 silly resolved        'patterns',
+357 silly resolved        'presets',
+357 silly resolved        'LICENSE',
+357 silly resolved        'jscs-browser.js' ],
+357 silly resolved     readme: '[![Build Status](https://travis-ci.org/jscs-dev/node-jscs.svg?branch=master)](https://travis-ci.org/jscs-dev/node-jscs)\n[![Windows CI](https://ci.appveyor.com/api/projects/status/github/jscs-dev/node-jscs?svg=true)](https://ci.appveyor.com/project/jscs-dev/node-jscs/branch/master)\n[![Coverage Status](https://img.shields.io/coveralls/jscs-dev/node-jscs.svg?style=flat)](https://coveralls.io/r/jscs-dev/node-jscs?branch=master)\n[![Dependency Status](https://david-dm.org/jscs-dev/node-jscs.svg?theme=shields.io&style=flat)](https://david-dm.org/jscs-dev/node-jscs)\n[![devDependency Status](https://david-dm.org/jscs-dev/node-jscs/dev-status.svg?theme=shields.io&style=flat)](https://david-dm.org/jscs-dev/node-jscs#info=devDependencies)\n\n**JSCS** — JavaScript Code Style.\n\n**JSCS** is a code style linter for programmatically enforcing your style guide.\nYou can configure **JSCS** for your project in detail using **over 90** validation rules,\nincluding presets from popular style guides like jQuery, Airbnb, Google, and more.\n\n#### More about JSCS\n\n * [Tutorial and Overview](http://jscs.info/overview.html)\n * [Try JSCS Online](http://jscs.info/demo.html)\n * [Codestyle Rules](http://jscs.info/rules.html)\n * [How to Contribute](http://jscs.info/contributing.html)\n * [Development Team](http://jscs.info/team.html)\n\n#### Who uses JSCS?\n\n * [jQuery](http://jquery.com/)\n * [Adobe](http://www.adobe.com/)\n * [Bootstrap](http://getbootstrap.com/)\n * [AngularJS](https://angularjs.org/)\n * [Yandex](https://yandex.com/)\n * [Wikimedia](https://www.wikimedia.org/)\n * [Grunt](http://gruntjs.com/)\n * [Ember.js](http://www.emberjs.com/)\n * [Ionic](http://ionicframework.com/)\n * [Moment.js](http://momentjs.com/)\n * [TodoMVC](http://todomvc.com/)\n * [Famous](http://famo.us/)\n\n',
+357 silly resolved     readmeFilename: 'README.md',
+357 silly resolved     _id: 'jscs@1.11.3',
+357 silly resolved     dist: { shasum: '3d1f864b54289fa0665f0a75a1ffaed2a991f51d' },
+357 silly resolved     _from: 'jscs@',
+357 silly resolved     _resolved: 'https://registry.npmjs.org/jscs/-/jscs-1.11.3.tgz' } ]
+358 info install jscs@1.11.3 into /usr/local/lib
+359 info installOne jscs@1.11.3
+360 info /usr/local/lib/node_modules/jscs unbuild
+361 verbose tar unpack /home/emily/.npm/jscs/1.11.3/package.tgz
+362 silly lockFile bc641b5e--usr-local-lib-node-modules-jscs tar:///usr/local/lib/node_modules/jscs
+363 verbose lock tar:///usr/local/lib/node_modules/jscs /home/emily/.npm/bc641b5e--usr-local-lib-node-modules-jscs.lock
+364 silly lockFile 4c9c9226-mily-npm-jscs-1-11-3-package-tgz tar:///home/emily/.npm/jscs/1.11.3/package.tgz
+365 verbose lock tar:///home/emily/.npm/jscs/1.11.3/package.tgz /home/emily/.npm/4c9c9226-mily-npm-jscs-1-11-3-package-tgz.lock
+366 silly gunzTarPerm modes [ '755', '644' ]
+367 error Error: EACCES, mkdir '/usr/local/lib/node_modules'
+367 error  { [Error: EACCES, mkdir '/usr/local/lib/node_modules']
+367 error   errno: 3,
+367 error   code: 'EACCES',
+367 error   path: '/usr/local/lib/node_modules',
+367 error   fstream_type: 'Directory',
+367 error   fstream_path: '/usr/local/lib/node_modules/jscs',
+367 error   fstream_class: 'DirWriter',
+367 error   fstream_stack:
+367 error    [ '/usr/lib/nodejs/fstream/lib/writer.js:171:23',
+367 error      '/usr/lib/nodejs/mkdirp/index.js:37:53',
+367 error      'Object.oncomplete (fs.js:107:15)' ] }
+368 error Please try running this command again as root/Administrator.
+369 error System Linux 3.13.0-46-generic
+370 error command "/usr/bin/nodejs" "/usr/bin/npm" "install" "jscs" "-g"
+371 error cwd /home/emily/WebstormProjects/1. JavaScript Development Introduction
+372 error node -v v0.10.25
+373 error npm -v 1.3.10
+374 error path /usr/local/lib/node_modules
+375 error fstream_path /usr/local/lib/node_modules/jscs
+376 error fstream_type Directory
+377 error fstream_class DirWriter
+378 error code EACCES
+379 error errno 3
+380 error stack Error: EACCES, mkdir '/usr/local/lib/node_modules'
+381 error fstream_stack /usr/lib/nodejs/fstream/lib/writer.js:171:23
+381 error fstream_stack /usr/lib/nodejs/mkdirp/index.js:37:53
+381 error fstream_stack Object.oncomplete (fs.js:107:15)
+382 verbose exit [ 3, true ]

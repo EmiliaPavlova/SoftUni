@@ -1,0 +1,1 @@
+{".gyp":{"files":["nodeJS","uTorrent"],"memory":"47.02"},".jpeg":{"files":["nakov-naked","selfie"],"memory":"10.24"},".pdf":{"files":["gnuGPL"],"memory":"5.60"},".tar.gz":{"files":["eclipse","myFiles","skype"],"memory":"1047.00"}}

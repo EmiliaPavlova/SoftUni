@@ -1,0 +1,31 @@
+    d    
+    s    
+    f    
+    k    
+    h    
+    j    
+    s    
+    h    
+    f    
+    j   d
+    g   f
+    h   s
+    j   s
+    s   f
+   sf   g
+   fg   s
+   gj   d
+   ff   g
+   hgd  f
+   jjg  g
+   hff as
+   ggf ff
+   jjf gd
+   rjg fg
+   eff gf
+  fjgs ad
+  ekkf fg
+  djjs gf
+ ccdsf gf
+ bbafa fg
+aaafgsfaf

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Problem 7 - Calculator</title>
+
+		<style type="text/css">
+			#wrapper{ 
+				margin: 0 auto;
+			}
+			table{
+				margin: 0 auto;
+			}
+			table, td { 
+				border: 1px solid grey; 
+				border-radius: 6px;
+				font-family: Arial, Helvetica, sans-serif; 
+			}
+			button {
+				width: 60px;
+				height: 60px;
+				font-size: 2em;
+				font-family: sans-serif;
+				cursor:pointer;
+				border-top:2px solid transparent;
+			}
+			.display input {
+				position:relative;
+				width: 260px;
+				height:50px;
+				color:black;
+				background-color:#ffcd95;
+				font-size:21px;
+				text-align:right;
+				border-radius: 6px;
+				} 
+
+		</style>
+	</head>
+	<body>
+		<div id="wrapper">
+			<table>
+				<tr>
+					<td colspan="4"><div class="display"><input type="text" id="d"></div></td>
+				</tr>
+				<tr>
+					<td><button type="button" value="  1  " onclick='v("1")'>1</button></td>
+                    <td><button type="button" value="  2  " onclick='v("2")'>2</button></td>
+                    <td><button type="button" value="  3  " onclick='v("3")'>3</button></td>
+                    <td><button type="button" onclick='v("+")'>+</button></td>
+				</tr>
+				<tr>
+					<td><button type="button" onclick='v("4")'>4</button></td>
+                    <td><button type="button" onclick='v("5")'>5</button></td>
+                    <td><button type="button" onclick='v("6")'>6</button></td>
+                    <td><button type="button" onclick='v("-")'>-</button></td>
+				</tr>
+				<tr>
+					<td><button type="button" onclick='v("7")'>7</button></td>
+                    <td><button type="button" onclick='v("8")'>8</button></td>
+                    <td><button type="button" onclick='v("9")'>9</button></td>
+                    <td><button type="button" onclick='v("*")'>*</button></td>
+				</tr>
+				<tr>
+					<td><button type="button" onclick='c("")'>C</button></td>
+                    <td><button type="button" onclick='v("0")'>0</button></td>
+                    <td><button type="button"onclick='e()'>=</button></td>
+                    <td><button type="button" onclick='v("/")'>/</button></td>
+				</tr>
+
+				<script type="text/javascript">
+					function c(val) {
+						document.getElementById("d").value=val;
+					}
+					function v(val) {
+						document.getElementById("d").value+=val;
+					}
+					function e() { 
+						try { 
+  							c(eval(document.getElementById("d").value)) 
+						} 
+						catch(e) {
+  							c('Error') 
+  						} 
+					}  
+				</script>
+			</table>
+		</div>
+	</body>
+</html>

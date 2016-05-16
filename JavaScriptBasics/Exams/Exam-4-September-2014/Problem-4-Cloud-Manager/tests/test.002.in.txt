@@ -1,0 +1,7 @@
+archive .rar 2342.2MB
+myStuff .tar.gz 76.4MB
+oldPC .7zip 1100MB
+archive .tar.gz 42MB
+presentation .pptx 4.9MB
+presentation-copy .pptx 4.9MB
+archive-copy .tar.gz 43MB

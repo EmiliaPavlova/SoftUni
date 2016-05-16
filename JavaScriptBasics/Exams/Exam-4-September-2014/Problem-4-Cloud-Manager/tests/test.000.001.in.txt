@@ -1,0 +1,7 @@
+sentinel .exe 15MB
+zoomIt .msi 3MB
+skype .exe 45MB
+trojanStopper .bat 23MB
+kindleInstaller .exe 120MB
+setup .msi 33.4MB
+winBlock .bat 1MB

@@ -1,0 +1,4 @@
+BMW gas 1 320
+Golf gas 2 150
+Lada gas 1 202
+Mercedes gas 2 312

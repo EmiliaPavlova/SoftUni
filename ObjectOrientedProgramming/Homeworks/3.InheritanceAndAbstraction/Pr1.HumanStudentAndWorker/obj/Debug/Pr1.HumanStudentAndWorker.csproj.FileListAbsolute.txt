@@ -1,0 +1,6 @@
+D:\SoftUni\OOP\4. Inheritance and Abstraction\HW4\Pr1.HumanStudentAndWorker\bin\Debug\Pr1.HumanStudentAndWorker.exe.config
+D:\SoftUni\OOP\4. Inheritance and Abstraction\HW4\Pr1.HumanStudentAndWorker\obj\Debug\Pr1.HumanStudentAndWorker.csprojResolveAssemblyReference.cache
+D:\SoftUni\OOP\4. Inheritance and Abstraction\HW4\Pr1.HumanStudentAndWorker\bin\Debug\Pr1.HumanStudentAndWorker.exe
+D:\SoftUni\OOP\4. Inheritance and Abstraction\HW4\Pr1.HumanStudentAndWorker\bin\Debug\Pr1.HumanStudentAndWorker.pdb
+D:\SoftUni\OOP\4. Inheritance and Abstraction\HW4\Pr1.HumanStudentAndWorker\obj\Debug\Pr1.HumanStudentAndWorker.exe
+D:\SoftUni\OOP\4. Inheritance and Abstraction\HW4\Pr1.HumanStudentAndWorker\obj\Debug\Pr1.HumanStudentAndWorker.pdb

@@ -1,0 +1,99 @@
+#wrapper {
+	margin: 0 auto;
+	width: 960px;
+}
+
+div#rectangle {
+	width: 800px;
+	height: 350px;
+	margin-top: 10px;
+	position: fixed;
+	text-align: center;;
+	font-family: Verdana, Arial, sans-serif;
+	color: #000;
+	border-top: 0.5em dotted yellow;
+	border-right: 0.7em solid green;
+	border-bottom: 0.7em double blue;
+	border-left: 0.5em dashed red;
+	box-shadow: 1em 1em 0.2em #8F8F8F;
+	z-index: -1;
+}
+
+	div h1 {
+		padding: 15px;
+		padding-bottom: 30px;
+		text-transform: uppercase;
+		font-size: 3em;
+		text-shadow: 0.3em 0.3em 0.2em #AFAFAF;
+	}
+
+	div div#elipse {
+		width: 650px;
+		height: 130px;
+		margin: 20px auto;
+		box-shadow: 
+			0 0 0 5px red,
+			0 0 0 10px yellow,
+			0 0 0 15px green,
+			0 0 0 20px blue;
+		border-radius: 100px;
+
+	}
+
+		div div#elipse p {
+			font-size: 1.5em;
+			padding-top: 30px;
+			text-shadow: 0.5em 0.5em 0.2em #AFAFAF;
+		}
+
+			.not-buttons {
+				width: 220px;
+				display: inline-block;
+				background-color: orange;
+				border: 3px outset;
+				border-color: orange;
+			}
+
+		#first-circle {
+			position: absolute;
+			top: 230px;
+			left: 605px;
+			z-index: 1;
+			width: 15px;
+			height: 15px;
+			background: gray;
+			opacity: 0.8;
+			border: 2px dashed white;
+			border-radius: 50%;
+			box-shadow: 0 0 0 4px gray;
+		}
+
+		#second-circle {
+			position: absolute;
+			top: 150px;
+			left: 670px;
+			width: 30px;
+			height: 30px;
+			background: gray;
+			opacity: 0.8;
+			border: 2px dashed white;
+			border-radius: 50%;
+			box-shadow: 0 0 0 4px gray;
+		}
+
+		#cool-circle {
+			position: absolute;
+			top: 70px;
+			left: 740px;
+			width: 70px;
+			padding: 10px;
+			text-align: center;
+			font-family: Verdana, Arial, sans-serif;
+			font-weight: bold;
+			color: white;
+			background: gray;
+			opacity: 0.8;
+			border: 2px dashed white;
+			border-radius: 50px;
+			box-shadow: 0 0 0 4px gray;
+		}

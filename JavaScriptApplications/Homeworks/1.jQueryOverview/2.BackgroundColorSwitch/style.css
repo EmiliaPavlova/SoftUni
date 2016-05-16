@@ -1,0 +1,12 @@
+input {
+    display: inline-block;
+}
+
+input[type=text] {
+    width: 50px;
+    margin-bottom: 20px;
+}
+
+button {
+    margin-top: 20px;
+}

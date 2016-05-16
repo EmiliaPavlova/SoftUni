@@ -1,0 +1,17 @@
+purple|age|99
+red|age|44
+blue|win|pesho
+blue|win|mariya
+purple|loss|Kiko
+purple|loss|Kiko
+purple|loss|Kiko
+purple|loss|Yana
+purple|loss|Yana
+purple|loss|Manov
+purple|loss|Manov
+red|name|gosho
+blue|win|Vladko
+purple|loss|Yana
+purple|name|VladoKaramfilov
+blue|age|21
+blue|loss|Pesho

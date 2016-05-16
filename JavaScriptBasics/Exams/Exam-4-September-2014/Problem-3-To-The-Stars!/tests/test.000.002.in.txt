@@ -1,0 +1,5 @@
+Terra-Nova 16 2
+Perseus 2.6 4.8
+Virgo 1.6 7
+2 5
+4

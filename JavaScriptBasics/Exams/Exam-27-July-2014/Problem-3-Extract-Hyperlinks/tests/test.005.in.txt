@@ -1,0 +1,30 @@
+<link type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yp/r/j4z2phr21KX.css" />
+<link type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yb/r/EwszTllbSDz.css" />
+<ul class="dropdown-menu">
+		<li><a href="/Contests/#!/List/ByCategory/1/CSharp-Basics">C# Basics</a></li>
+		<li><a href="/Contests/#!/List/ByCategory/3/JavaScript-Basics">JavaScript Basics</a></li>
+		<li><a href="/Contests/#!/List/ByCategory/2/Java-Basics">Java Basics</a></li>
+	<li class="divider"></li>
+	<li><a href="/Contests">All</a></li>
+	<li>
+		<a class="text-primary" href="/Users/Profile" title="Settings">Hello, nakov!</a>
+	</li>
+	<li><a href="javascript:document.getElementById('logoutForm').submit()">Log out</a></li>
+	<li><a href='javascript:document.getElementById("logoutForm").submit()'>Log out</a></li>
+</ul>
+<div class="col-sm-1 hidden-lg hidden-md hidden-xs btn btn-search-small navbar-left">
+	<a href="/Search/" class="btn btn-default btn-search"><i class="glyphicon glyphicon-search"></i></a>
+</div>
+
+<a class="_2dpe _1ayn" href="https://www.facebook.com/svetlin.nakov" title="Timeline" data-gt="&#123;&quot;chrome_nav_item&quot;:&quot;timeline_chrome&quot;&#125;" accesskey="2"><img class="_s0 _2dpc _rw img" src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/v/t1.0-1/c0.5.50.50/p50x50/1962744_10152239643839650_1560438347_n.jpg?oh=1ef4f1d4a701c5b57bfb5114c5421859&amp;oe=54450AC6&amp;__gda__=1414706884_da889157466f2443fc51596694ba53d2" alt="image" id="profile_pic_header_646094649" /><span class="_2dpb">Svetlin</span></a>
+
+<div><a class="mrm _1sdi _1sdd _1sde" 
+
+  href  =  "#inbox" role="button">Inbox<span class="_1sdj _1sdg"></span></a><a
+
+  class="_1sdi _1v8t _1sdf" href="#other" 
+  
+  role="button">Other<span class="_1sdj _1sdh">
+  
+  </span></a>
+  </div>

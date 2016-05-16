@@ -1,0 +1,107 @@
+@media only screen and (max-width: 960px) {
+
+
+	#container {
+		width: 100%;
+	}
+
+	header nav {
+		float: none;
+	}
+
+	#content {
+		margin: 0;
+		width: 65%;
+	}
+
+	#sidebar {
+		padding: 4px 0 0 6px;
+		width: 30%;
+	}
+
+	#sidebar #social {
+		float: none;
+	}
+
+	#sidebar #search #searchbar {
+		width: 65%;
+	}
+
+	footer {
+		width: 95%;
+	}
+}
+
+@media only screen and (max-width: 760px) {
+	
+	header {
+	    margin: 0 0 70px;
+	}
+
+	header h1 {
+	    float: none;
+	}
+
+	header nav {
+		padding-top: 5%;
+	    text-align: left;
+	}
+
+	header nav li {
+		margin: 0;
+		width: 25%;
+	}
+
+	div#container aside#sidebar,
+	#sidebar #about {
+	    width: 90%;
+	}
+
+	#sidebar #categories,
+	#sidebar #social {
+	    display: inline-block;
+	    width: 25%;
+	}
+
+	#sidebar section#latest {
+	    display: inline-block;
+	    vertical-align: top;
+	    width: 40%;
+	}
+
+	#sidebar #search #searchbar {
+	    width: 80%;
+	}
+
+}
+
+@media only screen and (max-width: 540px) {
+	
+	header nav li {
+	    margin: 0 15% 0 0;
+	    width: auto;
+	}
+
+	#content .postinfo li {
+		float: none;
+		display: inline-block;
+		font-size: 11px;
+		width: auto;
+	}
+
+	#sidebar #categories,
+	#sidebar #social {
+	    display: inline-block;
+	    width: 40%;
+	}
+
+	#sidebar section#latest {
+	    display: inline-block;
+	    vertical-align: top;
+	    width: 90%;
+	}
+
+	footer {
+		width: 80%;
+	}
+}

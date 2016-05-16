@@ -1,0 +1,9 @@
+BMW petrol 1 15
+Golf petrol 2 12
+Lada gas 2 15
+Mercedes diesel 2 12
+VW petrol 1 15
+Nice petrol 2 12
+maserati gas 1 16
+audi diesel 2 12
+

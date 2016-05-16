@@ -1,0 +1,8 @@
+coin -1
+coin 2
+coin -5
+coin 10.50
+coin 2002
+coin 50
+coin -100
+cigars 1

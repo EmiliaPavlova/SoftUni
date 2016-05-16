@@ -1,0 +1,46 @@
+#wrapper {
+	margin: 20px 0px;
+	width: 960px;
+	border-radius: 20px;
+	background-color: #000;
+	padding: 20px;
+} 
+body {
+	margin: 0 auto;
+	width: 960px;
+	font-family: arial, sans-serif;
+}
+header {
+	color: #FFF000;
+	font-size: 3em;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+iframe {
+	position: relative;
+	margin: 20px;
+	border: 1px solid #FFF000;
+	width: 400px;
+	height: 250px;
+}
+ul {
+	float: right;
+	padding-right: 60px;
+	padding-top: 40px;
+}
+	li {
+		text-decoration: none;
+		font-style: italic;
+		line-height: 35px;
+		font-color: #FFF;
+	}
+		a, a:visited {
+   	 		text-decoration: none;
+   	 		color: #FFF;
+   	 		font-size: 35px;
+		}
+		a:hover {
+			color: #FFF000;
+		}

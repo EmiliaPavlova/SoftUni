@@ -1,0 +1,23 @@
+create Maria 130 20 Inflated PutridFart
+create Cenko 50 15 Aggressive Blobplode
+pass
+status
+attack Cenko Maria
+attack Maria Cenko
+attack Cenko Maria
+status
+status
+attack Maria Cenko
+status
+status
+status
+status
+status
+status
+status
+status
+status
+status
+status
+status
+drop

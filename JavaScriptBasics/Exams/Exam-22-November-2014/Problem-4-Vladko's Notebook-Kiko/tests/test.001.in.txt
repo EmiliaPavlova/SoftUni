@@ -1,0 +1,5 @@
+red|name|kiko
+red|win|dsad
+blue|age|12
+green|age|13
+green|win|gosho

@@ -1,0 +1,14 @@
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Models\bin\Debug\Restaurants.Models.dll.config
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Models\bin\Debug\Restaurants.Models.dll
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Models\bin\Debug\Restaurants.Models.pdb
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Models\bin\Debug\EntityFramework.dll
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Models\bin\Debug\EntityFramework.xml
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Models\obj\Debug\Restaurants.Models.csprojResolveAssemblyReference.cache
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Models\obj\Debug\Restaurants.Models.dll
+C:\Users\Emily\Documents\SoftUni\Web Services and Cloud\Exams\WSC September 2015 - Restaurants\Skeleton\Restaurants.Models\obj\Debug\Restaurants.Models.pdb

@@ -1,0 +1,1 @@
+{"purple":{"age":"99","name":"VladoKaramfilov","opponents":["Kiko","Kiko","Kiko","Manov","Manov","Yana","Yana","Yana"],"rank":"0.11"},"red":{"age":"44","name":"gosho","opponents":[],"rank":"1.00"}}

@@ -1,0 +1,3 @@
+          mine mina1    -         silver       :     4
+mine mina2 - gold 	:			5
+mina mina3 gold : 5

@@ -1,0 +1,1 @@
+﻿$giftOf&lt;br&gt; = $[wasChildGood]? '&lt;p&gt;New tablet&lt;/p&gt;' : 'What has a foot but no legs?';

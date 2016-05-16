@@ -1,0 +1,86 @@
+#wrapper {
+	margin: 0 auto;
+	width: 960px;
+	background-color: #EEEEEE;
+	font-family: Verdana, Arial, sans-serif;
+	padding: 20px;
+}
+
+h1 {
+	font-size: 2em;
+	font-weight: bold;
+	color: #234465;
+	margin-bottom: 20px;
+}
+
+section {
+	margin: 40px 20px 20px 20px;
+	width: 430px;
+	height: 330px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+	section h2 {
+		text-transform: uppercase;
+		color: #5A5A5A;
+		font-weight: bold;
+	}
+
+	section h2 span {
+		color: #234465;
+	}
+
+	section input {
+		margin: 10px 10px 10px 0;
+		padding: 10px 0px 10px 10px;
+		width: 400px;
+		font-size: 1.2em;
+	}
+
+		section#white label input {
+			width: 50%;
+			margin-left: 200px;
+			color: #234465;
+			border: 2px solid #234465;
+		}
+
+section#blue {
+	margin: 0px;
+	margin: 20px 0px 0px 0px;
+	padding: 20px;
+	height: 316px;
+	background-color: #234465;
+}		
+
+	section#blue h2 {
+		color: #FFF;
+	}
+
+	section#blue p {
+		color: #FFF;
+		vertical-align: top;
+		margin-top: 15px;
+		float: left;
+		display: inline-block;
+	}
+
+		section#blue p input {
+			width: 20px;
+			height: 20px;
+			margin-top: 0px;
+		}
+
+	section#blue label input {
+		width: 150px;
+		margin-left: 120px;
+		background-color: #234465;
+		color: #FFF;
+		border: 2px solid #FF9C00;
+		display: inline-block;
+	}
+
+	section#blue a {
+		color: #FFF;
+		margin-left: 280px;
+	}

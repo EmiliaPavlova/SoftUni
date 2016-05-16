@@ -1,0 +1,8 @@
+Blob Chocho: 57 HP, 35 Damage
+Blob Maria: 45 HP, 20 Damage
+Blob Chocho: 57 HP, 35 Damage
+Blob Maria: 45 HP, 15 Damage
+Blob Chocho: 57 HP, 35 Damage
+Blob Maria: 10 HP, 10 Damage
+Blob Chocho: 57 HP, 35 Damage
+Blob Maria KILLED

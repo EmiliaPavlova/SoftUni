@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="styles/reset.css"/>
+	<link rel="stylesheet" href="styles/style.css"/>
+	<link href='https://fonts.googleapis.com/css?family=Merienda:400,700' rel='stylesheet' type='text/css'>
+	<title>Lovely Mondays Blog</title>
+
+	<script src="scripts/libs/jquery.js"></script>
+	<script src="scripts/libs/q.js"></script>
+	<script src="scripts/libs/sammy-0.7.6.min.js"></script>
+	<script src="scripts/libs/mustache.js"></script>
+</head>
+<body>
+<div id="wrapper">
+	<header>
+        <span>
+            <img src="images/nav-poppies.jpg"/>
+            <h1>Lovely Mondays</h1>
+        </span>
+	</header>
+
+	<main>
+		<div id="user-field"></div>
+
+		<section>
+			<nav>
+				<div id="add-post-button"></div>
+
+				<div id="search-field">
+					<input type="search" placeholder="Search..."/><!--
+					--><input type="button" id="search" value=" "/>
+				</div>
+
+				<div id="all-posts">
+				</div>
+
+				<div id="tags">
+				</div>
+			</nav>
+
+			<div id="main-container" style="display: inline-block; width: 75%;">
+			</div>
+
+		</section>
+	</main>
+
+	<footer>
+		<div>
+			<img src="images/author.jpg"/>
+			<h2>About the author</h2>
+			<p><span>Admin Admin</span> is crazy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
+				convallis nisl vitae laoreet consectetur. Curabitur fermentum ipsum at dictum auctor. Nam ornare semper
+				velit. Proin cursus, est eu congue bibendum, augue risus laoreet est, egestas malesuada erat lectus quis
+				magna. Quisque bibendum justo vitae arcu mattis ultricies. Nunc imperdiet justo quis rutrum volutpat.
+				Aliquam erat volutpat.</p>
+		</div>
+	</footer>
+</div>
+<script src="scripts/helpers/helpers.js"></script>
+<script src="scripts/helpers/ajax-requester.js"></script>
+<script src="scripts/helpers/authorizer.js"></script>
+
+<script src="scripts/models/userModel.js"></script>
+<script src="scripts/models/postModel.js"></script>
+
+<script src="scripts/views/userViews.js"></script>
+<script src="scripts/views/postViews.js"></script>
+
+<script src="scripts/controllers/userController.js"></script>
+<script src="scripts/controllers/postController.js"></script>
+
+<script src="scripts/app.js"></script>
+</body>
+</html>

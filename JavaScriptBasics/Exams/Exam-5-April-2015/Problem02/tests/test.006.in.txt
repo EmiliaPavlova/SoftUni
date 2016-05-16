@@ -1,0 +1,12 @@
+10
+100
+pesho, 0
+gosho, 0
+ivan, 0
+dragan, 0
+Minka, 0
+PENKA, 0
+VILIO, 0
+BulHar, 0
+TranVGashTIte, 0
+ulichnica, 0

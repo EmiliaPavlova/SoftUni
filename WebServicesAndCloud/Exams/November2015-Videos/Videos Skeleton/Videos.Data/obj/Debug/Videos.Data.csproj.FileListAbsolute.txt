@@ -1,0 +1,16 @@
+D:\SoftUni\Web Services and Cloud\Exams\WSC November 2015 - Videos\Videos Skeleton\Videos.Data\bin\Debug\Videos.Data.dll.config
+D:\SoftUni\Web Services and Cloud\Exams\WSC November 2015 - Videos\Videos Skeleton\Videos.Data\bin\Debug\Videos.Data.dll
+D:\SoftUni\Web Services and Cloud\Exams\WSC November 2015 - Videos\Videos Skeleton\Videos.Data\bin\Debug\Videos.Data.pdb
+D:\SoftUni\Web Services and Cloud\Exams\WSC November 2015 - Videos\Videos Skeleton\Videos.Data\bin\Debug\EntityFramework.dll
+D:\SoftUni\Web Services and Cloud\Exams\WSC November 2015 - Videos\Videos Skeleton\Videos.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\Web Services and Cloud\Exams\WSC November 2015 - Videos\Videos Skeleton\Videos.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\SoftUni\Web Services and Cloud\Exams\WSC November 2015 - Videos\Videos Skeleton\Videos.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SoftUni\Web Services and Cloud\Exams\WSC November 2015 - Videos\Videos Skeleton\Videos.Data\bin\Debug\Videos.Models.dll
+D:\SoftUni\Web Services and Cloud\Exams\WSC November 2015 - Videos\Videos Skeleton\Videos.Data\bin\Debug\Videos.Models.pdb
+D:\SoftUni\Web Services and Cloud\Exams\WSC November 2015 - Videos\Videos Skeleton\Videos.Data\bin\Debug\EntityFramework.xml
+D:\SoftUni\Web Services and Cloud\Exams\WSC November 2015 - Videos\Videos Skeleton\Videos.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\Web Services and Cloud\Exams\WSC November 2015 - Videos\Videos Skeleton\Videos.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\SoftUni\Web Services and Cloud\Exams\WSC November 2015 - Videos\Videos Skeleton\Videos.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SoftUni\Web Services and Cloud\Exams\WSC November 2015 - Videos\Videos Skeleton\Videos.Data\obj\Debug\Videos.Data.csprojResolveAssemblyReference.cache
+D:\SoftUni\Web Services and Cloud\Exams\WSC November 2015 - Videos\Videos Skeleton\Videos.Data\obj\Debug\Videos.Data.dll
+D:\SoftUni\Web Services and Cloud\Exams\WSC November 2015 - Videos\Videos Skeleton\Videos.Data\obj\Debug\Videos.Data.pdb

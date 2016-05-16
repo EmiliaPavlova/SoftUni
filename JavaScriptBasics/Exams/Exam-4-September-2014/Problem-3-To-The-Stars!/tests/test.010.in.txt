@@ -1,0 +1,5 @@
+starScorpius 2.3 10
+starAltair 23.0 4 
+starAquarius 17.6 3.3
+1.8 10.9
+14

@@ -1,0 +1,76 @@
+#wrapper {
+	margin: 0 auto;
+	width: 420px;
+	height: 703px;
+	font-family: Arial, sans-serif;
+}
+
+#bg {
+	width: 420px;
+	height: 703px;
+	background-image: url(resources/formBackground.jpg);
+	padding: 5px 20px;
+}
+
+h1 {
+	padding-top: 10px;
+	font-weight: bold;
+	color: white;
+	font-size: 16px;
+}
+
+section {
+	margin: 2px;
+	padding: 5px 0 5px 15px;
+	border: 1px solid white;
+	border-radius: 4px;
+	background-color: rgba(255, 255, 255, 0.5);
+}
+
+	section label {
+		margin-top: 5px;
+		display: inline-block;
+		float: left;
+		width: 120px;
+	}
+
+	section input {
+		width: 200px;
+	}
+
+	section #message {
+		width: 200px;
+		height: 80px;
+	}
+
+	section div .radio {
+		display: inline-block;
+		float: none;
+		padding: 10px;
+		margin: 10px;
+	}	
+
+		/*Card type align*/
+		section:nth-child(10) > label:nth-child(1) {
+			float: none;
+		}
+
+		.radio>input {
+			width: 15px;
+			margin: 15px 0 15px 15px;
+		}	
+
+	img {
+		margin: 5px;
+		vertical-align: text-bottom;
+	}
+
+	label input[type="submit"] {
+		margin: 15px 160px;
+		padding: 5px;
+		width: 100px;
+		background-color: #071947;
+		color: white;
+		border: none;
+		border-radius: 20px;
+	}

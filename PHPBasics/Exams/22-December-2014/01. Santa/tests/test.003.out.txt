@@ -1,0 +1,1 @@
+﻿$giftOfKaloyan-Martinov = $[wasChildGood]? 'bike' : 'How can a pants pocket be empty and still have something in it?';

@@ -1,0 +1,14 @@
+Sky Blue|name|yasen
+Sky Blue|age|21
+Sky Blue|win|yasen
+Sky Blue|loss|pesho Dobrev
+Sky Blue|loss|ivan Ivanov
+Sky Blue|win|ivan Ivanov
+Sky Blue|win|ivan Ivanov
+Sky Blue|win|ivan Ivanov
+Dark Blue|age|2
+Dark Blue|name|ceco
+Dark Blue|win|ico
+Dark Blue|loss|mitko
+Dark Blue|loss|gosho
+

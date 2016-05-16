@@ -1,0 +1,32 @@
+section {
+    margin: 0 auto;
+    padding: 0.5%;
+    width: 600px;
+    height: 600px;
+    display: flex;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+    background-color: blanchedalmond;
+    box-shadow: 0 0 10px crimson;
+}
+
+    div {
+        margin: 0.5%;
+        width: 32%;
+        height: 32%;
+        background-color: white;
+        border-color: lightpink;
+        box-shadow: 0 0 2px crimson;
+        font-family: cursive;
+        font-size: 7em;
+        color: crimson;
+        text-align: center;
+        line-height: 1.7;
+    }
+
+    div:hover {
+        background-color: blanchedalmond;
+        cursor: pointer;
+    }

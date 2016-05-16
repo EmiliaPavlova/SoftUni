@@ -1,0 +1,1 @@
+{".7zip":{"files":["oldPC"],"memory":"1100.00"},".pptx":{"files":["presentation","presentation-copy"],"memory":"9.80"},".rar":{"files":["archive"],"memory":"2342.20"},".tar.gz":{"files":["archive","archive-copy","myStuff"],"memory":"161.40"}}

@@ -1,0 +1,17 @@
+{
+  "name": "query-strings",
+  "version": "0.0.0",
+  "description": "",
+  "main": "automated-testing.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node test-for-equals.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.0.3"
+  }
+}

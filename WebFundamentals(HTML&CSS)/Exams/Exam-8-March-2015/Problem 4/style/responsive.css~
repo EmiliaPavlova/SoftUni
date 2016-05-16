@@ -1,0 +1,131 @@
+@media only screen and (max-width: 1200px) {
+
+	#wrapper {
+	/*	background-image: url("../images/LogoBackground.png");*/
+	/*	background-repeat: no-repeat;
+		width: 100%;
+		height: 367px;*/
+	}
+
+	body #wrapper header {
+		width: 100%;
+		height: auto;
+	}
+
+	#wrapper header ul #arkham-knight-logo,
+	#wrapper header ul li img {
+    	display: none;
+    }
+
+    body #wrapper header ul {
+    	height: auto;
+    }
+
+	body #wrapper header ul #right-padded {
+    	margin: 0 auto;
+		float: none;
+	}
+
+	body #wrapper header ul li {
+		font-size: 2em;
+		margin: 50px 0.5%;
+		width: 20%;
+	}
+
+	body #wrapper main,
+	body #wrapper main .section-main-info {
+		width: 100%;
+	}
+
+	body #wrapper main .section-main-info {
+		background: url("../images/LogoBackground.png") center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+	body #wrapper main .union section {
+	    width: 45%;
+	}
+
+	body #wrapper main .section-main-info section img {
+	    width: 90%;
+	    float: left;
+	}
+
+
+	body #wrapper main .section-main-info section h2 {
+		font-size: 1.5em;
+	}
+
+	body #wrapper main .section-main-info section article {
+		font-size: 1em;
+	}
+
+	body #wrapper main .section-secondary-info {
+		width: 100%
+	}
+
+	body #wrapper main .section-secondary-info section {
+	    display: inline-block;
+	    vertical-align: top;
+	    width: 46%;
+	}
+
+	body #wrapper main .section-secondary-info header {
+		margin-top: 50px;
+	}
+
+	body #wrapper main nav {
+		padding: 0;
+	}
+
+}
+
+
+@media only screen and (max-width: 560px) {
+	
+	#wrapper {
+		background-image: none;
+	}
+
+	a {
+		display: block;
+		text-align: center;
+		border-bottom: 1px solid white;
+	}
+
+	body #wrapper header ul li {
+		margin: 0;
+	}
+
+	body #wrapper main .union section {
+		width: 100%;
+	}
+
+	body #wrapper main .section-main-info section img {
+		width: 100%;
+	}
+
+	#wrapper > main > section > div:nth-child(2) > section:nth-child(2) > h2 > a {
+		display: inline;
+		padding-left: 10px;
+	}
+
+	body #wrapper main .section-secondary-info section {
+		width: 100%;
+	}
+
+	body #wrapper main nav ul li {
+		display: block;
+		text-align: center;
+	}
+
+	body #wrapper main nav ul li {
+		margin: 0;
+	}
+
+	body div#wrapper footer img {
+		width: 20%;
+	}
+
+}

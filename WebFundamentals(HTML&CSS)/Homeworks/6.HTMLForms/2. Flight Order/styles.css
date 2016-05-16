@@ -1,0 +1,90 @@
+#wrapper {
+	margin: 0 auto;
+	padding: 10px;
+	width: 600px;
+	background-color: pink;
+}
+
+h1 {
+	margin: 20px;
+	text-transform: uppercase;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 3em;
+	font-family: Verdana;
+	text-align: center;
+}
+
+section {
+	margin: 10px;
+	width: 270px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+/*padding before Departure Date*/
+section:nth-child(2) > fieldset:nth-child(2) > label {
+	padding-top: 40px;
+}
+
+	label,p {
+		margin: 10px 0;
+		font-style: italic;
+		font-family: Arial;
+		display: block;
+	}
+
+	.Courier > input[type="text"] {
+		padding: 5px;
+		width: 270px;
+		border: 1px solid gray;
+		border-radius: 0px;
+	}
+
+	fieldset div {
+		display: inline-block;
+	}
+
+		input[type="number"] {
+			padding: 5px;
+			width: 78px;
+			border: 1px solid gray;
+			border-radius: 0px;
+		}
+
+		input:hover {
+			border-color: blue;
+		}
+
+	.Courier > input {
+		font-family: Courier;
+	}
+
+	.Courier > div > input {
+		font-family: Courier;
+	}
+
+	fieldset.Courier > div input {
+		padding: 5px;
+		width: 120px;
+		border: 1px solid gray;
+		border-radius: 0px;
+	}
+
+	select {
+		padding: 5px;
+		width: 280px;
+		background-color: #FFF;
+		border: 1px solid gray;
+		border-radius: 0px;
+	}
+
+		select:hover {
+			border-color: blue;
+		}
+
+	label > input[type="submit"] {
+		margin-left: 304px;
+		padding: 10px;
+		width: 280px;
+	}

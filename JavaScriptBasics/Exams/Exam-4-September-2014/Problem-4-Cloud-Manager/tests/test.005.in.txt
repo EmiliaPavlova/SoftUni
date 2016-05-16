@@ -1,0 +1,11 @@
+GNU_HURD .asm 242.40MB
+f.lux .exe 3.2MB
+debugger .exe 54.22MB
+flag .asm 231.09MB
+profile .aspx 2MB
+gentoo .asm 178.00MB
+cloudManager .java 2MB
+clock .cpp 1.1MB
+GNU_chess .asm 4MB
+powerMng .java 17MB
+index .aspx 13MB

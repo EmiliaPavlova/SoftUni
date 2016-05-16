@@ -1,0 +1,3 @@
+*Silver: 0
+*Gold: 0
+*Diamonds: 0

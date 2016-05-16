@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Problem - Flight Order</title>
+	<link rel="stylesheet" type="text/css" href="../CSS-Reset.css">
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+	<div id="wrapper">
+		<h1>Flight order</h1>
+		<section>
+			<fieldset>
+				<label>From</label>
+				<select name="city">
+					<option value="enter" selected>enter a city</option>
+					<option value="Sofia">Sofia</option>
+					<option value="London">London</option>
+					<option value="Madrid">Madrid</option>
+					<option value="Paris">Paris</option>
+					<option value="Rome">Rome</option>
+				</select>
+			</fieldset>
+
+			<fieldset class="Courier">
+			<label id="depart">Departure Date</label>
+			<input name="departure" type="text" value="09.06.2014" />
+		</fieldset>
+
+		<fieldset class="Courier">
+			<label>Return Date</label>
+			<input name="return" type="text" value="13.06.2014" />
+		<fieldset>
+
+		<fieldset>
+			<div>
+				<label>12+</label>
+				<input type="number" min="0" max="10" value="0" />
+			</div>
+			<div>
+				<label>2-12</label>
+				<input type="number" min="0" max="10" value="0" />
+			</div>
+			<div>
+				<label>0-2</label>
+				<input type="number" min="0" max="100" value="0" />
+			</div>
+		<fieldset>	
+		</section>
+
+		<section>
+			<fieldset>	
+				<label>To</label>
+				<select> name="cities">
+					<option value="enter" selected>enter a city</option>
+					<option value="Sofia">Sofia</option>
+					<option value="London">London</option>
+					<option value="Madrid">Madrid</option>
+					<option value="Paris">Paris</option>
+					<option value="Rome">Rome</option>
+				</select>
+			</fieldset>
+
+			<p><input type="checkbox" name="directs" value="yes">Prefer directs</p>	
+		
+			<fieldset class="Courier">
+				<div>
+					<label>Time Interval</label>
+					<input name="departure-time-start" type="text" value="00:20" />
+					<input name="departure-time-end" type="text" value="05:00" />
+				</div>
+			</fieldset>
+
+			<fieldset class="Courier">
+				<div>
+					<label>Time Interval</label>
+					<input name="return-time-start" type="text" value="16:00" />
+					<input name="return-time-end" type="text" value="22:00" />
+				</div>
+			</fieldset>
+
+			<fieldset>
+				<label>Choose class</label>
+				<select name="class">
+				  	<option value="first-class">First class</option>
+				  	<option value="economy" selected="selected">Economy</option>
+				</select>
+			</fieldset>
+		</section>
+
+		<label><input type="submit" value="Search" /></label>
+	</div>
+</body>
+</html>

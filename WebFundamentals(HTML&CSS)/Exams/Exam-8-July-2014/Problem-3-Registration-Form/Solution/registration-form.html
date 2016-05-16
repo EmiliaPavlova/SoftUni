@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Registration Form</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+    <div id="container">
+        <div id="top">
+            <h1>Please fill the form below:</h1>
+        </div>
+        <div id="leftSide">
+            <fieldset>
+                <legend>Login Details</legend>
+                <form action="login.php" method="POST" class="form">
+                    <label for="username">Username</label>
+                    <div class="div_texbox">
+                        <input name="username" type="text" class="username" id="username" placeholder="username" />
+                    </div>
+                    <label for="password">Password</label>
+                    <div class="div_texbox">
+                        <input name="password" type="password" class="password" id="password" placeholder="password" />
+                    </div>
+                    <div class="button_div">
+                        <input name="Submit" type="button" value="Submit" class="buttons" />
+                    </div>
+                </form>
+                <div class="clear"></div>
+            </fieldset>
+            <hr class="separator">
+            <fieldset>
+                <legend>Personal Details</legend>
+                <form action="pay.php" method="POST" class="form">
+                    <label for="name">Name</label>
+                    <div class="div_texbox">
+                        <input name="name" type="text" class="textbox" id="name" placeholder="e.g. John Doe" />
+                    </div>
+                    <label for="address">Address</label>
+                    <div class="div_texbox">
+                        <input name="address" type="text" class="textbox" id="address" placeholder="e.g. 173 Wilson Rd." />
+                    </div>
+                    <label for="city">City</label>
+                    <div class="div_texbox">
+                        <input name="city" type="text" class="textbox" id="city" placeholder="e.g. London" />
+                    </div>
+                    <label for="country">Country</label>
+                    <div class="div_texbox">
+                        <input name="country" type="text" class="textbox" id="country" placeholder="e.g. United Kingdom" />
+                    </div>
+                    <div class="button_div">
+                        <input name="Submit" type="button" value="Submit" class="buttons" />
+                    </div>
+                </form>
+                <div class="clear"></div>
+            </fieldset>
+        </div>
+        <div id="rightSide">
+			<h1>How to Fill the Form?</h1>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            </p>
+			<p>
+                 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </p>
+			<p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+			</p>
+        </div>
+        <div class="clear"></div>
+    </div>
+</body>
+
+</html>

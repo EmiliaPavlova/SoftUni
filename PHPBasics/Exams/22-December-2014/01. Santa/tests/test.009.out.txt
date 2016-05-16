@@ -1,0 +1,1 @@
+﻿$giftOfGeorgi_Ivanov$IcoHazarta = $[wasChildGood]? 'Mannny smiles' : 'How can a pants pocket be empty and still have something in it?';

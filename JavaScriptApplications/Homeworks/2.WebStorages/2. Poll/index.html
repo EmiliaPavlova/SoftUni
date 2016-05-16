@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Problem 2. Poll</title>
+    <script src="../jquery-2.2.1.min.js"></script>
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+<div id="wrapper">
+    <div id="timer"></div>
+    <form action="#" method="post">
+        <fieldset>
+            <legend>What is the name of the "#" sign?</legend>
+            <label><input type="radio" name="dies" value="Hash" id="hash" />Hash</label>
+            <label><input type="radio" name="dies" value="Octothorpe" id="octothorpe" />Octothorpe</label>
+            <label><input type="radio" name="dies" value="Number sign" id="number" />Number sign</label>
+            <label><input type="radio" name="dies" value="Sharp sign" id="sharp" />Sharp sign</label>
+
+            <legend> What does GOOGLE stand for?</legend>
+            <label><input type="radio" name="google" value="Global Organization of Oriented Group Language of Earth" id="global" />Global Organization of Oriented Group Language of Earth</label>
+            <label><input type="radio" name="google" value="Government Owned Operated Global Lookup Engine" id="government" />Government Owned Operated Global Lookup Engine</label>
+            <label><input type="radio" name="google" value='A misspelt mathematical term for 10 to the power of one hundred - "googol"'/>A misspelt mathematical term for 10 to the power of one hundred - "googol"</label>
+            <label><input type="radio" name="google" value="Go Online Or Go Look Everywhere" id="online" />Go Online Or Go Look Everywhere</label>
+
+            <legend> What was the first computer with a mouse?</legend>
+            <label><input type="radio" name="mouse" value="Lilith" id="lilith" />Lilith</label>
+            <label><input type="radio" name="mouse" value="Xerox 8010" id="xerox" />Xerox 8010</label>
+            <label><input type="radio" name="mouse" value="Apple Lisa" id="apple" />Apple Lisa</label>
+            <label><input type="radio" name="mouse" value="Xerox Alto" id="alto" />Xerox Alto</label>
+        </fieldset>
+        <button type="button">Submit</button>
+    </form>
+
+    <section>
+        <div id="dies-answer"><span class="hide correct-msg"> (Correct)</span><span class="hide incorrect-msg"> (Incorrect)</span></div>
+        <div id="dies-answer-correct"></div>
+
+        <div id="google-answer"><span class="hide correct-msg"> (Correct)</span><span class="hide incorrect-msg"> (Incorrect)</span></div>
+        <div id="google-answer-correct"></div>
+
+        <div id="mouse-answer"><span class="hide correct-msg"> (Correct)</span><span class="hide incorrect-msg"> (Incorrect)</span></div>
+        <div id="mouse-answer-correct"></div>
+
+        <div id="time-elapsed"></div>
+    </section>
+</div>
+<script src="results.js"></script>
+</body>
+</html>

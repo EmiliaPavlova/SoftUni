@@ -1,0 +1,191 @@
+body, header, h1, h2, h4, h5, section, article {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #50247D;
+}
+
+#wrapper {
+	margin: 0 auto;
+	width: 1000px;
+	font-family: Calibri, Arial, sans-serif; 
+	font-size: 12px;
+}
+
+header {
+	background-image: url("images/orion-gas-and-star-bgr.jpg");
+	width: 1000px;
+	height: 250px;
+	border-bottom: 10px solid #34A4D4;
+}
+
+	header > h1 {
+		padding-top: 20px;
+		height: 75px;
+		font-family: 'Oleo Script', cursive;
+		font-size: 68px;
+		font-weight: normal;
+		color: #fff;
+		text-align: center;
+		vertical-align: bottom;
+	}
+
+	header > h4 {
+		padding-top: 0;
+		font-size: 26px;
+		color: #fff;
+		text-align: center;
+	}
+
+	nav {
+		margin: 10px auto;
+		width: 55%;
+	}
+
+	nav > ul {
+		margin-top: 55px;
+		list-style: none;
+	}
+
+		nav > ul > li {
+			padding: 0 5px;
+			display: inline-block;
+		}
+
+			nav > ul > li > a {
+				padding: 15px 20px;
+				text-decoration: none;
+				font-size: 18px;
+				font-weight: bold;
+				color: #50247D;
+				background-color: #FFFFFF;
+			}
+
+			nav > ul > li:hover a {
+				color: #fff;
+				background-color: #34A4D4;
+			}
+
+main {
+	margin: 30px 0;
+	background-color: #EAE7EE;
+	border-top: 10px solid #865AB3;
+	border-bottom: 10px solid #34A4D4;
+}
+
+.text {
+	margin: 40px 0 0 40px;
+	display: inline-block;
+	vertical-align: top;
+	width: 45%
+}
+
+	.text > article {
+		width: 90%;
+		height: 426px;
+		line-height: 15px;
+		vertical-align: top;
+		color: #24162D;
+		background-color: #FFFFFF;
+	}
+
+p.more {
+	margin-top: 0px;
+	padding: 10px;
+	width: 100px;
+	text-align: center;
+	text-transform: uppercase;
+	color: #fff;
+	background-color: #34A4D4;
+	cursor: pointer;
+}
+
+		.text > article > p.more {
+			float: right;
+		}
+
+		.text > article > p.more:after {
+			clear: right;
+		}
+
+		.text > article > h2 {
+			margin-left: 40px;
+			padding-top: 45px;
+			height: 40px;
+			font-family: 'Oleo Script', cursive;
+			font-size: 48px;
+			font-weight: normal;
+		}
+
+		.text > article > h4 {
+			margin-left: 40px;
+			margin-bottom: 30px;
+			font-size: 26px;
+		}
+
+		.text > article > p {
+			margin-left: 40px;
+		}
+
+			.text > article > p > span {
+				font-style: italic;
+				font-weight: bold;
+			}
+
+		.text > article > p.wallpaper {
+			padding: 10px;
+			width: 250px;
+			float: right;
+			text-align: center;
+			color: #fff;
+			background-color: #865AB3;
+		}
+
+		.text > article > p.wallpaper:hover {
+			background-color: #50247D;
+			cursor: pointer;
+		}
+
+	.photos {
+		margin-top: 40px;
+		width: 50%;
+		display: inline-block;
+	}
+
+
+	.photos > article {
+		margin: 0 40px 15px 0;
+		width: 200px;
+		display: inline-block;
+		vertical-align: top;
+		background-color: #fff;
+		position: relative;
+	}
+
+		.photos > article > h5 {
+			margin: 5px 0 0 10px;
+			color: #34A4D4;
+			font-size: 16px;
+		}
+
+		.photos > article > p {
+			margin: 5px 0 10px 10px;
+		}
+
+		.photos > article > p.more {
+			margin: 0px;
+			float: right;
+			position: absolute;
+			top: 0px;
+			right: 0px;
+		}
+
+
+
+
+footer {
+	margin: 30px 0 30px 10px;
+	color: #fff;
+}

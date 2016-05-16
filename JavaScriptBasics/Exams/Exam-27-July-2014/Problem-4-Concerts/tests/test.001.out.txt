@@ -1,0 +1,1 @@
+{"Plovdiv":{"Stadion Lokomotiv":["Metallica"]},"Rousse":{"Stadion Dunav":["BTR"]},"Sofia":{"Stadion Vassil Levski":["Sepultura"]}}

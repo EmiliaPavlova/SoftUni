@@ -1,0 +1,62 @@
+body {
+    width: 100%;
+}
+
+#wrapper {
+    width: 40%;
+    margin: 0 auto;
+}
+
+#wrapper:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/*nav {*/
+    /*display: inline-block;*/
+    /*width: 40%;*/
+/*}*/
+
+li {
+    display: block;
+    padding: 10px 20px;
+}
+
+li:hover {
+    background-color: #cccccc;
+}
+
+.menu-item {
+    font-size: 24px;
+    padding: 10px 20px;
+
+}
+
+label {
+    display: block;
+}
+
+.data {
+    display: block;
+    width: 30%;
+    padding: 20px;
+}
+
+.countries-list li {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.add-country-btn {
+    margin-top: 20px;
+}

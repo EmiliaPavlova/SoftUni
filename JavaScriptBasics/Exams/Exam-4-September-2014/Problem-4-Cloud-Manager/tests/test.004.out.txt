@@ -1,0 +1,1 @@
+{".asm":{"files":["GNU_HURD","flag","gentoo","kernel"],"memory":"703.99"},".cpp":{"files":["compiler"],"memory":"0.30"},".cs":{"files":["problemOne","problemThree","problemTwo"],"memory":"2.00"},".exe":{"files":["debugger","f.lux"],"memory":"57.42"},".iso":{"files":["songs-archive"],"memory":"23450.50"},".java":{"files":["cloudManager"],"memory":"2.00"}}

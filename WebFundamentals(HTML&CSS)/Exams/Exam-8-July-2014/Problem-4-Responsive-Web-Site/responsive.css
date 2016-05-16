@@ -1,0 +1,90 @@
+@media only screen and (max-width: 568px) {
+	.site .container, .footer .foot-body {
+	    width: auto;
+		}
+
+	body {
+		width: 100%;
+	}
+
+	.header {
+		margin: 0;
+		padding: 0;
+	}	
+
+  	.header a.title {
+	    text-align: center;
+	    font-size: 500%;
+	}
+
+	.header .navigation {
+	    /*text-align: center;*/
+	    margin: 0 auto;
+	    width: 70%;
+	}
+
+  	.header .navigation li {
+	    display: inline-block;
+	}
+
+  	.footer .navigation li {
+	    display: block;
+	}
+/*
+	.site .writing ul {
+	    padding-left: 1em;
+	  }*/
+
+	table, thead, tbody, th, tr, td {
+	    display: block; 
+	  }
+
+	thead {
+		display: none;
+	}
+
+	tr {
+	    padding: 1em 0.5em;
+	    border-bottom-style: solid;
+	    border-bottom-color: #eee;
+	    border-bottom-width: 1px;
+	}
+
+	td {
+	    padding-right: 0;
+	  }	  
+
+	td:nth-of-type(1):before{
+	    display: inline-block;
+	    width: 4em;
+	    content: "When: ";
+	    font-weight: bold;
+	}
+
+	td:nth-of-type(2){
+	    padding-left: 4em;
+	}
+
+	td:nth-of-type(3):before{
+	    display: inline-block;
+	    width: 4em;
+	    content: "What: ";
+	    font-weight: bold;
+	}
+
+	td:last-of-type {
+    	padding: 0;
+  	}
+
+  	tr:nth-of-type(odd){
+    	background: #eeeeef;
+  	}
+
+  	tr:nth-of-type(even){
+    	color: #000;
+  	}
+
+  	.footer {
+  		height: auto;
+  	}
+}

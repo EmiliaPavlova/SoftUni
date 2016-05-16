@@ -1,0 +1,5 @@
+starTerraNova 16 3
+stary6 4 6
+starEclipse 1 2.7
+1 2.75
+1

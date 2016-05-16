@@ -1,0 +1,1 @@
+<table border='1' cellpadding='5'><tr><td style='background:#CAF'>A</td><td></td></tr><tr><td style='background:#CAF'>B</td><td></td></tr><tr><td style='background:#CAF'>C</td><td></td></tr><tr><td style='background:#CAF'>D</td><td></td></tr><tr><td style='background:#CAF'>E</td><td></td></tr><tr><td style='background:#CAF'>F</td><td></td></tr></table>

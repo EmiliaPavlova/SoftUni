@@ -1,0 +1,10 @@
+{
+  "name": "ExamProblems",
+  "version": "0.0.0",
+  "description": "ExamProblems",
+  "main": "app.js",
+  "author": {
+    "name": "pc",
+    "email": ""
+  }
+}

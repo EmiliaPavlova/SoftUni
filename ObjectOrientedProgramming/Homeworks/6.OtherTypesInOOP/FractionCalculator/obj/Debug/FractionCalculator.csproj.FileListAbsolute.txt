@@ -1,0 +1,1 @@
+D:\SoftUni\OOP\6. Other Types in OOP\HW6\FractionCalculator\bin\Debug\FractionCalculator.exe.config

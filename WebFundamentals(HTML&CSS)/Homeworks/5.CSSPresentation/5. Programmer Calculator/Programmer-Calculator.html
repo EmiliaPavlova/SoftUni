@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Problem 5 - Programmer Calculator</title>
+	<link rel="stylesheet" type="text/css" href="CSS-Reset.css">
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+	<div id="wrapper">
+		<header>
+			<img src="images/calculator.png" height="20px">
+			<h1>Calculator</h1>
+			<div class="header-buttons">
+				<input type="image" src="images/minimize.png" />
+				<input type="image" src="images/maximize.png" />
+				<input type="image" src="images/close.png" />
+			</div>	
+		</header>
+	<main>
+		<header>
+			<h2>View</h2>
+			<h2>Edit</h2>
+			<h2>Help</h2>
+		</header>
+		<div id="calc-body">
+			<input id="display" type="text" name="display" value="0" />
+		
+			<section class="bits">
+				<div class="bits-horizontal">
+					<p>0000</p>
+					<p>0000</p>
+					<p>0000</p>
+					<p>0000</p>
+					<p>0000</p>
+					<p>0000</p>
+					<p>0000</p>
+					<p>0000</p>
+				</div>
+				<div class="numbers-horizontal">
+					<p>63</p>
+					<p>47</p>
+					<p class="last">32</p>
+				</div>
+				<div class="bits-horizontal">
+					<p>0000</p>
+					<p>0000</p>
+					<p>0000</p>
+					<p>0000</p>
+					<p>0000</p>
+					<p>0000</p>
+					<p>0000</p>
+					<p>0000</p>
+				</div>
+				<div class="numbers-horizontal">
+					<p>31</p>
+					<p>15</p>
+					<p class="last">0</p>
+				</div>
+			</section>	
+			<section class="upper">
+				<div class="radio-buttons">
+					<input type="radio" name="hex" value="1" />Hex 
+					<input type="radio" name="hex" value="2" />Dec 
+					<input type="radio" name="hex" value="3" />Oct 
+					<input type="radio" name="hex" value="4" />Bin 
+				</div>
+				<div class="buttons">
+					<div>
+						<button type="button" disabled>&nbsp;</button>
+						<button type="button">Mod</button>
+						<button type="button" disabled>A</button>
+						<button type="button" disabled>MC</button>
+						<button type="button" disabled>MR</button>
+						<button type="button" disabled>MS</button>
+						<button type="button" disabled>M+</button>
+						<button type="button" disabled>M-</button>
+					</div>
+					<div>
+						<button type="button">(</button>
+						<button type="button">)</button>
+						<button type="button" disabled>B</button>
+						<button type="button">&#8592;</button>
+						<button type="button">CE</button>
+						<button type="button">C</button>
+						<button type="button">&plusmn;</button>
+						<button type="button" disabled>&radic;</button>
+					</div>
+					<div>
+						<button type="button">RoL</button>
+						<button type="button">RoR</button>
+						<button type="button" disabled>C</button>
+						<button type="button">7</button>
+						<button type="button">8</button>
+						<button type="button">9</button>
+						<button type="button">/</button>
+						<button type="button" disabled>%</button>
+					</div>
+				</div>	
+			</section>
+
+			<section class="upper">
+				<div class="radio-buttons">
+					<input type="radio" name="word" value="1" />Qword 
+					<input type="radio" name="word" value="2" />Dword 
+					<input type="radio" name="word" value="3" />Word 
+					<input type="radio" name="word" value="4" />Byte 
+				</div>
+				<div class="buttons">
+					<div>
+						<button type="button">Or</button>
+						<button type="button">Xor</button>
+						<button type="button" disabled>D</button>
+						<button type="button">4</button>
+						<button type="button">5</button>
+						<button type="button">6</button>
+						<button type="button">*</button>
+						<button type="button" disabled>1/x</button>
+					</div>
+					<div>
+						<button type="button">Lsh</button>
+						<button type="button">Rsh</button>
+						<button type="button" disabled>E</button>
+						<button type="button">1</button>
+						<button type="button">2</button>
+						<button type="button">3</button>
+						<button type="button">-</button>
+						
+					</div>
+					<button class="equal" type="button">=</button>
+					<div>
+						<button type="button">Not</button>
+						<button type="button">And</button>
+						<button type="button" disabled>F</button>
+					</div>
+					<button class="zero" type="button" >0</button>
+					<button class="last-dot" type="button" disabled>.</button>
+					<button class="last-plus" type="button">+</button>
+				</div>	
+			</section>
+		</div>	
+	</main>	
+	</div>
+</body>
+</html>

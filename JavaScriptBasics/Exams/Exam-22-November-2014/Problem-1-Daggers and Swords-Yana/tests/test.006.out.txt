@@ -1,0 +1,14 @@
+<table border="1">
+<thead>
+<tr><th colspan="3">Blades</th></tr>
+<tr><th>Length [cm]</th><th>Type</th><th>Application</th></tr>
+</thead>
+<tbody>
+<tr><td>22</td><td>dagger</td><td>quite a blade</td></tr>
+<tr><td>23</td><td>dagger</td><td>pants-scraper</td></tr>
+<tr><td>24</td><td>dagger</td><td>frog-butcher</td></tr>
+<tr><td>202</td><td>sword</td><td>quite a blade</td></tr>
+<tr><td>203</td><td>sword</td><td>pants-scraper</td></tr>
+<tr><td>204</td><td>sword</td><td>frog-butcher</td></tr>
+</tbody>
+</table>

@@ -1,0 +1,153 @@
+0_1 softuni = 115 111 102 116 117 110 105 | {4}
+
+"Ping results:
+Reply from 95.101.195.91: bytes=32 time=115ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=111ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=102ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=116ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=117ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=110ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=105ms TTL=49"
+
+0_2 Software University = 083 111 102 116 119 097 114 101 042 085 110 105 118 101 114 115 105 116 121 | {5}
+
+"Ping results:
+Reply from 95.101.195.91: bytes=32 time=083ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=111ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=102ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=116ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=119ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=097ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=114ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=101ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=042ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=085ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=110ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=105ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=118ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=101ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=114ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=115ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=105ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=116ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=121ms TTL=49"
+
+1. PHPHPAPHP = 080 072 080 072 080 065 080 072 080 | {3}
+
+"Ping results:
+Reply from 95.101.195.91: bytes=32 time=080ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=072ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=080ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=072ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=080ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=065ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=080ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=072ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=080ms TTL=49"
+
+2. ModelViewController = 077 111 100 101 108 086 105 101 119 067 111 110 116 114 111 108 108 101 114 | {5}
+
+"Ping results:
+Reply from 95.101.195.91: bytes=32 time=077ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=111ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=100ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=101ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=108ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=086ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=105ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=101ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=119ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=067ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=111ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=110ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=116ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=114ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=111ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=108ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=108ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=101ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=114ms TTL=49"
+
+3. Micros oftLov esLinu x = 077 105 099 114 111 115 042 111 102 116 076 111 042 118 101 115 076 042 105 110 117 120 | {6}
+
+"Ping results:
+Reply from 95.101.195.91: bytes=32 time=077ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=105ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=099ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=114ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=111ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=115ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=042ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=111ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=102ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=116ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=076ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=111ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=042ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=118ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=101ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=115ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=076ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=042ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=105ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=110ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=117ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=120ms TTL=49"
+
+4.       = 042 042 042 042 042 042 | {2}
+
+"Ping results:
+Reply from 95.101.195.91: bytes=32 time=042ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=042ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=042ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=042ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=042ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=042ms TTL=49"
+
+5.      Life   = 042 042 042 042 042 076 105 102 101 042 042 | {5}
+
+"Ping results:
+Reply from 95.101.195.91: bytes=32 time=042ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=042ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=042ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=042ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=042ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=076ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=105ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=102ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=101ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=042ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=042ms TTL=49"
+
+6. DeLeTed CoDe Is DeBuGGeD CoDe = 068 101 076 101 084 101 100 042 067 111 068 101 042 073 115 042 068 101 066 117 071 071 101 068 042 067 111 068 101 | {2}
+
+"Ping results:
+Reply from 95.101.195.91: bytes=32 time=068ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=101ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=076ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=101ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=084ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=101ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=100ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=042ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=067ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=111ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=068ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=101ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=042ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=073ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=115ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=042ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=068ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=101ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=066ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=117ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=071ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=071ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=101ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=068ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=042ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=067ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=111ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=068ms TTL=49
+Reply from 95.101.195.91: bytes=32 time=101ms TTL=49"

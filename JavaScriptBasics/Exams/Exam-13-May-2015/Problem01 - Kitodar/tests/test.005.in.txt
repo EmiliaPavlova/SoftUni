@@ -1,0 +1,4 @@
+mine mina - gold - 5
+mine mina - silver - 5
+mine mina - diamonds : 5
+mine mina - gold:5

@@ -1,0 +1,11 @@
+Yana Slavcheva*rakiya*false*true*false*3.5*ATV
+Yana Slavcheva*vodka*false*true*false*1.5*backpack
+Yana Slavcheva*wine*false*true*false*2.7*ATV
+Yana Slavcheva*beer*false*true*false*7.2*ATV
+Yana Slavcheva*whiskey*false*true*false*0.5*backpack
+Kiko*socks*false*false*false*0.2*backpack
+Kiko*banana*true*false*false*3.2*backpack
+Kiko*sticks*false*false*false*1.6*ATV
+Kiko*glasses*false*false*true*3*ATV
+Manov*socks*false*false*false*0.3*ATV
+luggage name

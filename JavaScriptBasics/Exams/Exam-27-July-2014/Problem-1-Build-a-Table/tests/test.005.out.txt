@@ -1,0 +1,14 @@
+<table>
+<tr><th>Num</th><th>Square</th><th>Fib</th></tr>
+<tr><td>370</td><td>136900</td><td>no</td></tr>
+<tr><td>371</td><td>137641</td><td>no</td></tr>
+<tr><td>372</td><td>138384</td><td>no</td></tr>
+<tr><td>373</td><td>139129</td><td>no</td></tr>
+<tr><td>374</td><td>139876</td><td>no</td></tr>
+<tr><td>375</td><td>140625</td><td>no</td></tr>
+<tr><td>376</td><td>141376</td><td>no</td></tr>
+<tr><td>377</td><td>142129</td><td>yes</td></tr>
+<tr><td>378</td><td>142884</td><td>no</td></tr>
+<tr><td>379</td><td>143641</td><td>no</td></tr>
+<tr><td>380</td><td>144400</td><td>no</td></tr>
+</table>

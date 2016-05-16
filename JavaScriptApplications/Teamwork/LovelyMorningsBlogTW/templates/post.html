@@ -1,0 +1,18 @@
+<article id="posted">
+	<h2>{{title}}</h2>
+	<span>Posted: {{date}}</span>
+	<p>{{content}}</p>
+</article>
+
+<div id="comments">
+	<h2>Comments</h2>
+
+	{{#comments}}
+	<h5>{{author}}</h5>
+	<span>Posted: {{date}}</span>
+	<div>{{content}}</div>
+	{{/comments}}
+	{{^comments}}
+	<h4>No comments</h4>
+	{{/comments}}
+</div>

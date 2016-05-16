@@ -1,0 +1,6 @@
+<table>
+<tr><th>Num</th><th>Square</th><th>Fib</th></tr>
+<tr><td>28657</td><td>821223649</td><td>yes</td></tr>
+<tr><td>28658</td><td>821280964</td><td>no</td></tr>
+<tr><td>28659</td><td>821338281</td><td>no</td></tr>
+</table>

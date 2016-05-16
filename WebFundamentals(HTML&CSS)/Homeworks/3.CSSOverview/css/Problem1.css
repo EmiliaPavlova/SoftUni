@@ -1,0 +1,112 @@
+#wrapper { 
+	margin: 0 auto;
+	background-color: #1FC657;
+	padding: 10px;
+}
+table {
+	margin: 0 auto;
+	height: 400px;
+	border: 1px solid black; 
+	border-radius: 20px;
+	border-spacing: 0px;
+	font-family: sans-serif;
+	overflow:hidden;
+}
+	td {
+		padding: 5px;
+		border: 1px solid black; 
+	}
+	thead {
+		border-top-left-radius: 20px;
+		border-top-right-radius: 20px;
+		font-size: 1.5em;
+		font-weight: bold;
+	}
+	thead td {
+		background-color: #EDD62D;
+	}
+	tbody tr:nth-child(2n+1) td {
+		background-color: #FFF;
+	}
+	tbody tr:nth-child(2n) td {
+		background-color: #D4D5D6;
+	}
+	tbody tr:last-child {
+		border-bottom-left-radius: 20px;
+		border-bottom-right-radius: 20px;
+		overflow:hidden;
+	}
+				
+.left-aligned {
+	text-align: left;
+	width: 170px;
+}
+.right-aligned {
+	text-align: right;
+	width: 170px;
+}
+.center-aligned {
+	text-align: center;
+}
+.red-text {
+	color: red;
+}
+.green-text {
+	color: green;
+}
+.button-green {
+	margin: 5px;
+	background-color: green;
+	color: white;
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+}
+.button-red {
+	margin: 5px;
+	background-color: red;
+	color: white;
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+}
+#Brazil:after {
+	content: url('../img/Flag_Brazil.png');
+	padding: 5px;
+}
+#Mexico:before {
+	content: url('../img/Flag_Mexico.png');
+	padding: 5px;
+}
+#Spain:after {
+	content: url('../img/Flag_Spain.png');
+	padding: 5px;
+}
+#Netherlands:before {
+	content: url('../img/Flag_Netherlands.png');
+	padding: 5px;
+}
+#Italy:after {
+	content: url('../img/Flag_Italy.png');
+	padding: 5px;
+}
+#England:before {
+	content: url('../img/Flag_England.png');
+	padding: 5px;
+}
+#Argentina:after {
+	content: url('../img/Flag_Argentina.png');
+	padding: 5px;
+}
+#Bosna:before {
+	content: url('../img/Flag_Bosna.png');
+	padding: 5px;
+}
+#Germany:after {
+	content: url('../img/Flag_Germany.png');
+	padding: 5px;
+}
+#Portugal:before {
+	content: url('../img/Flag_Portugal.png');
+	padding: 5px;
+}

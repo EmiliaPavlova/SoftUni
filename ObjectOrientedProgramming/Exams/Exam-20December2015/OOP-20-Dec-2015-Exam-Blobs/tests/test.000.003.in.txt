@@ -1,0 +1,10 @@
+report-events
+create Petya 20 10 Aggressive PutridFart
+create Emi 30 15 Inflated PutridFart
+attack Petya Emi
+attack Petya Emi
+attack Emi Petya
+attack Emi Petya
+pass
+status
+drop

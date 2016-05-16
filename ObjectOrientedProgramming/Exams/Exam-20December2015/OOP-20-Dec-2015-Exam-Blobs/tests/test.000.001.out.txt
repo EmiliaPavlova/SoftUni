@@ -1,0 +1,12 @@
+Blob Cenko: 50 HP, 15 Damage
+Blob Boko: 25 HP, 40 Damage
+Blob Cenko: 40 HP, 15 Damage
+Blob Boko: 25 HP, 35 Damage
+Blob Cenko: 30 HP, 15 Damage
+Blob Boko: 25 HP, 30 Damage
+Blob Cenko: 20 HP, 15 Damage
+Blob Boko: 25 HP, 25 Damage
+Blob Cenko: 10 HP, 15 Damage
+Blob Boko: 25 HP, 20 Damage
+Blob Cenko KILLED
+Blob Boko: 25 HP, 20 Damage

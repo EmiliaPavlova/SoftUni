@@ -1,0 +1,4 @@
+Blob Fiki: 95 HP, 5 Damage
+Blob Jorjo: 20 HP, 25 Damage
+Blob Fiki: 33 HP, 5 Damage
+Blob Jorjo: 60 HP, 25 Damage

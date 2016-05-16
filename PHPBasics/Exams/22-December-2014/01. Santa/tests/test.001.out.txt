@@ -1,0 +1,1 @@
+﻿$giftOfGeorgi-Georgiev = $[wasChildGood] ? 'Brand new BMW' : 'What has a foot but no legs?';

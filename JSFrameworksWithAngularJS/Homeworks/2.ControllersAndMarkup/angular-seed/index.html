@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en" ng-app="myApp" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="en" ng-app="myApp" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="en" ng-app="myApp" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" ng-app="myApp" class="no-js"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>My AngularJS App</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="app/bower_components/html5-boilerplate/dist/css/normalize.css">
+  <link rel="stylesheet" href="app/bower_components/html5-boilerplate/dist/css/main.css">
+  <link rel="stylesheet" href="app/app.css">
+  <script src="app/bower_components/html5-boilerplate/dist/js/vendor/modernizr-2.8.3.min.js"></script>
+</head>
+<body ng-app="Video" ng-controller="VideoController">
+  <h1>Videos:</h1>
+
+  <p>Filter by:</p>
+  <select ng-model="filterByCategory">
+    <option ng-repeat="category in filterCategory" value="{{category}}">{{category}}</option>
+  </select>
+  <select ng-model="filterByDate">
+    <option ng-repeat="date in filterDate" value="{{date}}">{{date | date: "dd/M/yyyy"}}</option>
+  </select>
+  <select ng-model="filterBySubtitles">
+    <option value="true">Yes</option>
+    <option value="false">No</option>
+  </select>
+
+  <p>Sort by:</p>
+  <select ng-model="order">
+    <option value="title">Title</option>
+    <option value="length">Length</option>
+    <option value="date">Date</option>
+    <option value="likes">Likes</option>
+  </select>
+
+  <div ng-repeat="video in videos  | filter: {category: filterByCategory, dateAsString: filterByDate, haveSubtitles: filterBySubtitles } | orderBy: order" class="video">
+      <h2>Title: {{video.title}}</h2>
+      <img src="" ng-src="{{video.pictureUrl}}"/>
+      <p>Length: {{video.length}}</p>
+      <p>Category: {{video.category}}</p>
+      <p>Subscribers: {{video.subscribers}}</p>
+      <p>Date: {{video.date | date: "dd/M/yyyy"}}</p>
+      <p>Subtitles: {{subtitles(video.haveSubtitles)}}</p>
+      <p><strong>Comments:</strong></p>
+      <ul>
+          <li ng-repeat="comment in video.comments">
+              <h3>Username: {{comment.username}}</h3>
+              <p>Content: {{comment.content}}</p>
+              <p>Date: {{comment.date | date: "dd/M/yyyy"}}</p>
+              <p>Likes: {{comment.likes}}</p>
+              <p>Website: <a href="{{comment.websiteUrl}}">{{comment.websiteUrl}}</a></p>
+          </li>
+      </ul>
+  </div>
+  <button ng-click="addVideo()">{{buttonName}}</button>
+
+  <form ng-hide="isHidden" name="videoForm">
+      Title:<input type="text" ng-model="video.title"></br>
+      Picture:<input type="text" ng-model="video.pictureUrl"></br>
+      Length:<input type="text" ng-model="video.length"></br>
+      Category:<input type="text" ng-model="video.category"></br>
+      Subscribers:<input type="text" ng-model="video.Subscribers"></br>
+      Date:<input type="date" ng-model="video.date"></br>
+      Subtitles:<input type="text" ng-model="video.haveSubtitles"></br>
+      <button ng-click="formSubmit(video)">Submit</button>
+  </form>
+
+  <script src="app/bower_components/angular/angular.js"></script>
+  <script src="app/bower_components/angular-route/angular-route.js"></script>
+  <script src="app/app.js"></script>
+  <script src="app/controllers.js"></script>
+  <script src="app/videoData.js"></script>
+  <script src="app/components/version/version.js"></script>
+  <script src="app/components/version/version-directive.js"></script>
+  <script src="app/components/version/interpolate-filter.js"></script>
+</body>
+</html>

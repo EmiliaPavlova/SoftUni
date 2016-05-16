@@ -1,0 +1,39 @@
+///////////1
+--The canvas -> the way to draw in the browser (HTML5 specificaion)
+-canvas supports 2d, 3d and webgl drawing
+
+--The Shapes -> canvas can draw all kind of shapes
+-Rects
+*fillRect(x,y,width,height)
+*strokeRect(x,y,width,height)
+
+-Paths -> curves, elipses, circles -> it's a set of connected dots
+*beginPath() -> starts path
+*moveTo(x,y) -> changes the position of the path marker
+*lineTo(x,y) -> draws a straight line from the position to the pos(x,y)
+*fill()/stroke() -> fills or strokes the path
+/* When fill() or stroke() is reached, all dots are connected*/
+DEMO:// -> draw a rect with dots
+
+-Elipses 
+*arc(x,y,radius,from,to,counterclockwise) -> draws a circle with center x,y, from pos 'from' to 'to'
+DEMO:// -> draw a sector
+
+-Text
+*fillText(text,x,y)
+*strokeText(text,x,y)
+->props:
+*context.font -> sets the font of the text
+*context.fillStyle -> the fill color of the text
+*context.strokeStyle -> the stroke color of the text
+DEMO:// -> draw softuni text
+
+--Canvas transformations
+-Scaling
+*context.scale(dx,dy) -> scales all x and y values with the given differential x and y values
+DEMO:// -> scaling
+
+
+-Rotation
+*context.rotate(d) -> rotates the whole canvas with d degrees(in radians)
+DEMO:// -> rotation

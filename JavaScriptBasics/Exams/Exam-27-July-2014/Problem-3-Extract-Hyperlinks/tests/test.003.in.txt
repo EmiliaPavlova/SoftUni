@@ -1,0 +1,10 @@
+<link rel="icon" href="data:image/png,%89PNG%0D%0A%1A%0A%00%00%00%0DIHDR%00%00%00%10%00%00%00%10%08%02%00%00%00%90%91h6%00%00%00%19IDAT(%91c%0C%DD%10%C5%40%0A%60%22I%F5%A8%86Q%0DCJ%03%00dy%01%7F%0C%9F0%7D%00%00%00%00IEND%AEB%60%82" type="image/png" />
+<h1 id="title">
+	<a href="http://www.w3.org/"><img alt="W3C" width="110" height="61" id="logo" src="./images/w3c.png" /></a>
+	<a href="./"><span>Markup Validation Service</span></a>
+</h1>
+<ul class="navbar" id="jumpbar">
+	<li><strong>Jump To:</strong></li>
+	<li><a href="#preparse_warnings">Notes and Potential Issues</a></li>
+	<li><a title="Information on validation, Icons" href="#congrats">Congratulations &middot; Icons</a></li>
+</ul>

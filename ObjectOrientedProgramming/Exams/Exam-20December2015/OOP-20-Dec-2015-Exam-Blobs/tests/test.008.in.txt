@@ -1,0 +1,11 @@
+create Chocho 97 35 Aggressive PutridFart
+create Maria 90 10 Aggressive Blobplode
+attack Maria Chocho
+status
+status
+attack Chocho Maria
+status
+attack Chocho Maria
+status
+drop
+--Tests PutridFart attack damage + 2x Aggressive behavior

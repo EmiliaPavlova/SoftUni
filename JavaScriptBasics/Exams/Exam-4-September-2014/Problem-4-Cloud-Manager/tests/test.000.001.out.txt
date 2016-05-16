@@ -1,0 +1,1 @@
+{".bat":{"files":["trojanStopper","winBlock"],"memory":"24.00"},".exe":{"files":["kindleInstaller","sentinel","skype"],"memory":"180.00"},".msi":{"files":["setup","zoomIt"],"memory":"36.40"}}

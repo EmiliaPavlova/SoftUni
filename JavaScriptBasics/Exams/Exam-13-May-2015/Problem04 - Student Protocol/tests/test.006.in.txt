@@ -1,0 +1,9 @@
+Jimmy Kimmel - JavaScript : 500
+Jimmy Fallon - JavaScript : 1000
+Jimmy Kimmel - JavaScript : 700
+Jimmy Fallon - JavaScript : 600
+Jimmy Kimmel - JavaScript : 401
+Jimmy Fallon - JavaScript : 402
+Jimmy Fallon - JavaScript : 200
+Jimmy Kimmel - JavaScript : 200
+Jimmy Fallon - JavaScript : 1

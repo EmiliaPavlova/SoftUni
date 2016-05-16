@@ -1,0 +1,17 @@
+create Cenko 53 55 Aggressive Blobplode
+create Maria 90 20 Inflated Blobplode
+status
+attack Cenko Maria
+status
+status
+pass
+status
+status
+status
+status
+status
+status
+status
+status
+drop
+--Tests Blobplode attack damage + Inflated behavior

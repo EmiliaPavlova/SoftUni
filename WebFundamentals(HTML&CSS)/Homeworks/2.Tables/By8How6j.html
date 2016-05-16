@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- TODO: Move to bundle if this really works -->
+    <link href="/Content/reset.css" rel="stylesheet" />
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700&amp;subset=latin,cyrillic" rel="stylesheet" type="text/css">
+
+    
+
+
+    <title>Начало - Софтуерен университет</title>
+
+    <meta name="description" content="Software University" /> 
+</head>
+
+<body>
+    <header class="navbar-wrapper">
+        <div class="container">
+            <div class="navbar navbar-static-top" role="navigation">
+                <div class="col-sm-12">
+                    <nav class="navbar-header">
+                        <a class="navbar-brand" href="/"><span>Software University</span></a>
+                    </nav>
+
+                    <div class="menuContainer">
+                        <nav class="navContainer">
+                            <ul class="language-picker pull-right">
+                                <li id="bg">
+                                    <a href="#">
+                                        <span class="language lang bg" data-lang="bg">BG</span>
+                                    </a>
+                                </li>
+                                <li id="en">
+                                    <a href="#">
+                                        <span class="language lang en" data-lang="en">EN</span>
+                                    </a>
+                                </li>
+                            </ul>
+
+                            <div class="logIn clearfix">
+                                    <div id="search" class="searchBar">
+                                        <form id="search-form" method="GET" autocomplete="off" action="/Search/Results" class="">
+                                            <input type="text" maxlength="100"
+                                                   placeholder="Търси..." name="query" class="searchInput"
+                                                   id="search-input" data-content="Прекалено къс израз">
+                                            <button type="submit" class="searchButton"></button>
+                                        </form>
+                                    </div>
+
+                                <div class="profileBox clearfix">
+                                    
+
+
+    <div id="personalPicContainer">
+        <img width="80" id="personalPicture" src="/users/profile/ShowAvatar/354ed0db-ba3d-4bf5-8eec-2716f5203550" alt="Emilu avatar" />
+    </div>
+<form action="/account/logoff" class="accountForm" id="logoutForm" method="post"><input name="__RequestVerificationToken" type="hidden" value="F_tfBgL6DLfWJe2jld-3h4eu3NkLSqt7jQpyvWffbJLWi3FpOgT3n-dQiKsDMCtFQSwDCRdgJL7uESzZiPqZK2WeHxI-31YCW96edux8ACL66n_cDd9frS0ar9gXuKg17vT5dw2" />        <ul id="notificationsTab">
+            <li id="notifications-tab">
+                <a id="notifications" href="#">
+                    <span class="unread-notifications-count">0</span><span class="notifications"></span>
+                </a>
+            </li>
+
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+
+                    Emilu
+                    <strong class="caret"></strong>
+                </a>
+
+                <ul class="dropdown-menu userDropdown" id="dropdownAdmin">
+                    <li>
+                        <a title="Profile" class="custom-dropdown-header" href="/Users/Profile/Show/"><span class="glyphicon glyphicon-user"></span>&nbsp;Потребителски панел</a>
+                    </li>
+                    <li>
+                        <a title="Manage" href="/Account/Manage/"><span class="glyphicon glyphicon-cog"></span>&nbsp;Управление на акаунта</a>
+                    </li>
+                    <li>
+                        <a title="Edit profile" href="/Users/Profile/Edit/"><span class="glyphicon glyphicon-pencil"></span>&nbsp;Редактиране на профила</a>
+                    </li>
+                    <li><a href="javascript:document.getElementById('logoutForm').submit()"><span class="glyphicon glyphicon-log-out"></span>&nbsp;Изход</a></li>
+                </ul>
+            </li>
+        </ul>
+</form>
+                                </div>
+                            </div><!-- /logIn -->
+
+                            <ul class="nav navbar-nav navix" style="margin-left: -1%;">
+                                
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                        Софтуерен университет <strong class="caret"></strong>
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="/about">За университета</a></li>
+                                        <li><a href="/curriculum">Учебен план</a></li>
+                                        <li><a href="/trainers">Преподаватели</a></li>
+                                    </ul>
+                                </li>
+
+
+<li class="dropdown">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+        Активни обучения
+        <strong class="caret"></strong>
+    </a>
+
+    <ul class="dropdown-menu">
+            <li>
+                <a href="/trainings/courses/list/2" class="custom-dropdown-header">Ниво 0</a>
+            </li>
+            <li>
+                <a href="/trainings/courses/list/3" class="custom-dropdown-header">Ниво 1</a>
+            </li>
+            <li>
+                <a href="/trainings/courses/list/4" class="custom-dropdown-header">Ниво 2</a>
+            </li>
+    </ul>
+</li>
+
+
+                                <li><a href="/companies">Работа</a></li>
+                                <li><a href="/university/companies/partners">Партньори</a></li>
+                                <li><a href="/forum">Форум</a></li>
+                                <li><a href="/contacts">Контакти</a></li>
+
+
+                            </ul><!-- /nav navbar-nav navix -->
+
+                        </nav><!-- /navbar-collapse collapse -->
+                        <a href="javascript:;" id="toggleNavigation">
+                            <svg x="0px" y="0px" width="35px" height="25px" viewBox="0 0 35 25" enable-background="new 0 0 35 25" xml:space="preserve">
+                            <defs></defs>
+                            <line id="topLine" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="2.5" y1="2.5" x2="32.5" y2="2.5" />
+                            <line id="middleLine" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="2.5" y1="12.5" x2="32.5" y2="12.5" />
+                            <line id="bottomLine" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="2.5" y1="22.5" x2="32.5" y2="22.5" />
+                                </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+</body>
+</html>
